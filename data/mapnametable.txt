@@ -1,0 +1,1168 @@
+//-- - Last updated 2015-01-30 5:29 PM
+// ep16.1 Banquet for Hero + Prontera Renewal
+1@mir.rsw#Awareness of the room#
+2@mir.rsw#Awareness of the room#
+1@sthb.rsw#Inside Sky Fortress#
+1@sthc.rsw#Secret Chamber of Sky Fortress#
+1@sthd.rsw#Sky Fortress Top Floor#
+
+prt_cas.rsw#Prontera Central Palace#
+prt_cas_q.rsw#Prontera Imperial Palace#
+prt_prison.rsw#Prontera Dungeon#
+prt_lib.rsw#Memorial of Royal Family#
+prt_lib_q.rsw#Memorial of Past Royal Family#
+prt_q.rsw#Invaded Prontera#
+prt_pri00.rsw#Prontera Prison#
+
+
+// Clan MD
+1@ffp.rsw#Remnant Hideout#
+
+// Infinite MD
+1@infi.rsw#Infinite Space#
+
+// Para Market
+paramk.rsw#Para Market#
+
+// ep15.2 Memory Record
+verus01.rsw#Laboratory-OPTATIO#
+verus02.rsw#Research Building-WISH#
+un_bk_q.rsw#Underground Bunker#
+un_bunker.rsw#Underground Bunker#
+un_myst.rsw#Underground Tunnel#
+1@uns.rsw#The last room#
+1@lab.rsw#Central Laboratory#
+
+// New Biolabs Dungeon
+lhz_dun_n.rsw#Tomb of the fallen#
+
+// Trails of the 3 Heroes
+1@glast.rsw#Past Glastheim#
+1@air1.rsw#비공정#
+1@air2.rsw#비공정#
+
+// Rebellion Job Change Map
+job_gun.rsw#Release Shelter#
+
+// ep15.1
+ver_eju.rsw#Ruins of Los yupe#
+ver_tunn.rsw#Behrooz outside the tunnel#
+verus04.rsw#Behrooz excavations#
+verus03.rsw#Behrooz Central Square#
+
+1@mcd.rsw#Charleston factory#
+
+//Operations Team Event
+e_hugel.rsw#Invaded Hugel#
+
+
+c_tower2_.rsw#Clock Tower, 2nd Floor#
+c_tower3_.rsw#Clock Tower, 3nd Floor#
+
+silk_lair.rsw#Pythons Lair#
+
+moro_vol.rsw#Fire Basin#
+moro_cav.rsw#Fire Cave#
+1@dth1.rsw#Biohseu Island#
+1@dth2.rsw#Biohseu Island#
+1@dth3.rsw#Biohseu Island#
+1@rev.rsw#Morse Cave#
+1@xm_d.rsw#Horror Toy Factory#
+1@eom.rsw#Damascene Ago#
+1@jtb.rsw#Nightmares of the Jitterbug#
+
+dali02.rsw#Dimensional Crack#
+1@face.rsw#Worm's Nest Face#
+1@sara.rsw#Memories of Sara#
+dali.rsw#Dimensional Crack#
+1@tnm1.rsw#Top Floor of Damascene#
+1@tnm2.rsw#Top Floor of Devil Tower#
+1@tnm3.rsw#Morroc Castle Underground#
+1@ge_st.rsw#Geffen Magic Tournament#
+1@gef.rsw#Geffen Magic Tournament#
+1@gef_in.rsw#Geffen Magic Tournament#
+1@spa.rsw#Specter of Palace#
+
+1@def01.rsw#Wave Dungeon - Forest#
+1@def02.rsw#Wave Dungeon - Sky#
+1@def03.rsw#Wave Dungeon - Lava#
+
+evt_bomb.rsw#Labyrinth Events#
+
+gl_cas02_.rsw#Corridor 2nd Floor#
+gl_chyard_.rsw#Monastery Cemetery#
+2@gl_k.rsw#Old Templar 2nd Floor#
+1@gl_k.rsw#Old Templar 1st Floor#
+
+te_prt_gld.rsw#글로리아#
+te_prtcas01.rsw#게오보르그#
+te_prtcas02.rsw#리하르트#
+te_prtcas03.rsw#위그너#
+te_prtcas04.rsw#하이네#
+te_prtcas05.rsw#네리우스#
+teg_dun01.rsw#길드 지하 던전#
+te_alde_gld.rsw#카프라가텐#
+te_aldecas01.rsw#글라리스#
+te_aldecas02.rsw#디포르테#
+te_aldecas03.rsw#소린#
+te_aldecas04.rsw#비닛#
+te_aldecas05.rsw#더블류#
+teg_dun02.rsw#길드 지하 던전#
+
+prt_fild08d.rsw#Prontera Field#
+prt_fild08c.rsw#Prontera Field#
+prt_fild08b.rsw#Prontera Field#
+prt_fild08a.rsw#Prontera Field#
+
+iz_ac01_d.rsw#Academy 1st Floor#
+iz_ac02_d.rsw#Academy 2nd Floor#
+iz_ac01_c.rsw#Academy 1st Floor#
+iz_ac02_c.rsw#Academy 2nd Floor#
+iz_ac01_b.rsw#Academy 1st Floor#
+iz_ac02_b.rsw#Academy 2nd Floor#
+iz_ac01_a.rsw#Academy 1st Floor#
+iz_ac02_a.rsw#Academy 2nd Floor#
+
+izlude_d.rsw#Izlude Town#
+izlude_c.rsw#Izlude Town#
+izlude_b.rsw#Izlude Town#
+izlude_a.rsw#Izlude Town#
+
+iz_int.rsw#Intro#
+iz_int01.rsw#Intro#
+iz_int02.rsw#Intro#
+iz_int03.rsw#Intro#
+iz_int04.rsw#Intro#
+iz_ac01.rsw#Academy 1st Floor#
+iz_ac02.rsw#Academy 2nd Floor#
+iz_ng01.rsw#Ninja tutorial map#
+treasure_n1.rsw#이즈루드 난파선 1층#
+treasure_n2.rsw#이즈루드 난파선 2층#
+
+moc_prydn1.rsw#Morocc Nightmare Pyramids#
+moc_prydn2.rsw#Morocc Nightmare Pyramids#
+
+eclage.rsw#Eclage, Forestic Village#
+ecl_fild01.rsw#Eclage Field 01#
+ecl_in01.rsw#Eclage Indoor 01#
+ecl_in02.rsw#Eclage Indoor 02#
+ecl_in03.rsw#Eclage Indoor 03#
+ecl_in04.rsw#Eclage Indoor 04#
+1@ecl.rsw#Eclage Indoor#
+ecl_tdun01.rsw#Eclage Dungeon 01#
+ecl_tdun02.rsw#Eclage Dungeon 02#
+ecl_tdun03.rsw#Eclage Dungeon 03#
+ecl_tdun04.rsw#Eclage Dungeon 04#
+ecl_hub01.rsw#Eclage Hub 01#
+que_avan01.rsw#Eclage Indoor#
+
+
+malaya.rsw#Port Malaya#
+ma_fild01.rsw#Baryo Mahiwaga#
+ma_fild02.rsw#Forest#
+ma_scene01.rsw#Bakonawa Lake#
+ma_in01.rsw#Inside of Malaya#
+ma_dun01.rsw#Bangungot Hospital 1F#
+1@ma_h.rsw#Bangungot Hospital 2F#
+1@ma_c.rsw#Buwaya Cave#
+1@ma_b.rsw#Bakonawa Hideout#
+ma_zif01.rsw#Inside of Jeepney#
+ma_zif02.rsw#Inside of Jeepney#
+ma_zif03.rsw#Inside of Jeepney#
+ma_zif04.rsw#Inside of Jeepney#
+ma_zif05.rsw#Inside of Jeepney#
+ma_zif06.rsw#Inside of Jeepney#
+ma_zif07.rsw#Inside of Jeepney#
+ma_zif08.rsw#Inside of Jeepney#
+ma_zif09.rsw#Inside of Jeepney#
+job_ko.rsw#Hidden Place#
+
+gld_dun01_2.rsw#Baldur Guild Dungeon 2#
+gld_dun02_2.rsw#Luina Guild Dungeon 2#
+gld_dun03_2.rsw#Valkyrie Guild Dungeon 2#
+gld_dun04_2.rsw#Britoniah Guild Dungeon 2#
+gld2_ald.rsw#Al De Baran Guild Dungeon#
+gld2_gef.rsw#Geffen Guild Dungeon#
+gld2_pay.rsw#Payon Guild Dungeon#
+gld2_prt.rsw#Prontera Guild Dungeon#
+
+lhz_dun04.rsw#Lighthalzen Biolab 4#
+que_lhz.rsw#Lighthalzen Indoor#
+1@lhz.rsw#Lighthalzen Indoor#
+iz_dun05.rsw#Undersea Tunnel F6#
+malangdo.rsw#Malangdo#
+mal_in01.rsw#Malangdo Inside#
+mal_in02.rsw#Inside the Ship#
+mal_dun01.rsw#Starry Coral Area#
+1@cash.rsw#Octopus Cave#
+1@pump.rsw#Culvert#
+2@pump.rsw#Culvert#
+evt_hello.rsw#Dead Angel's landing#
+dic_dun03.rsw#Scaraba Hole - Nightmare Mode#
+que_house_s.rsw#Strange House#
+dewata.rsw#Dewata#
+dew_in01.rsw#Inside Dewata#
+dew_fild01.rsw#Dewata Field (Tribal Village)#
+dew_dun01.rsw#Volcanic Island of Krakatoa#
+dew_dun02.rsw#Tina Grace Cave#
+1@mist.rsw#The Hazy Maze Forest#
+mora.rsw#Mora Village#
+bif_fild01.rsw#Bifrost Bridge#
+bif_fild02.rsw#Bifrost Bridge#
+dicastes01.rsw#El Dicastes, the Sapha Capital#
+dicastes02.rsw#Dicastes Diel#
+dic_in01.rsw#Inside of El Dicastes#
+dic_fild01.rsw#Outskirts of Kamidal Mountain#
+dic_fild02.rsw#Outskirts of Kamidal Mountain#
+dic_dun01.rsw#Kamidal Tunnel#
+dic_dun02.rsw#Scaraba Hall#
+job3_gen01.rsw#Geneticist Lab#
+s_atelier.rsw#Shadow Workshop#
+brasilis.rsw#Brasilis#
+bra_in01.rsw#Inside Brasilis#
+bra_fild01.rsw#Brasilis Field#
+bra_dun01.rsw#Beyond the Waterfall#
+bra_dun02.rsw#Beyond the Waterfall#
+moc_para01.rsw#Inside of Paradise Group Building in Morroc#
+job3_arch01.rsw#Waiting room for Arch Bishop Job Change#
+job3_arch02.rsw#Odin Temple#
+job3_arch03.rsw#Waiting room for Arch Bishop Job Change#
+job3_guil01.rsw#Secret Tavern#
+job3_guil02.rsw#Inside the Old Warehouse#
+job3_guil03.rsw#An isolated mansion#
+job3_rang01.rsw#Waiting room for Ranger Job Change#
+job3_rang02.rsw#Test room for Ranger Job Change#
+job3_rune01.rsw#Inside of Rune Knight Templar#
+job3_rune02.rsw#Test room for Rune Knight Job Change#
+job3_rune03.rsw#Test room for Rune Knight Job Change#
+job3_war01.rsw#Test room for Warlock Job Change#
+job3_war02.rsw#Test room for Warlock Job Change#
+jupe_core2.rsw#The center of Juperos#
+1@nyd.rsw#Nidhoggr's Nest F1#
+2@nyd.rsw#Nidhoggr's Nest F2#
+nyd_dun01.rsw#Yggdrasil Root F1#
+nyd_dun02.rsw#Yggdrasil Root F2#
+manuk.rsw#Manuk#
+man_fild02.rsw#Manuk Field#
+man_in01.rsw#Inside Manuk#
+splendide.rsw#Splendide#
+spl_fild01.rsw#Splendide Field#
+spl_in01.rsw#Inside Splendide#
+spl_in02.rsw#Inside Splendide#
+bat_c01.rsw#Kreiger Von Midgard#
+bat_c02.rsw#Kreiger Von Midgard#
+bat_c03.rsw#Kreiger Von Midgard#
+mid_camp.rsw#Midgard Expedition Camp#
+mid_campin.rsw#Inside Midgard Expedition Camp#
+man_fild01.rsw#Manuk Field#
+man_fild03.rsw#Manuk Field#
+spl_fild02.rsw#Splendide Field#
+spl_fild03.rsw#Splendide Field#
+moc_fild22b.rsw#Dimensional Gorge#
+que_dan01.rsw#Hugel Field#
+que_dan02.rsw#Inside of the Abandoned House in Yuno#
+schg_que01.rsw#Morestone Prairie#
+schg_dun01.rsw#Schwartzvald Guild Dungeon#
+arug_que01.rsw#Morestone Prairie#
+arug_dun01.rsw#Arunafeltz Guild Dungeon#
+1@orcs.rsw#Subterranean Orc Cave F1#
+2@orcs.rsw#Subterranean Orc Cave F2#
+1@cata.rsw#Catacombs#
+2@cata.rsw#Sealed Shrine#
+e_tower.rsw#Misty Island#
+1@tower.rsw#Endless Tower#
+2@tower.rsw#Endless Tower#
+3@tower.rsw#Endless Tower#
+4@tower.rsw#Endless Tower#
+5@tower.rsw#Endless Tower#
+6@tower.rsw#Endless Tower (Unknown Area)#
+bat_room.rsw#Battlegrounds Waiting Room#
+bat_a01.rsw#Tierra Valley#
+bat_a02.rsw#Tierra Valley#
+bat_b01.rsw#Flavian#
+bat_b02.rsw#Flavian#
+que_qsch01.rsw#Fallacious Okolnir#
+que_qsch02.rsw#Fallacious Okolnir#
+que_qsch03.rsw#Fallacious Okolnir#
+que_qsch04.rsw#Fallacious Okolnir#
+que_qsch05.rsw#Fallacious Okolnir#
+que_qaru01.rsw#Fallacious Okolnir#
+que_qaru02.rsw#Fallacious Okolnir#
+que_qaru03.rsw#Fallacious Okolnir#
+que_qaru04.rsw#Fallacious Okolnir#
+que_qaru05.rsw#Fallacious Okolnir#
+arug_cas01.rsw#Valfreyja Guild#
+arug_cas02.rsw#Valfreyja Guild#
+arug_cas03.rsw#Valfreyja Guild#
+arug_cas04.rsw#Valfreyja Guild#
+arug_cas05.rsw#Valfreyja Guild#
+aru_gld.rsw#Valfreyja#
+moscovia.rsw#Moscovia#
+mosk_in.rsw#Dalam Moscovia#
+mosk_ship.rsw#Kapal#
+mosk_fild01.rsw#Pulau Ikan Paus#
+mosk_fild02.rsw#Hutan Moscovia#
+mosk_dun01.rsw#Hutan Les#
+mosk_dun02.rsw#Hutan Temny#
+mosk_dun03.rsw#Hutan Dremuci#
+mosk_que.rsw#Gua Marozka#
+schg_cas01.rsw#Guild Nidhoggur#
+schg_cas02.rsw#Guild Nidhoggur#
+schg_cas03.rsw#Guild Nidhoggur#
+schg_cas04.rsw#Guild Nidhoggur#
+schg_cas05.rsw#Guild Nidhoggur#
+sch_gld.rsw#Nidhoggur#
+cave.rsw#Desa Gua#
+moc_fild20.rsw#Padang Pasir Sograt - Karantina Penjaga Benua#
+moc_fild21.rsw#Jurang Dimensi#
+moc_fild22.rsw#Jurang Dimensi#
+bossnia_01.rsw#Bossnia#
+bossnia_02.rsw#Bossnia#
+bossnia_03.rsw#Bossnia#
+bossnia_04.rsw#Bossnia#
+itemmall.rsw#Toko Kafra#
+poring_w01.rsw#Ruang Tunggu Perang Poring#
+poring_w02.rsw#Pasar Perang Poring#
+nameless_i.rsw#Pulau Tak Bernama#
+nameless_n.rsw#Pulau Tak Bernama#
+nameless_in.rsw#Dalam Pulau Tak Bernama#
+abbey01.rsw#Dungeon Biara Terkutuk Area 1#
+abbey02.rsw#Dungeon Biara Terkutuk Area 2#
+abbey03.rsw#Dungeon Biara Terkutuk Area 3#
+que_temsky.rsw#Ruangan Uskup (Taman Langit)#
+z_agit.rsw#Tempat Persembunyian Gang Z#
+veins.rsw#Veins, Desa Ngarai#
+ve_in.rsw#Dalam Veins#
+ve_in02.rsw#Dalam Veins#
+ve_fild01.rsw#Daratan Veins#
+ve_fild02.rsw#Daratan Veins#
+ve_fild03.rsw#Daratan Veins#
+ve_fild04.rsw#Daratan Veins#
+ve_fild05.rsw#Daratan Veins#
+ve_fild06.rsw#Daratan Veins#
+ve_fild07.rsw#Daratan Veins#
+thor_camp.rsw#Kamp Gunung Berapi Thor#
+que_thor.rsw#Dungeon Gunung Berapi Thor#
+thor_v01.rsw#Dungeon Gunung Berapi Thor Area 1#
+thor_v02.rsw#Dungeon Gunung Berapi Thor Area 2#
+thor_v03.rsw#Dungeon Gunung Berapi Thor Area 3#
+06guild_r.rsw#Ruang Tunggu Arena Guild#
+06guild_01.rsw#Arena Guild#
+06guild_02.rsw#Arena Guild#
+06guild_03.rsw#Arena Guild#
+06guild_04.rsw#Arena Guild#
+06guild_05.rsw#Arena Guild#
+06guild_06.rsw#Arena Guild#
+06guild_07.rsw#Arena Guild#
+06guild_08.rsw#Arena Guild#
+rachel.rsw#Rachel, Ibukota Arunafelz#
+ra_in01.rsw#Dalam Rachel#
+ra_temple.rsw#Kuil Agung Freya (Sesilmir)#
+ra_temin.rsw#Dalam Tempat Suci Rachel#
+que_rachel.rsw#Dalam Kuil Freya#
+ra_temsky.rsw#Ruangan Uskup (Taman Langit)#
+ra_fild01.rsw#Padang Rumput Audumra#
+ra_fild02.rsw#Jurang Oz#
+ra_fild03.rsw#Daratan Ida#
+ra_fild04.rsw#Padang Rumput Audumra#
+ra_fild05.rsw#Padang Rumput Audumra#
+ra_fild06.rsw#Portus Luna#
+ra_fild07.rsw#Jurang Oz#
+ra_fild08.rsw#Daratan Ida#
+ra_fild09.rsw#Padang Rumput Audumra#
+ra_fild10.rsw#Jurang Oz#
+ra_fild11.rsw#Daratan Ida#
+ra_fild12.rsw#Daratan Ida#
+ra_fild13.rsw#Pantai Air Mata#
+ra_san01.rsw#Halaman Keramat Freya Area 1#
+ra_san02.rsw#Halaman Keramat Freya Area 2#
+ra_san03.rsw#Halaman Keramat Freya Area 3#
+ra_san04.rsw#Halaman Keramat Freya Area 4#
+ra_san05.rsw#Halaman Keramat Freya Area 5#
+ice_dun01.rsw#Gua Es Area 1#
+ice_dun02.rsw#Gua Es Area 2#
+ice_dun03.rsw#Gua Es Area 3#
+ice_dun04.rsw#Gua Es Area 4#
+hugel.rsw#Hugel, Kota taman Odin#
+hu_in01.rsw#Dalam Hugel#
+que_bingo.rsw#Ruangan Permainan Bingo#
+que_hugel.rsw#Ruang Bawah Tanah Kuil Odin#
+p_track01.rsw#Arena Balapan Monster#
+p_track02.rsw#Arena Balapan Monster#
+odin_tem01.rsw#Kuil Odin Area 1#
+odin_tem02.rsw#Kuil Odin Area 2#
+odin_tem03.rsw#Kuil Odin Area 3#
+hu_fild02.rsw#Daratan Hugel#
+hu_fild03.rsw#Daratan Hugel#
+hu_fild06.rsw#Daratan Hugel#
+ein_fild01.rsw#Daratan Einbroch#
+ein_fild02.rsw#Daratan Einbroch#
+ein_fild05.rsw#Daratan Einbroch#
+yuno_fild10.rsw#Daratan Yuno#
+kh_kiehl02.rsw#Kamar Kiehl#
+kh_kiehl01.rsw#Kamar Kiehl#
+kh_dun02.rsw#Pabrik Robot Area 2#
+kh_dun01.rsw#Pabrik Robot Area 1#
+kh_mansion.rsw#Mansion Kiel Hyre#
+kh_rossi.rsw#Mansion Rosimier#
+kh_school.rsw#Akademi Kiel Hyre#
+kh_vila.rsw#Villa Kiel Hyre#
+auction_01.rsw#Aula Pelelangan#
+auction_02.rsw#Aula Pelelangan#
+que_job01.rsw#Private Pub#
+abyss_01.rsw#Gua Bawah Tanah Danau Neraka Area 1#
+abyss_02.rsw#Gua Bawah Tanah Danau Neraka Area 2#
+abyss_03.rsw#Gua Bawah Tanah Danau Neraka Area 3#
+tha_t01.rsw#Menara Thanatos Area 1 - Tingkat Bawah#
+tha_t02.rsw#Menara Thanatos Area 2 - Tingkat Bawah#
+tha_t03.rsw#Menara Thanatos Area 3 - Tingkat Bawah#
+tha_t04.rsw#Menara Thanatos Area 4 - Tingkat Bawah#
+tha_t05.rsw#Menara Thanatos Area 5 - Tingkat Atas#
+tha_t06.rsw#Menara Thanatos Area 6 - Tingkat Atas#
+tha_t07.rsw#Menara Thanatos Area 7 - Tingkat Atas#
+tha_t08.rsw#Menara Thanatos Area 8 - Tingkat Atas#
+tha_t09.rsw#Menara Thanatos Area 9 - Tingkat Atas#
+tha_t10.rsw#Menara Thanatos Area 10 - Tingkat Atas#
+tha_t11.rsw#Menara Thanatos Area 11 - Tingkat Atas#
+tha_t12.rsw#Menara Thanatos Area 12 - Tingkat Atas#
+thana_step.rsw#Tangga Menara Thanatos - Tingkat Atas#
+thana_boss.rsw#Menara Thanatos - Area Boss#
+tha_scene01.rsw#Pintu Masuk Menara Thanatos#
+job_soul.rsw#Hatimu#
+job_star.rsw#Matahari, Bulan dan Bintang#
+hu_fild07.rsw#Dataran Hugel#
+hu_fild05.rsw#Danau Neraka#
+hu_fild04.rsw#Dataran Hugel#
+hu_fild01.rsw#Dataran Hugel#
+yuno_fild06.rsw#Dataran Tinggi El Mes#
+quiz_02.rsw#Quiz Arena#
+jupe_cave.rsw#Pintu Masuk Juperos Dungeon#
+juperos_01.rsw#Reruntuhan Juperos Area 1#
+juperos_02.rsw#Reruntuhan Juperos Area 2#
+jupe_gate.rsw#Juperos, Zona Terlarang#
+jupe_area1.rsw#Juperos, Zona Terlarang#
+jupe_area2.rsw#Juperos, Zona Terlarang#
+jupe_ele.rsw#Juperos Elevator#
+jupe_ele_r.rsw#Juperos Elevator#
+jupe_core.rsw#Pusat Juperos#
+lighthalzen.rsw#Lighthalzen, Negara-kota yang makmur#
+lhz_in01.rsw#Kantor Pusat Perusahaan Rekenber#
+lhz_in02.rsw#Dalam Lighthalzen#
+lhz_in03.rsw#Dalam Lighthalzen#
+lhz_cube.rsw#Ruang Dadu#
+lhz_que01.rsw#Dalam Lighthalzen#
+lhz_airport.rsw#Bandara Lighthalzen#
+airplane_01.rsw#Pesawat#
+lhz_dun01.rsw#Laboratorium Somatologi Area 1#
+lhz_dun02.rsw#Laboratorium Somatologi Area 2#
+lhz_dun03.rsw#Laboratorium Somatologi Area 3#
+lhz_fild01.rsw#Daratan Lighthalzen#
+yuno_pre.rsw#Gedung Pemerintahan Schwarzwald#
+y_airport.rsw#Bandara Yuno#
+lhz_fild03.rsw#Daratan Lighthalzen#
+lhz_fild02.rsw#Daratan Lighthalzen (Dataran Tinggi Malaikat Kematian)#
+ein_fild04.rsw#Daratan Einbroch#
+ein_fild03.rsw#Daratan Einbroch#
+ein_dun02.rsw#Mine Dungeon Lantai 2#
+ein_dun01.rsw#Mine Dungeon Lantai 1#
+ein_fild10.rsw#Daratan Einbroch#
+ein_fild09.rsw#Daratan Einbroch#
+ein_fild08.rsw#Daratan Einbroch#
+ein_fild07.rsw#Daratan Einbroch#
+ein_fild06.rsw#Daratan Einbroch#
+airplane.rsw#Pesawat#
+airport.rsw#Bandara#
+ein_in01.rsw#Dalam Einbroch#
+einbech.rsw#Einbech, Kota Pertambangan#
+einbroch.rsw#Einbroch, Kota Industri#
+turbo_e_16.rsw#Stadion Turbo Track#
+turbo_e_8.rsw#Stadion Turbo Track#
+turbo_e_4.rsw#Stadion Turbo Track#
+turbo_n_16.rsw#Stadion Turbo Track#
+turbo_n_8.rsw#Stadion Turbo Track#
+turbo_n_4.rsw#Stadion Turbo Track#
+turbo_n_1.rsw#Stadion Turbo Track#
+turbo_room.rsw#Ruang Tunggu#
+yuno_fild12.rsw#Pos Pemeriksaan Perbatasan#
+yuno_fild11.rsw#Daratan Yuno#
+yuno_fild09.rsw#Kamp Penjaga Schwarzwald#
+yuno_fild08.rsw#Akademi Kiel Hyre#
+yuno_fild07.rsw#Jurang El Mes (Lembah Neraka)#
+yuno_fild05.rsw#Dataran Tinggi El Mes#
+ayo_in02.rsw#Dalam Ayothaya#
+ayo_in01.rsw#Dalam Ayothaya#
+ayo_dun02.rsw#Dalam Labirin Kuil Kuno#
+ayo_dun01.rsw#Labirin Kuil Kuno#
+ayo_fild02.rsw#Daratan Ayothaya#
+ayo_fild01.rsw#Daratan Ayothaya#
+ayothaya.rsw#Ayothaya#
+que_god02.rsw#Quest Map#
+que_god01.rsw#Quest Map#
+quiz_test.rsw#Aula Quiz#
+gefenia04.rsw#Geffenia#
+gefenia03.rsw#Geffenia#
+gefenia02.rsw#Geffenia#
+gefenia01.rsw#Geffenia#
+himinn.rsw#Aula Valkyrie (Himinn)#
+jawaii_in.rsw#Dalam Jawaii#
+jawaii.rsw#Jawaii, Pulau Bulan Madu#
+lou_in02.rsw#Dalam Louyang#
+lou_in01.rsw#Dalam Louyang#
+lou_dun03.rsw#Istana ShenYang#
+lou_dun02.rsw#Di dalam Kuburan Keluarga Kerajaan#
+lou_dun01.rsw#Kuburan Keluarga Kerajaan#
+lou_fild01.rsw#Daratan Louyang#
+louyang.rsw#Louyang, Kota di Dataran Tinggi#
+valkyrie.rsw#Aula Valkyrie, Aula Kehormatan#
+nif_in.rsw#Dalam Niflheim#
+yggdrasil01.rsw#Mata Air Hvergelmir (Batang Pohon Yggdrasil)#
+nif_fild02.rsw#Lembah Gyoll#
+nif_fild01.rsw#Skellington, Desa Terpencil Niflheim#
+niflheim.rsw#Niflheim, Alam Kematian#
+um_dun01.rsw#Toko Tukang Kayu di Dalam Hutan#
+um_dun02.rsw#Jalan Menuju ke Dunia Lain#
+um_in.rsw#Dalam Umbala#
+um_fild01.rsw#Hutan Luluka#
+um_fild02.rsw#Hutan Humga#
+um_fild03.rsw#Rawa Kalala#
+um_fild04.rsw#Hutan Rimba Humga#
+umbala.rsw#Umbala, Desa Suku Wootan#
+sec_in01.rsw#Dalam Valhalla#
+sec_in02.rsw#Dalam Valhalla#
+sec_pri.rsw#Ruang Meditasi (Penjara Valhalla)#
+gon_test.rsw#Arena#
+gon_dun01.rsw#Kuil Ratu Gonryun#
+gon_dun02.rsw#Papan Permainan Petapa#
+gon_dun03.rsw#Arcadia#
+gon_fild01.rsw#Daratan Gonryun#
+gon_in.rsw#Dalam Gonryun#
+gonryun.rsw#Gonryun, Tanah para Petapa#
+ama_test.rsw#Tempat Berkesan Momotaro#
+ama_dun03.rsw#Kuil Bawah Tanah Amatsu#
+ama_dun02.rsw#Area Pertempuran Hutan Bawah Tanah#
+ama_dun01.rsw#Labirin Tatami#
+ama_fild01.rsw#Daratan Amatsu#
+ama_in02.rsw#Dalam Kastil Himezi#
+ama_in01.rsw#Dalam Amatsu#
+amatsu.rsw#Amatsu#
+alde_alche.rsw#Ruang Test Alchemist#
+yuno_in05.rsw#Pembangkit Tenaga Jantung Ymir#
+yuno_in04.rsw#Perpustakaan#
+job_duncer.rsw#Teater Comodo#
+job_sage.rsw#Ruang Test Sage#
+job_cru.rsw#Ruang Test Crusader#
+job_monk.rsw#Biara Saint Capitolina#
+monk_test.rsw#Biara Saint Capitolina#
+in_rogue.rsw#Dalam Perkumpulan Rogue#
+mag_dun02.rsw#Jalan Nogg Area 2#
+mag_dun01.rsw#Jalan Nogg Area 1#
+yuno_fild04.rsw#Dataran Tinggi El Mes#
+yuno_fild03.rsw#Dataran Tinggi El Mes#
+yuno_fild02.rsw#Villa Kiel Hyre#
+yuno_fild01.rsw#Pos Perbatasan#
+yuno_in03.rsw#Dalam Yuno#
+yuno_in02.rsw#Dalama Kastil Sage#
+yuno_in01.rsw#Dalama Yuno#
+yuno.rsw#Yuno, Ibukota Republik Schwarzwald#
+job_wiz.rsw#Ruang Test Wizard#
+job_prist.rsw#Ruang Test Priest#
+job_knt.rsw#Ruang Test Knight#
+job_hunte.rsw#Ruang Test Hunter#
+gld_dun04.rsw#Britoniah Guild Dungeon#
+gld_dun03.rsw#Valkyrie Guild Dungeon#
+gld_dun02.rsw#Luina Guild Dungeon#
+gld_dun01.rsw#Baldur Guild Dungeon#
+payg_cas05.rsw#Guild Danau Greenwood#
+payg_cas04.rsw#Guild Danau Greenwood#
+payg_cas03.rsw#Guild Danau Greenwood#
+payg_cas02.rsw#Guild Danau Greenwood#
+payg_cas01.rsw#Guild Danau Greenwood#
+pay_gld.rsw#Danau Greenwood#
+aldeg_cas05.rsw#Guild Luina#
+aldeg_cas04.rsw#Guild Luina#
+aldeg_cas03.rsw#Guild Luina#
+aldeg_cas02.rsw#Guild Luina#
+aldeg_cas01.rsw#Guild Luina#
+alde_gld.rsw#Luina, Kota Satelit Aldebaran#
+gefg_cas05.rsw#Guild Britoniah#
+gefg_cas04.rsw#Guild Britoniah#
+gefg_cas03.rsw#Guild Britoniah#
+gefg_cas02.rsw#Guild Britoniah#
+gefg_cas01.rsw#Guild Britoniah#
+prtg_cas05.rsw#Guild Valkyrie#
+prtg_cas04.rsw#Guild Valkyrie#
+prtg_cas03.rsw#Guild Valkyrie#
+prtg_cas02.rsw#Guild Valkyrie#
+prtg_cas01.rsw#Guild Valkyrie#
+prt_gld.rsw#Dunia Valkyrie#
+tur_dun01.rsw#Pulau Kura-kura#
+tur_dun02.rsw#Dungeon Pulau Kura-kura#
+tur_dun03.rsw#Desa Kura-kura#
+tur_dun04.rsw#Istana Kura-kura#
+tur_dun05.rsw#Daerah Rawa Bawa Tanah#
+tur_dun06.rsw#Daerah Rawa Bawa Tanah#
+guild_vs5.rsw#Guild Arena#
+guild_vs4.rsw#Guild Arena#
+guild_vs3.rsw#Guild Arena#
+guild_vs2.rsw#Guild Arena#
+guild_vs1.rsw#Guild Arena#
+guild_room.rsw#Ruang Tunggu Guild Arena#
+quiz_00.rsw#Quiz Revolution#
+quiz_01.rsw#Quiz Revolution#
+gef_fild12.rsw#Hutan Kordt#
+gef_fild13.rsw#Britoniah#
+gef_fild14.rsw#Bagian Barat Desa Orc#
+cmd_in02.rsw#Dalam Comodo#
+cmd_in01.rsw#Dalam Comodo#
+comodo.rsw#Kota Pantai, Comodo#
+beach_dun.rsw#Karu, Gua bagian Barat#
+beach_dun2.rsw#Ruande, Gua bagian Utara#
+beach_dun3.rsw#Mao, Gua bagian Timur#
+cmd_fild01.rsw#Hutan Papuchicha#
+cmd_fild02.rsw#Pantai Kokomo#
+cmd_fild03.rsw#Rawa Zenhai#
+cmd_fild04.rsw#Pantai Kokomo#
+cmd_fild05.rsw#Perbatasan Hutan Papuchica#
+cmd_fild06.rsw#Benteng Saint Darmain (Barat)#
+cmd_fild07.rsw#Pulau Beacon, Pharos#
+cmd_fild08.rsw#Benteng Saint Darmain (Timur)#
+cmd_fild09.rsw#Benteng Saint Darmain (Selatan)#
+xmas_in.rsw#Dalam Lutie#
+xmas_dun02.rsw#Ruang Pemantau Mainan#
+xmas_dun01.rsw#Gudang Pabrik Mainan#
+xmas_fild01.rsw#Daratan Lutie#
+xmas.rsw#Lutie, Desa bersalju#
+mjolnir_01.rsw#Gunung Mjolnir#
+mjolnir_02.rsw#Gunung Mjolnir#
+mjolnir_03.rsw#Gunung Mjolnir#
+mjolnir_04.rsw#Gunung Mjolnir#
+mjolnir_05.rsw#Gunung Mjolnir#
+mjolnir_06.rsw#Gunung Mjolnir#
+mjolnir_07.rsw#Gunung Mjolnir#
+mjolnir_08.rsw#Gunung Mjolnir#
+mjolnir_09.rsw#Gunung Mjolnir#
+mjolnir_10.rsw#Gunung Mjolnir#
+mjolnir_11.rsw#Gunung Mjolnir#
+mjolnir_12.rsw#Gunung Mjolnir#
+prt_fild00.rsw#Daratan Prontera#
+prt_fild01.rsw#Daratan Prontera#
+prt_fild02.rsw#Daratan Prontera#
+prt_fild03.rsw#Daratan Prontera#
+prt_fild04.rsw#Daratan Prontera#
+prt_fild05.rsw#Daratan Prontera#
+prt_fild06.rsw#Daratan Prontera#
+prt_fild07.rsw#Daratan Prontera#
+prt_fild08.rsw#Daratan Prontera#
+prt_fild09.rsw#Daratan Prontera#
+prt_fild10.rsw#Daratan Prontera#
+prt_fild11.rsw#Daratan Prontera#
+prt_monk.rsw#Biara Saint Capitolina#
+gef_fild00.rsw#Daratan Geffen#
+gef_fild01.rsw#Daratan Geffen#
+gef_fild02.rsw#Daratan Geffen#
+gef_fild03.rsw#Daratan Geffen#
+gef_fild04.rsw#Daratan Geffen#
+gef_fild05.rsw#Daratan Geffen#
+gef_fild06.rsw#Daratan Geffen#
+gef_fild07.rsw#Daratan Geffen#
+gef_fild08.rsw#Daratan Geffen#
+gef_fild09.rsw#Daratan Geffen#
+gef_fild10.rsw#Daratan Geffen#
+in_orcs01.rsw#Desa Orc#
+gef_fild11.rsw#Daratan Geffen#
+moc_fild01.rsw#Padang Pasir Sograt#
+moc_fild02.rsw#Padang Pasir Sograt#
+moc_fild03.rsw#Padang Pasir Sograt#
+moc_fild04.rsw#Padang Pasir Sograt#
+moc_fild05.rsw#Padang Pasir Sograt#
+moc_fild06.rsw#Padang Pasir Sograt#
+moc_fild07.rsw#Padang Pasir Sograt#
+moc_fild08.rsw#Padang Pasir Sograt#
+moc_fild09.rsw#Padang Pasir Sograt#
+moc_fild10.rsw#Padang Pasir Sograt#
+moc_fild11.rsw#Padang Pasir Sograt#
+moc_fild12.rsw#Padang Pasir Sograt#
+moc_fild13.rsw#Padang Pasir Sograt#
+moc_fild14.rsw#Padang Pasir Sograt#
+moc_fild15.rsw#Padang Pasir Sograt#
+moc_fild16.rsw#Padang Pasir Sograt#
+moc_fild17.rsw#Padang Pasir Sograt#
+moc_fild18.rsw#Padang Pasir Sograt#
+moc_fild19.rsw#Padang Pasir Sograt#
+in_moc_16.rsw#Klan Assassin#
+pay_fild01.rsw#Hutan Payon Area 1#
+pay_fild02.rsw#Hutan Payon Area 2#
+pay_fild03.rsw#Hutan Payon Area 3#
+pay_fild04.rsw#Hutan Payon Area 4#
+pay_fild05.rsw#Hutan Payon Area 5#
+pay_fild06.rsw#Hutan Payon Area 6#
+pay_fild07.rsw#Hutan Payon Area 7#
+pay_fild08.rsw#Hutan Payon Area 8#
+pay_fild09.rsw#Hutan Payon Area 9#
+pay_fild10.rsw#Hutan Payon Area 10#
+pay_fild11.rsw#Hutan Payon Area 11#
+new_1-1.rsw#Tempat Latihan#
+new_2-1.rsw#Tempat Latihan#
+new_3-1.rsw#Tempat Latihan#
+new_4-1.rsw#Tempat Latihan#
+new_5-1.rsw#Tempat Latihan#
+new_1-2.rsw#Tempat Latihan#
+new_2-2.rsw#Tempat Latihan#
+new_3-2.rsw#Tempat Latihan#
+new_4-2.rsw#Tempat Latihan#
+new_5-2.rsw#Tempat Latihan#
+new_1-3.rsw#Tempat Latihan#
+new_2-3.rsw#Tempat Latihan#
+new_3-3.rsw#Tempat Latihan#
+new_4-3.rsw#Tempat Latihan#
+new_5-3.rsw#Tempat Latihan#
+new_1-4.rsw#Tempat Latihan#
+new_2-4.rsw#Tempat Latihan#
+new_3-4.rsw#Tempat Latihan#
+new_4-4.rsw#Tempat Latihan#
+new_5-4.rsw#Tempat Latihan#
+anthell01.rsw#Neraka Semut Area 1#
+anthell02.rsw#Neraka Semut Area 2#
+gef_dun00.rsw#Geffen Dungeon Area 1#
+gef_dun01.rsw#Geffen Dungeon Area 2#
+gef_dun02.rsw#Geffenia#
+gef_dun03.rsw#Geffenia#
+iz_dun00.rsw#Terowongan Bawah Laut1#
+iz_dun01.rsw#Terowongan Bawah Laut2#
+iz_dun02.rsw#Terowongan Bawah Laut3#
+iz_dun03.rsw#Terowongan Bawah Laut4#
+iz_dun04.rsw#Terowongan Bawah Laut5#
+iz_dun05.rsw#Terowongan Bawah Laut6#
+in_sphinx1.rsw#Sphinx Area 1#
+in_sphinx2.rsw#Sphinx Area 2#
+in_sphinx3.rsw#Sphinx Area 3#
+in_sphinx4.rsw#Sphinx Area 4#
+in_sphinx5.rsw#Sphinx Area 5#
+moc_pryd01.rsw#Dalam Piramida Area 1#
+moc_pryd02.rsw#Dalam Piramida Area 2#
+moc_pryd03.rsw#Dalam Piramida Area 3#
+moc_pryd04.rsw#Dalam Piramida Area 4#
+moc_pryd05.rsw#Ruangan Bawah Tanah Piramida Area 1#
+moc_pryd06.rsw#Ruangan Bawah Tanah Piramida Area 2#
+moc_prydb1.rsw#Perkumpulan Thief#
+mjo_dun01.rsw#Terowongan Kematian Mjolnir Area 1#
+mjo_dun02.rsw#Terowongan Kematian Mjolnir Area 2#
+mjo_dun03.rsw#Terowongan Kematian Mjolnir Area 3#
+orcsdun01.rsw#Orc Dungeon Area 1#
+orcsdun02.rsw#Orc Dungeon Area 2#
+pay_dun00.rsw#Gua Payon Area 1#
+pay_dun01.rsw#Gua Payon Area 2#
+pay_dun02.rsw#Gua Payon Area 3#
+pay_dun03.rsw#Gua Payon Area 4#
+pay_dun04.rsw#Gua Payon Area 5#
+prt_maze01.rsw#Hutan Labirin Area 1#
+prt_maze02.rsw#Hutan Labirin Area 2#
+prt_maze03.rsw#Hutan Labirin Area 3#
+prt_sewb1.rsw#Saluran Air Prontera Area 1#
+prt_sewb2.rsw#Saluran Air Prontera Area 2#
+prt_sewb3.rsw#Saluran Air Prontera Area 3#
+prt_sewb4.rsw#Saluran Air Prontera Area 4#
+treasure01.rsw#Kapal Karam Area 1#
+treasure02.rsw#Kapal Karam Area 2#
+hunter_1-1.rsw#Perkumpulan Hunter#
+hunter_2-1.rsw#Perkumpulan Hunter#
+hunter_3-1.rsw#Perkumpulan Hunter#
+in_hunter.rsw#Perkumpulan Hunter#
+knight_1-1.rsw#Kaveleri#
+knight_2-1.rsw#Kaveleri#
+knight_3-1.rsw#Kaveleri#
+priest_1-1.rsw#Tempat Suci#
+priest_2-1.rsw#Tempat Suci#
+priest_3-1.rsw#Tempat Suci#
+sword_1-1.rsw#Ruang Test Swordman#
+sword_2-1.rsw#Ruang Test Swordman#
+sword_3-1.rsw#Ruang Test Swordman#
+job_thief1.rsw#Kebun Jamur#
+wizard_1-1.rsw#Akademi Wizard#
+wizard_2-1.rsw#Akademi Wizard#
+wizard_3-1.rsw#Akademi Wizard#
+force_1-1.rsw#Time Limit Fight#
+force_2-1.rsw#Time Limit Fight#
+force_3-1.rsw#Time Limit Fight#
+force_1-2.rsw#Time Limit Fight#
+force_2-2.rsw#Time Limit Fight#
+force_3-2.rsw#Time Limit Fight#
+force_1-3.rsw#Time Limit Fight#
+force_2-3.rsw#Time Limit Fight#
+force_3-3.rsw#Time Limit Fight#
+ordeal_1-1.rsw#Battle Ordeal Mode#
+ordeal_2-1.rsw#Battle Ordeal Mode#
+ordeal_3-1.rsw#Battle Ordeal Mode#
+ordeal_1-2.rsw#Battle Ordeal Mode#
+ordeal_2-2.rsw#Battle Ordeal Mode#
+ordeal_3-2.rsw#Battle Ordeal Mode#
+ordeal_1-3.rsw#Battle Ordeal Mode#
+ordeal_2-3.rsw#Battle Ordeal Mode#
+ordeal_3-3.rsw#Battle Ordeal Mode#
+ordeal_1-4.rsw#Battle Ordeal Mode#
+ordeal_2-4.rsw#Battle Ordeal Mode#
+ordeal_3-4.rsw#Battle Ordeal Mode#
+alb_ship.rsw#Kapal Alberta#
+alberta.rsw#Alberta#
+alberta_in.rsw#Dalam Alberta#
+alb2trea.rsw#Pulau Alberta#
+aldebaran.rsw#Aldebaran#
+aldeba_in.rsw#Dalam Aldebaran#
+gef_tower.rsw#Menara Geffen#
+geffen.rsw#Geffen#
+geffen_in.rsw#Dalam Geffen#
+moc_castle.rsw#Kastil Morocc#
+moc_ruins.rsw#Reruntuhan Morocc#
+morocc.rsw#Kota Morocc#
+morocc_in.rsw#Dalam Morocc#
+pay_arche.rsw#Desa Pemanah#
+payon.rsw#Kota Payon#
+payon_in01.rsw#Dalam Payon#
+payon_in02.rsw#Dalam Payon#
+payon_in03.rsw#Dalam Payon#
+prontera.rsw#Kota Prontera, Ibukota Rune Midgard#
+prt_in.rsw#Dalam Prontera#
+prt_castle.rsw#Kastil Prontera#
+prt_church.rsw#Ruang Suci#
+izlude.rsw#Kota Izlude#
+izlude_in.rsw#Dalam Izlude#
+izlu2dun.rsw#Pulau Byalan#
+monk_in.rsw#Dalam St. Abbey#
+prt_are_in.rsw#Ruang Tunggu#
+arena_room.rsw#Ruang Tunggu#
+prt_arena01.rsw#ARENA#
+prt_are01.rsw#ARENA#
+glast_01.rsw#Glast Heim#
+alde_dun01.rsw#Clock Tower Ruang Bawah Tanah Area 1#
+alde_dun02.rsw#Clock Tower Ruang Bawah Tanah Area 2#
+alde_dun03.rsw#Clock Tower Ruang Bawah Tanah Area 3#
+alde_dun04.rsw#Clock Tower Ruang Bawah Tanah Area 4#
+c_tower1.rsw#Clock Tower Tingkat 1#
+c_tower2.rsw#Clock Tower Tingkat 2#
+c_tower3.rsw#Clock Tower Tingkat 3#
+c_tower4.rsw#Clock Tower Tingkat 4#
+gl_cas01.rsw#Glast Heim Area 1#
+gl_cas02.rsw#Glast Heim Area 2#
+gl_church.rsw#Gereja Glast Heim#
+gl_chyard.rsw#Halaman Gereja Glast Heim#
+gl_dun01.rsw#Goa terdalam di Glast Heim Area 1#
+gl_dun02.rsw#Goa terdalam di Glast Heim Area 2#
+gl_in01.rsw#Dalam Glast Heim#
+gl_knt01.rsw#Dalam Kavaleri Glast Heim Area 1#
+gl_knt02.rsw#Dalam Kavaleri Glast Heim Area 2#
+gl_prison.rsw#Penjara Glast Heim Tingkat 1#
+gl_prison1.rsw#Penjara Glast Heim Tingkat 2#
+gl_sew01.rsw#Saluran Air Glast Heim Area 1#
+gl_sew02.rsw#Saluran Air Glast Heim Area 2#
+gl_sew03.rsw#Saluran Air Glast Heim Area 3#
+gl_sew04.rsw#Saluran Air Glast Heim Area 4#
+gl_step.rsw#Tangga Dungeon Glast Heim#
+
+// Maps officially not in the name table.
+que_job02.rsw#Job Quest 2#
+que_job03.rsw#Job Quest 3#
+ordeal_a00.rsw#Battle Ordeal Mode#
+ordeal_a02.rsw#Battle Ordeal Mode#
+force_map1.rsw#Time Limit Fight#
+force_map2.rsw#Time Limit Fight#
+force_map3.rsw#Time Limit Fight#
+job_hunter.rsw#Perkumpulan Hunter#
+job_knight.rsw#Kaveleri#
+job_priest.rsw#Tempat Suci#
+job_sword1.rsw#Aula Test Swordman#
+job_wizard.rsw#Akademi Wizard#
+pvp_room.rsw#PvP : Ruang Tunggu#
+que_sign02.rsw#Valley of Gyoll#
+g_room1-1.rsw#Quiz Revolution#
+g_room1-2.rsw#Quiz Revolution#
+g_room1-3.rsw#Quiz Revolution#
+g_room2.rsw#Quiz Revolution#
+guild_vs1-1.rsw#Guild Arena#
+guild_vs1-2.rsw#Guild Arena#
+guild_vs1-3.rsw#Guild Arena#
+guild_vs1-4.rsw#Guild Arena#
+guild_vs2-1.rsw#Guild Arena#
+guild_vs2-2.rsw#Guild Arena#
+new_zone01.rsw#Tempat Latihan#
+new_zone02.rsw#Tempat Latihan#
+new_zone03.rsw#Tempat Latihan#
+new_zone04.rsw#Tempat Latihan#
+que_ng.rsw#Ninja - Peta Gunslinger#
+que_san04.rsw#Dalam Kuil Freya#
+que_ba.rsw#Unknown#
+
+// Christmas & Sakura Special.
+prontera_x.rsw#Kota Prontera, Ibukota Rune Midgard#
+alberta_x.rsw#Alberta#
+aldebaran_x.rsw#Aldebaran#
+geffen_x.rsw#Geffen#
+izlude_x.rsw#Kota Izlude#
+prt_church_x.rsw#Tempat Suci#
+prontera_s.rsw#Prontera City, Capital of Rune Midgard#
+pay_arche_s.rsw#Archer Village#
+
+// Ragnarok World Championship 2004.
+rwc01.rsw#Ragnarok World Championship Arena 1#
+rwc02.rsw#Ragnarok World Championship Arena 2#
+rwc03.rsw#Ragnarok World Championship Arena 3#
+
+// Ragnarok World Championship 2007.
+2007rwc_r.rsw#2007 Ragnarok World Championship Arena Waiting Room#
+2007rwc_01.rsw#2007 Ragnarok World Championship Arena 1#
+2007rwc_02.rsw#2007 Ragnarok World Championship Arena 2#
+2007rwc_03.rsw#2007 Ragnarok World Championship Arena 3#
+2007rwc_04.rsw#2007 Ragnarok World Championship Arena 4#
+2007rwc_05.rsw#2007 Ragnarok World Championship Arena 5#
+2007rwc_06.rsw#2007 Ragnarok World Championship Arena 6#
+2007rwc_07.rsw#2007 Ragnarok World Championship Arena 7#
+2007rwc_08.rsw#2007 Ragnarok World Championship Arena 8#
+2007rwc_09.rsw#2007 Ragnarok World Championship Arena 9#
+2007rwc_10.rsw#2007 Ragnarok World Championship Arena 10#
+izlude07.rsw#Kota Izlude#
+guild_rwc1.rsw#Ruang Latihan#
+guild_rwc2.rsw#Ruang Latihan#
+guild_rwc3.rsw#Ruang Latihan#
+guild_rwc4.rsw#Ruang Latihan#
+guild_rwc5.rsw#Ruang Latihan#
+
+// Alpha Maps.
+fay_vilg00.rsw#Desa Payon#
+fay_vilg01.rsw#Desa Payon#
+gef_vilg00.rsw#Desa Geffen#
+gef_vilg01.rsw#Desa Geffen#
+moc_dugn01.rsw#Morocc Dungeon#
+moc_dugn02.rsw#Morocc Dungeon#
+moc_fild01.rsw#Daratan Morocc#
+moc_fild02.rsw#Daratan Morocc#
+moc_fild03.rsw#Daratan Morocc#
+moc_fild04.rsw#Daratan Morocc#
+moc_intr00.rsw#Dalam Morocc#
+moc_intr01.rsw#Dalam Morocc#
+moc_intr02.rsw#Dalam Morocc#
+moc_intr04.rsw#Dalam Morocc#
+moc_vilg00.rsw#Desa Morocc#
+moc_vilg01.rsw#Desa Morocc#
+moc_vilg02.rsw#Desa Morocc#
+probemap.rsw#Probe Map 1#
+probemap02.rsw#Probe Map 2#
+prt_cstl01.rsw#Kastil Prontera#
+prt_dugn00.rsw#Prontera Dungeon#
+prt_dugn01.rsw#Prontera Dungeon#
+prt_fild00.rsw#Daratan Prontera#
+prt_fild01.rsw#Daratan Prontera#
+prt_fild03.rsw#Daratan Prontera#
+prt_fild04.rsw#Daratan Prontera#
+prt_fild05.rsw#Daratan Prontera#
+prt_intr01.rsw#Dalam Prontera#
+prt_intr01_a.rsw#Dalam Prontera#
+prt_intr02.rsw#Dalam Prontera#
+prt_vilg00.rsw#Desa Prontera#
+prt_vilg01.rsw#Desa Prontera#
+prt_vilg02.rsw#Desa Prontera#
+tank_test.rsw#Tank Test 1#
+tank_test2.rsw#Tank Test 2#
+test.rsw#Test Map#
+
+// Other official maps.
+oldpayon.rsw#Payon#
+oldpay_in01.rsw#Dalam Payon#
+oldpay_in02.rsw#Dalam Payon#
+xmas_x.rsw#Lutie, Desa bersalju#
+alberta_d.gat#Alberta#
+
+// Chinese event maps.
+holy_gold.rsw#Gold Sanctuary#
+holy_silver.rsw#Silver Sanctuary#
+darkness_z.rsw#Darkness Island#
+baby_para.rsw#Playground#
+dragon_nest.rsw#Evil Dragon Nest#
+dragon_nes2.rsw#Evil Dragon Nest#
+que_new01.rsw#New Year Day Place#
+que_new02.rsw#New Year Day Place#
+
+// Japanese Event & Ragnarok Japanese Championship maps.
+jp_stage_a.rsw#Panggung A#
+jp_castle.rsw#Istana Halloween#
+jp_ruins.rsw#Reruntuhan Pantai Berpasir#
+jp_magic.rsw#Rumah Sihir#
+jp_stage_b.rsw#Panggung B#
+jp_dress_a.rsw#Belakang Panggung A#
+jp_dress_b.rsw#Belakang Panggung B#
+anothership.rsw#Kapal#
+jp_event02.rsw#Japanese Event 2#
+jp_event03.rsw#Japanese Event 3#
+jp_event04.rsw#Japanese Event 4#
+jp_event05.rsw#Japanese Event 5#
+jp_event06.rsw#Japanese Event 6#
+pvp_2vs2b.rsw#PvP : Coliseum#
+pvp_2vs2c.rsw#PvP : Coliseum#
+room_00.rsw#Ruangan 0#
+room_01.rsw#Ruangan 1#
+room_02.rsw#Ruangan 2#
+moonlight_a.rsw#Moonlight A#
+guild_vs2pa.rsw#Ruangan Prontera A#
+guild_vs2pb.rsw#Ruangan Prontera B#
+guild_vs2pc.rsw#Ruangan Prontera C#
+guild_vs2ia.rsw#Ruangan Izlude A#
+guild_vs2ib.rsw#Ruangan Izlude B#
+guild_vs2ic.rsw#Ruangan Izlude C#
+guild_vs2ga.rsw#Ruangan Geffen A#
+guild_vs2gb.rsw#Ruangan Geffen B#
+guild_vs2gc.rsw#Ruangan Geffen C#
+guild_vs2ma.rsw#Ruangan Morocc A#
+guild_vs2mb.rsw#Ruangan Morocc B#
+guild_vs2mc.rsw#Ruangan Morocc C#
+tower_a0.rsw#Menara A0#
+tower_a1.rsw#Menara A1#
+tower_a2.rsw#Menara A2#
+tower_a3.rsw#Menara A3#
+tower_a4.rsw#Menara A4#
+tower_a5.rsw#Menara A5#
+tower_a6.rsw#Menara A6#
+tower_a7.rsw#Menara A7#
+tower_a8.rsw#Menara A8#
+tower_a9.rsw#Menara A9#
+tower_a10.rsw#Menara A10#
+tower_a11.rsw#Menara A11#
+tower_a12.rsw#Menara A12#
+tower_b0.rsw#Menara B0#
+tower_b1.rsw#Menara B1#
+tower_b2.rsw#Menara B2#
+tower_b3.rsw#Menara B3#
+tower_b4.rsw#Menara B4#
+tower_b5.rsw#Menara B5#
+tower_b6.rsw#Menara B6#
+tower_b7.rsw#Menara B7#
+tower_b8.rsw#Menara B8#
+tower_b9.rsw#Menara B9#
+tower_b10.rsw#Menara B10#
+tower_b11.rsw#Menara B11#
+tower_b12.rsw#Menara B12#
+tower_c0.rsw#Menara C0#
+tower_c1.rsw#Menara C1#
+tower_c2.rsw#Menara C2#
+tower_c3.rsw#Menara C3#
+tower_c4.rsw#Menara C4#
+tower_c5.rsw#Menara C5#
+tower_c6.rsw#Menara C6#
+tower_c7.rsw#Menara C7#
+tower_c8.rsw#Menara C8#
+tower_c9.rsw#Menara C9#
+tower_c10.rsw#Menara C10#
+tower_c11.rsw#Menara C11#
+tower_c12.rsw#Menara C12#
+tower_d0.rsw#Menara D0#
+tower_d1.rsw#Menara D1#
+tower_d2.rsw#Menara D2#
+tower_d3.rsw#Menara D3#
+tower_d4.rsw#Menara D4#
+tower_d5.rsw#Menara D5#
+tower_d6.rsw#Menara D6#
+tower_d7.rsw#Menara D7#
+tower_d8.rsw#Menara D8#
+tower_d9.rsw#Menara D9#
+tower_d10.rsw#Menara D10#
+tower_d11.rsw#Menara D11#
+tower_d12.rsw#Menara D12#
+
+// Taiwanese event maps.
+que_moon.rsw#Istana Bulan#
+que_moc_16.rsw#Istana Bulan, Area Massa#
+
+// Thailand event maps.
+ein_polu.rsw#Dalam Ruangan#
+poring_c01.rsw#Ruang Tunggu Poring#
+poring_c02.rsw#Pasar Poring#
+
+// France event map.
+gl_in01_ev.rsw#Event Crazy Drops#
+
+// Halloween 2008 
+evt_zombie.rsw#Lari dari Zombi#
+
+arcadanias.rsw#Arcadanias, Dunia Satelit#
+
+pvp_y_room.rsw#PvP : Ruang Tunggu#
+pvp_n_room.rsw#PvP : Ruang Tunggu#
+pvp_c_room.rsw#PvP : Ruang Tunggu#
+pvp_n_1-1.rsw#PvP : Ruangan Sandwich#
+pvp_n_2-1.rsw#PvP : Ruangan Sandwich#
+pvp_n_3-1.rsw#PvP : Ruangan Sandwich#
+pvp_n_4-1.rsw#PvP : Ruangan Sandwich#
+pvp_n_5-1.rsw#PvP : Ruangan Sandwich#
+pvp_n_6-1.rsw#PvP : Ruangan Sandwich#
+pvp_n_7-1.rsw#PvP : Ruangan Sandwich#
+pvp_n_8-1.rsw#PvP : Ruangan Sandwich#
+pvp_n_1-2.rsw#PvP : Ruangan Rock On#
+pvp_n_2-2.rsw#PvP : Ruangan Rock On#
+pvp_n_3-2.rsw#PvP : Ruangan Rock On#
+pvp_n_4-2.rsw#PvP : Ruangan Rock On#
+pvp_n_5-2.rsw#PvP : Ruangan Rock On#
+pvp_n_6-2.rsw#PvP : Ruangan Rock On#
+pvp_n_7-2.rsw#PvP : Ruangan Rock On#
+pvp_n_8-2.rsw#PvP : Ruangan Rock On#
+pvp_n_1-3.rsw#PvP : Four Room#
+pvp_n_2-3.rsw#PvP : Four Room#
+pvp_n_3-3.rsw#PvP : Four Room#
+pvp_n_4-3.rsw#PvP : Four Room#
+pvp_n_5-3.rsw#PvP : Four Room#
+pvp_n_6-3.rsw#PvP : Four Room#
+pvp_n_7-3.rsw#PvP : Four Room#
+pvp_n_8-3.rsw#PvP : Four Room#
+pvp_n_1-4.rsw#PvP : Ruangan Undercross#
+pvp_n_2-4.rsw#PvP : Ruangan Undercross#
+pvp_n_3-4.rsw#PvP : Ruangan Undercross#
+pvp_n_4-4.rsw#PvP : Ruangan Undercross#
+pvp_n_5-4.rsw#PvP : Ruangan Undercross#
+pvp_n_6-4.rsw#PvP : Ruangan Undercross#
+pvp_n_7-4.rsw#PvP : Ruangan Undercross#
+pvp_n_8-4.rsw#PvP : Ruangan Undercross#
+pvp_n_1-5.rsw#PvP : Ruangan Compass#
+pvp_n_2-5.rsw#PvP : Ruangan Compass#
+pvp_n_3-5.rsw#PvP : Ruangan Compass#
+pvp_n_4-5.rsw#PvP : Ruangan Compass#
+pvp_n_5-5.rsw#PvP : Ruangan Compass#
+pvp_n_6-5.rsw#PvP : Ruangan Compass#
+pvp_n_7-5.rsw#PvP : Ruangan Compass#
+pvp_n_8-5.rsw#PvP : Ruangan Compass#
+pvp_y_1-1.rsw#PvP : Ruangan Prontera#
+pvp_y_2-1.rsw#PvP : Ruangan Prontera#
+pvp_y_3-1.rsw#PvP : Ruangan Prontera#
+pvp_y_4-1.rsw#PvP : Ruangan Prontera#
+pvp_y_5-1.rsw#PvP : Ruangan Prontera#
+pvp_y_6-1.rsw#PvP : Ruangan Prontera#
+pvp_y_7-1.rsw#PvP : Ruangan Prontera#
+pvp_y_8-1.rsw#PvP : Ruangan Prontera#
+pvp_y_1-2.rsw#PvP : Ruangan Izlude#
+pvp_y_2-2.rsw#PvP : Ruangan Izlude#
+pvp_y_3-2.rsw#PvP : Ruangan Izlude#
+pvp_y_4-2.rsw#PvP : Ruangan Izlude#
+pvp_y_5-2.rsw#PvP : Ruangan Izlude#
+pvp_y_6-2.rsw#PvP : Ruangan Izlude#
+pvp_y_7-2.rsw#PvP : Ruangan Izlude#
+pvp_y_8-2.rsw#PvP : Ruangan Izlude#
+pvp_y_1-3.rsw#PvP : Ruangan Payon#
+pvp_y_2-3.rsw#PvP : Ruangan Payon#
+pvp_y_3-3.rsw#PvP : Ruangan Payon#
+pvp_y_4-3.rsw#PvP : Ruangan Payon#
+pvp_y_5-3.rsw#PvP : Ruangan Payon#
+pvp_y_6-3.rsw#PvP : Ruangan Payon#
+pvp_y_7-3.rsw#PvP : Ruangan Payon#
+pvp_y_8-3.rsw#PvP : Ruangan Payon#
+pvp_y_1-4.rsw#PvP : Ruangan Alberta#
+pvp_y_2-4.rsw#PvP : Ruangan Alberta#
+pvp_y_3-4.rsw#PvP : Ruangan Alberta#
+pvp_y_4-4.rsw#PvP : Ruangan Alberta#
+pvp_y_5-4.rsw#PvP : Ruangan Alberta#
+pvp_y_6-4.rsw#PvP : Ruangan Alberta#
+pvp_y_7-4.rsw#PvP : Ruangan Alberta#
+pvp_y_8-4.rsw#PvP : Ruangan Alberta#
+pvp_y_1-5.rsw#PvP : Ruangan Morocc#
+pvp_y_2-5.rsw#PvP : Ruangan Morocc#
+pvp_y_3-5.rsw#PvP : Ruangan Morocc#
+pvp_y_4-5.rsw#PvP : Ruangan Morocc#
+pvp_y_5-5.rsw#PvP : Ruangan Morocc#
+pvp_y_6-5.rsw#PvP : Ruangan Morocc#
+pvp_y_7-5.rsw#PvP : Ruangan Morocc#
+pvp_y_8-5.rsw#PvP : Ruangan Morocc#
+pvp_2vs2.rsw#PvP : Coliseum#
