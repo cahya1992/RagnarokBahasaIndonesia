@@ -1,6 +1,6 @@
 # Ragnarok Online Bahasa Indonesia [ROBI]
 
-![alt text](http://s12.postimg.org/qf74og509/b8a424cf.png "ROBI") ###Translasi Ragnarok Client ke Bahasa Indonesia
+![alt text](http://s12.postimg.org/qf74og509/b8a424cf.png "ROBI") ### Translasi Ragnarok Client ke Bahasa Indonesia
 
 Dibuat oleh	: zackdreaver <br>
 Test Client	: 2014-10-22bRagexe <br>
