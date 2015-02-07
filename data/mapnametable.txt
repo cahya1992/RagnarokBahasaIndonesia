@@ -71,17 +71,17 @@ moro_cav.rsw#Fire Cave#
 1@eom.rsw#Damascene Ago#
 1@jtb.rsw#Nightmares of the Jitterbug#
 
-dali02.rsw#Dimensional Crack#
-1@face.rsw#Worm's Nest Face#
-1@sara.rsw#Memories of Sara#
-dali.rsw#Dimensional Crack#
-1@tnm1.rsw#Top Floor of Damascene#
-1@tnm2.rsw#Top Floor of Devil Tower#
-1@tnm3.rsw#Morroc Castle Underground#
-1@ge_st.rsw#Geffen Magic Tournament#
-1@gef.rsw#Geffen Magic Tournament#
-1@gef_in.rsw#Geffen Magic Tournament#
-1@spa.rsw#Specter of Palace#
+dali02.rsw#Celah Dimensi#
+1@face.rsw#Sarang Wormface#
+1@sara.rsw#Kenangan Sara#
+dali.rsw#Celah Dimensi#
+1@tnm1.rsw#Lantai Teratas Damascene#
+1@tnm2.rsw#Lantai Teratas Menara Iblis#
+1@tnm3.rsw#Ruang Bawah Tanah Kastil Morocc#
+1@ge_st.rsw#Turnamen Magic Geffen#
+1@gef.rsw#Turnamen Magic Geffen#
+1@gef_in.rsw#Turnamen Magic Geffen#
+1@spa.rsw#Istana Berhantu#
 
 1@def01.rsw#Wave Dungeon - Forest#
 1@def02.rsw#Wave Dungeon - Sky#
@@ -109,32 +109,32 @@ te_aldecas04.rsw#비닛#
 te_aldecas05.rsw#더블류#
 teg_dun02.rsw#길드 지하 던전#
 
-prt_fild08d.rsw#Prontera Field#
-prt_fild08c.rsw#Prontera Field#
-prt_fild08b.rsw#Prontera Field#
-prt_fild08a.rsw#Prontera Field#
+prt_fild08d.rsw#Dataran Prontera#
+prt_fild08c.rsw#Dataran Prontera#
+prt_fild08b.rsw#Dataran Prontera#
+prt_fild08a.rsw#Dataran Prontera#
 
-iz_ac01_d.rsw#Academy 1st Floor#
-iz_ac02_d.rsw#Academy 2nd Floor#
-iz_ac01_c.rsw#Academy 1st Floor#
-iz_ac02_c.rsw#Academy 2nd Floor#
-iz_ac01_b.rsw#Academy 1st Floor#
-iz_ac02_b.rsw#Academy 2nd Floor#
-iz_ac01_a.rsw#Academy 1st Floor#
-iz_ac02_a.rsw#Academy 2nd Floor#
+iz_ac01_d.rsw#Akademi Lantai 1#
+iz_ac02_d.rsw#Akademi Lantai 2#
+iz_ac01_c.rsw#Akademi Lantai 1#
+iz_ac02_c.rsw#Akademi Lantai 2#
+iz_ac01_b.rsw#Akademi Lantai 1#
+iz_ac02_b.rsw#Akademi Lantai 2#
+iz_ac01_a.rsw#Akademi Lantai 1#
+iz_ac02_a.rsw#Akademi Lantai 2#
 
-izlude_d.rsw#Izlude Town#
-izlude_c.rsw#Izlude Town#
-izlude_b.rsw#Izlude Town#
-izlude_a.rsw#Izlude Town#
+izlude_d.rsw#Kota Izlude#
+izlude_c.rsw#Kota Izlude#
+izlude_b.rsw#Kota Izlude#
+izlude_a.rsw#Kota Izlude#
 
 iz_int.rsw#Intro#
 iz_int01.rsw#Intro#
 iz_int02.rsw#Intro#
 iz_int03.rsw#Intro#
 iz_int04.rsw#Intro#
-iz_ac01.rsw#Academy 1st Floor#
-iz_ac02.rsw#Academy 2nd Floor#
+iz_ac01.rsw#Akademi Lantai 1#
+iz_ac02.rsw#Akademi Lantai 2#
 iz_ng01.rsw#Ninja tutorial map#
 treasure_n1.rsw#이즈루드 난파선 1층#
 treasure_n2.rsw#이즈루드 난파선 2층#
@@ -142,40 +142,40 @@ treasure_n2.rsw#이즈루드 난파선 2층#
 moc_prydn1.rsw#Morocc Nightmare Pyramids#
 moc_prydn2.rsw#Morocc Nightmare Pyramids#
 
-eclage.rsw#Eclage, Forestic Village#
-ecl_fild01.rsw#Eclage Field 01#
-ecl_in01.rsw#Eclage Indoor 01#
-ecl_in02.rsw#Eclage Indoor 02#
-ecl_in03.rsw#Eclage Indoor 03#
-ecl_in04.rsw#Eclage Indoor 04#
-1@ecl.rsw#Eclage Indoor#
+eclage.rsw#Eclage, Desa Berhutan#
+ecl_fild01.rsw#Dataran Eclage#
+ecl_in01.rsw#Dalam Eclage Area 1#
+ecl_in02.rsw#Dalam Eclage Area 2#
+ecl_in03.rsw#Dalam Eclage Area 3#
+ecl_in04.rsw#Dalam Eclage Area 4#
+1@ecl.rsw#Dalam Eclage#
 ecl_tdun01.rsw#Eclage Dungeon 01#
 ecl_tdun02.rsw#Eclage Dungeon 02#
 ecl_tdun03.rsw#Eclage Dungeon 03#
 ecl_tdun04.rsw#Eclage Dungeon 04#
 ecl_hub01.rsw#Eclage Hub 01#
-que_avan01.rsw#Eclage Indoor#
+que_avan01.rsw#Dalam Eclage#
 
 
-malaya.rsw#Port Malaya#
+malaya.rsw#Pelabuhan Malaya#
 ma_fild01.rsw#Baryo Mahiwaga#
-ma_fild02.rsw#Forest#
-ma_scene01.rsw#Bakonawa Lake#
-ma_in01.rsw#Inside of Malaya#
-ma_dun01.rsw#Bangungot Hospital 1F#
-1@ma_h.rsw#Bangungot Hospital 2F#
-1@ma_c.rsw#Buwaya Cave#
-1@ma_b.rsw#Bakonawa Hideout#
-ma_zif01.rsw#Inside of Jeepney#
-ma_zif02.rsw#Inside of Jeepney#
-ma_zif03.rsw#Inside of Jeepney#
-ma_zif04.rsw#Inside of Jeepney#
-ma_zif05.rsw#Inside of Jeepney#
-ma_zif06.rsw#Inside of Jeepney#
-ma_zif07.rsw#Inside of Jeepney#
-ma_zif08.rsw#Inside of Jeepney#
-ma_zif09.rsw#Inside of Jeepney#
-job_ko.rsw#Hidden Place#
+ma_fild02.rsw#Hutan#
+ma_scene01.rsw#Danau Bakonawa#
+ma_in01.rsw#Dalam Malaya#
+ma_dun01.rsw#Rumah Sakit Bangungot Lantai 1#
+1@ma_h.rsw#Rumah Sakit Bangungot Lantai 2#
+1@ma_c.rsw#Gua Buwaya#
+1@ma_b.rsw#Persembunyian Bakonawa#
+ma_zif01.rsw#Dalam Jeepney#
+ma_zif02.rsw#Dalam Jeepney#
+ma_zif03.rsw#Dalam Jeepney#
+ma_zif04.rsw#Dalam Jeepney#
+ma_zif05.rsw#Dalam Jeepney#
+ma_zif06.rsw#Dalam Jeepney#
+ma_zif07.rsw#Dalam Jeepney#
+ma_zif08.rsw#Dalam Jeepney#
+ma_zif09.rsw#Dalam Jeepney#
+job_ko.rsw#Ruang Tersembunyi#
 
 gld_dun01_2.rsw#Baldur Guild Dungeon 2#
 gld_dun02_2.rsw#Luina Guild Dungeon 2#
@@ -186,99 +186,99 @@ gld2_gef.rsw#Geffen Guild Dungeon#
 gld2_pay.rsw#Payon Guild Dungeon#
 gld2_prt.rsw#Prontera Guild Dungeon#
 
-lhz_dun04.rsw#Lighthalzen Biolab 4#
-que_lhz.rsw#Lighthalzen Indoor#
-1@lhz.rsw#Lighthalzen Indoor#
-iz_dun05.rsw#Undersea Tunnel F6#
+lhz_dun04.rsw#Laboratorium Somatologi Area 4#
+que_lhz.rsw#Dalam Lighthalzen#
+1@lhz.rsw#Dalam Lighthalzen#
+iz_dun05.rsw#Terowongan Bawah Laut Area 6#
 malangdo.rsw#Malangdo#
-mal_in01.rsw#Malangdo Inside#
-mal_in02.rsw#Inside the Ship#
-mal_dun01.rsw#Starry Coral Area#
-1@cash.rsw#Octopus Cave#
-1@pump.rsw#Culvert#
-2@pump.rsw#Culvert#
+mal_in01.rsw#Dalam Malangdo#
+mal_in02.rsw#Dalam Kapal#
+mal_dun01.rsw#Area Karang Bercahaya#
+1@cash.rsw#Gua Gurita#
+1@pump.rsw#Saluran Air#
+2@pump.rsw#Saluran Air#
 evt_hello.rsw#Dead Angel's landing#
-dic_dun03.rsw#Scaraba Hole - Nightmare Mode#
-que_house_s.rsw#Strange House#
+dic_dun03.rsw#Lubang Scarab - Nightmare Mode#
+que_house_s.rsw#Rumah Aneh#
 dewata.rsw#Dewata#
-dew_in01.rsw#Inside Dewata#
-dew_fild01.rsw#Dewata Field (Tribal Village)#
-dew_dun01.rsw#Volcanic Island of Krakatoa#
-dew_dun02.rsw#Tina Grace Cave#
-1@mist.rsw#The Hazy Maze Forest#
-mora.rsw#Mora Village#
-bif_fild01.rsw#Bifrost Bridge#
-bif_fild02.rsw#Bifrost Bridge#
-dicastes01.rsw#El Dicastes, the Sapha Capital#
+dew_in01.rsw#Dalam Dewata#
+dew_fild01.rsw#Daratan Dewata (Desa Suku Pedalaman)#
+dew_dun01.rsw#Pulau Gunung Berapai Krakatau#
+dew_dun02.rsw#Gua Tina Grace#
+1@mist.rsw#Hutan Labirin Berkabut#
+mora.rsw#Desa Mora#
+bif_fild01.rsw#Jembatan Bifrost#
+bif_fild02.rsw#Jembatan Bifrost#
+dicastes01.rsw#El Dicastes, Ibukota Sapha#
 dicastes02.rsw#Dicastes Diel#
 dic_in01.rsw#Inside of El Dicastes#
-dic_fild01.rsw#Outskirts of Kamidal Mountain#
-dic_fild02.rsw#Outskirts of Kamidal Mountain#
-dic_dun01.rsw#Kamidal Tunnel#
-dic_dun02.rsw#Scaraba Hall#
-job3_gen01.rsw#Geneticist Lab#
-s_atelier.rsw#Shadow Workshop#
+dic_fild01.rsw#Pinggiran Gunung Kamidal#
+dic_fild02.rsw#Pinggiran Gunung Kamidal#
+dic_dun01.rsw#Terowongan Kamidal#
+dic_dun02.rsw#Aula Scarab#
+job3_gen01.rsw#Lab Genetik#
+s_atelier.rsw#Bengkel Kegelapan#
 brasilis.rsw#Brasilis#
-bra_in01.rsw#Inside Brasilis#
-bra_fild01.rsw#Brasilis Field#
-bra_dun01.rsw#Beyond the Waterfall#
-bra_dun02.rsw#Beyond the Waterfall#
-moc_para01.rsw#Inside of Paradise Group Building in Morroc#
-job3_arch01.rsw#Waiting room for Arch Bishop Job Change#
-job3_arch02.rsw#Odin Temple#
-job3_arch03.rsw#Waiting room for Arch Bishop Job Change#
-job3_guil01.rsw#Secret Tavern#
-job3_guil02.rsw#Inside the Old Warehouse#
-job3_guil03.rsw#An isolated mansion#
-job3_rang01.rsw#Waiting room for Ranger Job Change#
-job3_rang02.rsw#Test room for Ranger Job Change#
-job3_rune01.rsw#Inside of Rune Knight Templar#
-job3_rune02.rsw#Test room for Rune Knight Job Change#
-job3_rune03.rsw#Test room for Rune Knight Job Change#
-job3_war01.rsw#Test room for Warlock Job Change#
-job3_war02.rsw#Test room for Warlock Job Change#
-jupe_core2.rsw#The center of Juperos#
-1@nyd.rsw#Nidhoggr's Nest F1#
-2@nyd.rsw#Nidhoggr's Nest F2#
-nyd_dun01.rsw#Yggdrasil Root F1#
-nyd_dun02.rsw#Yggdrasil Root F2#
+bra_in01.rsw#Dalam Brasilis#
+bra_fild01.rsw#Daratan Brasilis#
+bra_dun01.rsw#Dibalik Air Terjun#
+bra_dun02.rsw#Dibalik Air Terjun#
+moc_para01.rsw#Dalam bangunan Grup Paradise, Morroc#
+job3_arch01.rsw#Ruang Tunggu Job Arch Bishop#
+job3_arch02.rsw#Kuil Odin#
+job3_arch03.rsw#Ruang Tunggu Job Arch Bishop#
+job3_guil01.rsw#Kedai Rahasia#
+job3_guil02.rsw#Dalam Gudang Tua#
+job3_guil03.rsw#Mansion Terisolasi#
+job3_rang01.rsw#Ruang Tunggu Job Ranger#
+job3_rang02.rsw#Ruang Test Job Ranger#
+job3_rune01.rsw#Dalam Perkumpulan Rune Knight#
+job3_rune02.rsw#Ruang Test Job Rune Knight#
+job3_rune03.rsw#Ruang Test Job Rune Knight#
+job3_war01.rsw#Ruang Test Job Warlock#
+job3_war02.rsw#Ruang Test Job Warlock#
+jupe_core2.rsw#Pusat Juperos#
+1@nyd.rsw#Sarang Nidhoggr Area 1#
+2@nyd.rsw#Sarang Nidhoggr Area 2#
+nyd_dun01.rsw#Akar Yggdrasil Area 1#
+nyd_dun02.rsw#Akar Yggdrasil Area 2#
 manuk.rsw#Manuk#
-man_fild02.rsw#Manuk Field#
-man_in01.rsw#Inside Manuk#
+man_fild02.rsw#Daratan Manuk#
+man_in01.rsw#Dalam Manuk#
 splendide.rsw#Splendide#
-spl_fild01.rsw#Splendide Field#
-spl_in01.rsw#Inside Splendide#
-spl_in02.rsw#Inside Splendide#
+spl_fild01.rsw#Daratan Splendide#
+spl_in01.rsw#Dalam Splendide#
+spl_in02.rsw#Dalam Splendide#
 bat_c01.rsw#Kreiger Von Midgard#
 bat_c02.rsw#Kreiger Von Midgard#
 bat_c03.rsw#Kreiger Von Midgard#
-mid_camp.rsw#Midgard Expedition Camp#
-mid_campin.rsw#Inside Midgard Expedition Camp#
-man_fild01.rsw#Manuk Field#
-man_fild03.rsw#Manuk Field#
-spl_fild02.rsw#Splendide Field#
-spl_fild03.rsw#Splendide Field#
-moc_fild22b.rsw#Dimensional Gorge#
-que_dan01.rsw#Hugel Field#
-que_dan02.rsw#Inside of the Abandoned House in Yuno#
-schg_que01.rsw#Morestone Prairie#
+mid_camp.rsw#Kamp Ekspedisi Midgard#
+mid_campin.rsw#Dalam Kamp Ekspedisi Midgard#
+man_fild01.rsw#Daratan Manuk#
+man_fild03.rsw#Daratan Manuk#
+spl_fild02.rsw#Daratan Splendide#
+spl_fild03.rsw#Daratan Splendide#
+moc_fild22b.rsw#Jurang Dimensi#
+que_dan01.rsw#Daratan Hugel#
+que_dan02.rsw#Dalam Rumah Terbengkalai, Yuno#
+schg_que01.rsw#Padang Rumput Morestone#
 schg_dun01.rsw#Schwartzvald Guild Dungeon#
-arug_que01.rsw#Morestone Prairie#
+arug_que01.rsw#Padang Rumput Morestone#
 arug_dun01.rsw#Arunafeltz Guild Dungeon#
-1@orcs.rsw#Subterranean Orc Cave F1#
-2@orcs.rsw#Subterranean Orc Cave F2#
-1@cata.rsw#Catacombs#
-2@cata.rsw#Sealed Shrine#
-e_tower.rsw#Misty Island#
+1@orcs.rsw#Gua Bawah Tanah Orc Area 1#
+2@orcs.rsw#Gua Bawah Tanah Orc Area 2#
+1@cata.rsw#Kuburan Bawah Tanah#
+2@cata.rsw#Kuil Tertutup#
+e_tower.rsw#Pulau Berkabut#
 1@tower.rsw#Endless Tower#
 2@tower.rsw#Endless Tower#
 3@tower.rsw#Endless Tower#
 4@tower.rsw#Endless Tower#
 5@tower.rsw#Endless Tower#
-6@tower.rsw#Endless Tower (Unknown Area)#
-bat_room.rsw#Battlegrounds Waiting Room#
-bat_a01.rsw#Tierra Valley#
-bat_a02.rsw#Tierra Valley#
+6@tower.rsw#Endless Tower (Area Tidak Dikenal)#
+bat_room.rsw#Ruang Tunggu Battlegrounds#
+bat_a01.rsw#Lembah Tierra#
+bat_a02.rsw#Lembah Tierra#
 bat_b01.rsw#Flavian#
 bat_b02.rsw#Flavian#
 que_qsch01.rsw#Fallacious Okolnir#
@@ -374,11 +374,11 @@ ra_fild10.rsw#Jurang Oz#
 ra_fild11.rsw#Daratan Ida#
 ra_fild12.rsw#Daratan Ida#
 ra_fild13.rsw#Pantai Air Mata#
-ra_san01.rsw#Halaman Keramat Freya Area 1#
-ra_san02.rsw#Halaman Keramat Freya Area 2#
-ra_san03.rsw#Halaman Keramat Freya Area 3#
-ra_san04.rsw#Halaman Keramat Freya Area 4#
-ra_san05.rsw#Halaman Keramat Freya Area 5#
+ra_san01.rsw#Kuil Suci Area 1#
+ra_san02.rsw#Kuil Suci Area 2#
+ra_san03.rsw#Kuil Suci Area 3#
+ra_san04.rsw#Kuil Suci Area 4#
+ra_san05.rsw#Kuil Suci Area 5#
 ice_dun01.rsw#Gua Es Area 1#
 ice_dun02.rsw#Gua Es Area 2#
 ice_dun03.rsw#Gua Es Area 3#

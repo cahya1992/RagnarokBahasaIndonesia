@@ -2356,7 +2356,7 @@ UAEURL#
 Info Klan#
 Level Klan#
 Nama Klan#
-Lambang Klan#
+Lambang#
 Klan Sekutu#
 Klan Lawan#
 Kirim ke Klan#
