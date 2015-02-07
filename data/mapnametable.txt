@@ -727,12 +727,12 @@ gef_dun00.rsw#Geffen Dungeon Area 1#
 gef_dun01.rsw#Geffen Dungeon Area 2#
 gef_dun02.rsw#Geffenia#
 gef_dun03.rsw#Geffenia#
-iz_dun00.rsw#Terowongan Bawah Laut1#
-iz_dun01.rsw#Terowongan Bawah Laut2#
-iz_dun02.rsw#Terowongan Bawah Laut3#
-iz_dun03.rsw#Terowongan Bawah Laut4#
-iz_dun04.rsw#Terowongan Bawah Laut5#
-iz_dun05.rsw#Terowongan Bawah Laut6#
+iz_dun00.rsw#Terowongan Bawah Laut Area 1#
+iz_dun01.rsw#Terowongan Bawah Laut Area 2#
+iz_dun02.rsw#Terowongan Bawah Laut Area 3#
+iz_dun03.rsw#Terowongan Bawah Laut Area 4#
+iz_dun04.rsw#Terowongan Bawah Laut Area 5#
+iz_dun05.rsw#Terowongan Bawah Laut Area 6#
 in_sphinx1.rsw#Sphinx Area 1#
 in_sphinx2.rsw#Sphinx Area 2#
 in_sphinx3.rsw#Sphinx Area 3#
