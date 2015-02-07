@@ -1686,7 +1686,7 @@ Ninja#
 Taekwon Boy/Girl#
 Taekwon Master#
 Soul Linker#
-Party wanted#
+Pencarian Grup#
 Daftar Pencari Grup#
 Merekrut Grup#
 [Bow] telah dipakai.#
@@ -1710,10 +1710,10 @@ Pengaturan akan disimpan ke [%s\\%s] ketika keluar game secara normal.#
 RO_HELP#
 Anvil tidak tersedia#
 Tidak bisa melakukan whisper sebelum mencapai level 10.#
-attack#
-defense#
-recovery#
-Support#
+Penyerang#
+Penahan#
+Pemulihan#
+Pendukung#
 Daftar perintah untuk grup#
 Gagal mendaftarkan sebagai guild aliansi#
 Gagal mendaftarkan sebagai quild musuh#
@@ -1752,15 +1752,15 @@ OPT mempunyai 6 passcode#
 Tidak ada informasi OTP. silahkan hubungi administrator#
 Gagal mengenali OTP#
 Berhasil membuat iklan grup#
-Pencarian anggota grup telah di iklankan#
+Mencari anggota grup#
 Tugas#
-Profesi 1#
-Profesi 2#
-Profesi 4-1#
-Profesi 4-2#
-Profesi 1 high#
-Profesi 3#
-Profesi lain#
+Job 1#
+Job 2#
+Job 3-1#
+Job 3-2#
+Job 1 high#
+Job 2 high#
+Job lainnya#
 Ajak#
 Mengundang anggota grup#
 Mencari#

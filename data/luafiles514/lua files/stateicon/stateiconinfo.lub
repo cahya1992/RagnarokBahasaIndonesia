@@ -343,7 +343,7 @@ StateIconList[EFST_IDs.EFST_GLOOMYDAY] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Meningkatkan kerusakan dengan skill tertentu"
+      "Meningkatkan serangan dari skill tertentu"
     },
     {
       "Mengurangi Flee dan ASPD"
@@ -360,7 +360,7 @@ StateIconList[EFST_IDs.EFST_SIRCLEOFNATURE] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Menggunakan SP untuk memulihkan HP setiap detik"
+      "Menggunakan SP untuk memulihkan HP setiap detik."
     }
   }
 }
@@ -408,7 +408,7 @@ StateIconList[EFST_IDs.EFST_BANDING] = {
       "Dalam jarak dengan Royal Guard yang sedang Banding"
     },
     {
-      "meningkatkan ATK, DEF dan berbagi HP"
+      "meningkatkan ATK, DEF dan berbagi HP."
     }
   }
 }
@@ -422,10 +422,10 @@ StateIconList[EFST_IDs.EFST_NJ_BUNSINJYUTSU] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Menghindari serangan jarak dekat dan jauh"
+      "Menghindari serangan jarak dekat dan jauh."
     },
     {
-      "Tidak bisa menghindari serangan Magic"
+      "Tidak bisa menghindari serangan Magic."
     }
   }
 }
@@ -439,7 +439,7 @@ StateIconList[EFST_IDs.EFST_WUGRIDER] = {
       "Tidak bisa menggunakan busur."
     },
     {
-      "Hanya bisa menggunakan skill Warg"
+      "Hanya bisa menggunakan skill Warg."
     }
   }
 }
@@ -453,7 +453,7 @@ StateIconList[EFST_IDs.EFST_ATKER_BLOOD] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Mengurangi konsumsi SP saat menggunakan skill"
+      "Mengurangi konsumsi SP saat menggunakan skill."
     }
   }
 }
@@ -467,13 +467,13 @@ StateIconList[EFST_IDs.EFST_BODYPAINT] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Memunculkan musuh yang tersembunyi"
+      "Mendeteksi musuh yang tersembunyi."
     },
     {
-      "Kemungkinan memberi status Blind"
+      "Kemungkinan memberi status Blind."
     },
     {
-      "Kemungkinan menurunkan ASPD"
+      "Kemungkinan menurunkan ASPD."
     }
   }
 }
@@ -1049,7 +1049,7 @@ StateIconList[EFST_IDs.EFST_RENOVATIO] = {
       "Memberi kerusakan pada monster Undead"
     },
     {
-      "berdasarkn level karakter."
+      "berdasarkan level karakter."
     }
   }
 }
@@ -1060,10 +1060,10 @@ StateIconList[EFST_IDs.EFST_HIDING] = {
     {"Hiding", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
-      "Bersumbunyi di bawah tanah"
+      "Bersumbunyi di bawah tanah."
     },
     {
-      "Can be detected by enemy's detecting skill"
+      "Bisa dideteksi dengan skill tertentu."
     }
   }
 }
@@ -1074,7 +1074,7 @@ StateIconList[EFST_IDs.EFST_WEIGHTOVER50] = {
       COLOR_TITLE_DEBUFF
     },
     {
-      "Cannot recover HP, SP automatically"
+      "HP dan SP tidak bisa beregenerasi."
     }
   }
 }
@@ -1085,13 +1085,13 @@ StateIconList[EFST_IDs.EFST_STRUP] = {
     {"Sprint", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
-      "Increase STR"
+      "Meningkatkan STR"
     },
     {
-      "When not equipped any weapon"
+      "saat tidak mengenakan senjata."
     },
     {
-      "increase ATK according to Sprint level"
+      "Meningkatkan ATK sesuai level sprint."
     }
   }
 }
@@ -1105,7 +1105,7 @@ StateIconList[EFST_IDs.EFST_NOEQUIPHELM] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Cannot equip Helm"
+      "Tidak dapat mengenakan Pelindung kepala."
     }
   }
 }
@@ -1119,7 +1119,7 @@ StateIconList[EFST_IDs.EFST_ATTHASTE_POTION3] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase ASPD"
+      "Meningkatkan ASPD"
     }
   }
 }
@@ -1130,10 +1130,10 @@ StateIconList[EFST_IDs.EFST_ENDURE] = {
     {"Endure", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
-      "Enable to attack and move while receiving damage"
+      "Dapat tetap bergerak saat menerima serangan."
     },
     {
-      "Canceled after caster is hit certain times"
+      "Efek hilang setelah terkena beberapa serangan."
     }
   }
 }
@@ -1144,10 +1144,10 @@ StateIconList[EFST_IDs.EFST_TURNKICK_ON] = {
       COLOR_TITLE_BUFF
     },
     {
-      "Have chance of automatically entering"
+      "Saat menyerang lawan memiliki kemungkinan"
     },
     {
-      "Roundhouse Stance when the caster successfully hits a target"
+      "untuk mengaktifkan Roundhouse Stance."
     }
   }
 }
@@ -1161,7 +1161,7 @@ StateIconList[EFST_IDs.EFST_ENCHANTPOISON] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Enchant Poison property on the equipped weapon"
+      "Memberi elemen poison pada senjata."
     }
   }
 }
@@ -1175,10 +1175,10 @@ StateIconList[EFST_IDs.EFST_SPL_ATK] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase physical ATK"
+      "Meningkatkan serangan fisik"
     },
     {
-      "to the monsters in Splendid fields"
+      "kesemua monsters di dataran Splendid."
     }
   }
 }
@@ -1189,10 +1189,10 @@ StateIconList[EFST_IDs.EFST_BLESSING] = {
     {"Blessing", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
-      "Increase DEX, INT, STR"
+      "Meningkatkan DEX, INT dan STR"
     },
     {
-      "Recover Curse, Stone Curse status instantly"
+      "Menyembuhkan dari Curse dan Stone Curse"
     }
   }
 }
@@ -1206,7 +1206,7 @@ StateIconList[EFST_IDs.EFST_ONEHANDQUICKEN] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase ASPD when using one hand sword"
+      "Meningkatkan ASPD saat menggunakan pedang satu tangan."
     }
   }
 }
@@ -1220,23 +1220,23 @@ StateIconList[EFST_IDs.EFST_SPEARQUICKEN] = {
     },
     {"%s", COLOR_TIME},
     {
-      "When using Spear,"
+      "Meningkatkan ASPD,"
     },
     {
-      "Increase ASPD"
+      "saat menggunakan spear."
     },
     {
-      "Increase Critical rate"
+      "Meningkatkan kemungkinan kritikal."
     },
     {
-      "Increase Flee"
+      "Meningkatkan Flee."
     }
   }
 }
 StateIconList[EFST_IDs.EFST_BROKENWEAPON] = {
   descript = {
     {
-      "Broken Weapon",
+      "Senjata Rusak",
       COLOR_TITLE_DEBUFF
     }
   }
@@ -1248,7 +1248,7 @@ StateIconList[EFST_IDs.EFST_ASSUMPTIO] = {
     {"Assumptio", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
-      "Increase DEF"
+      "Meningkatkan DEF"
     }
   }
 }
@@ -1262,10 +1262,10 @@ StateIconList[EFST_IDs.EFST_MAXIMIZE] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Maximize the power of the weapon"
+      "Memaksimalkan serangan senjata."
     },
     {
-      "Consume SP continuously"
+      "Mengkonsumsi SP terus menerus"
     }
   }
 }
@@ -1279,10 +1279,13 @@ StateIconList[EFST_IDs.EFST_LG_REFLECTDAMAGE] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Reflect some part of physical/magical damage to enemy"
+      "Memantulkan sebagian serangan fisik/magic"
     },
     {
-      "Consume certain amount of SP in every sec"
+      "kembali ke penyerang."
+    },
+    {
+      "Mengkonsumsi SP setiap detik."
     }
   }
 }
@@ -1296,7 +1299,7 @@ StateIconList[EFST_IDs.EFST_PROTECTSHIELD] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Protect a shield from being destroyed"
+      "Melindungi tameng dari kerusakan"
     }
   }
 }
@@ -1307,7 +1310,7 @@ StateIconList[EFST_IDs.EFST_MAGNIFICAT] = {
     {"Magnificat", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
-      "Increase SP recovery speed"
+      "Meningkatkan regenerasi SP"
     }
   }
 }
@@ -1321,7 +1324,7 @@ StateIconList[EFST_IDs.EFST_ATTHASTE_POTION1] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase ASPD"
+      "Meningkatkan ASPD"
     }
   }
 }
@@ -1335,13 +1338,10 @@ StateIconList[EFST_IDs.EFST_POISONREACT] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Automatically cast Poisonous attack to the enemy"
+      "Secara otomatis menyerang musuh dengan Envenom"
     },
     {
-      "Cast Envenom skill to the enemy"
-    },
-    {
-      "when the caster is damaged by normal attack"
+      "saat menerima serangan normal."
     }
   }
 }
@@ -1351,7 +1351,7 @@ StateIconList[EFST_IDs.EFST_MOVHASTE_HORSE] = {
   descript = {
     {"%s", COLOR_TIME},
     {
-      "Increase ASPD"
+      "Meningkatkan ASPD"
     }
   }
 }
@@ -1362,10 +1362,10 @@ StateIconList[EFST_IDs.EFST_CRESCENTELBOW] = {
       COLOR_TITLE_BUFF
     },
     {
-      "Give damage to enemy by knocking it down"
+      "Memberi serangan dengan memukul jatuh musuh."
     },
     {
-      "Receive some part of damage of it to the caster"
+      "Menerima sebagian serangan kepada diri sendiri."
     }
   }
 }
@@ -1379,7 +1379,7 @@ StateIconList[EFST_IDs.EFST_SONG_OF_MANA] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Recovery certain amount of SP in every 5 sec"
+      "Memulihkan SP setiap 5 detik."
     }
   }
 }
@@ -1390,10 +1390,10 @@ StateIconList[EFST_IDs.EFST_KAAHI] = {
     {"Kaahi", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
-      "Recover HP by consuming SP when receiving attacks"
+      "Memulihkan HP dan mengurangi SP saat terkena serangan."
     },
     {
-      "excluding skill attacksSP"
+      "Tidak berlaku pada skill."
     }
   }
 }
@@ -1404,7 +1404,7 @@ StateIconList[EFST_IDs.EFST_ECHOSONG] = {
     {"Echo_Song", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
-      "Increase DEF"
+      "Meningkatkan DEF"
     }
   }
 }
@@ -1415,7 +1415,7 @@ StateIconList[EFST_IDs.EFST_PRESERVE] = {
     {"Preserve", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
-      "Cannot plagiarize the skill"
+      "Tidak dapat meng-copy skill."
     }
   }
 }
@@ -1429,10 +1429,10 @@ StateIconList[EFST_IDs.EFST_WEAPONPERFECT] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Give 100% damage to"
+      "Memberi 100% serangan kepada semua"
     },
     {
-      "small, medium, large monsters"
+      "ukuran monster."
     }
   }
 }
@@ -1443,10 +1443,10 @@ StateIconList[EFST_IDs.EFST_PROVOKE] = {
     {"Provoke", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
-      "Decrease DEF"
+      "Menurunkan DEF"
     },
     {
-      "Increase ATK"
+      "Meningkatkan ATK"
     }
   }
 }
@@ -1456,7 +1456,7 @@ StateIconList[EFST_IDs.EFST_MOVHASTE_POTION] = {
   descript = {
     {"%s", COLOR_TIME},
     {
-      "Increase Movement Speed"
+      "Meningkatkan kecepatan gerak"
     }
   }
 }
@@ -1470,10 +1470,10 @@ StateIconList[EFST_IDs.EFST_EDP] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Have chance to poison the enemy deadly"
+      "Kesempatan untuk meracuni lawan."
     },
     {
-      "Additional damage is not available to Boss monster"
+      "Penambahan serangan tidak berlaku pada boss monster."
     }
   }
 }
@@ -1487,10 +1487,10 @@ StateIconList[EFST_IDs.EFST_JOINTBEAT] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Give enemy abnormal status"
+      "Memberi lawan status abnormal"
     },
     {
-      "by beating the joints"
+      "dengan menyerang bagian sendi."
     }
   }
 }
@@ -1504,10 +1504,10 @@ StateIconList[EFST_IDs.EFST_PROVIDENCE] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase resistance against"
+      "Meningkatkan daya tahan terhadap"
     },
     {
-      "Demon and Holy property monsters"
+      "monster bertipe Demon dan Holy."
     }
   }
 }
@@ -1521,10 +1521,10 @@ StateIconList[EFST_IDs.EFST_FIGHTINGSPIRIT] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase ATK"
+      "Meningkatkan ATK"
     },
     {
-      "Increase ASPD of caster"
+      "Meningkatkan ASPD"
     }
   }
 }
@@ -1534,7 +1534,7 @@ StateIconList[EFST_IDs.EFST_FOOD_VIT_CASH] = {
   descript = {
     {"%s", COLOR_TIME},
     {
-      "Increase VIT"
+      "Meningkatkan VIT"
     }
   }
 }
@@ -1545,13 +1545,13 @@ StateIconList[EFST_IDs.EFST_SATURDAY_NIGHT_FEVER] = {
     {"Madness", COLOR_TITLE_DEBUFF},
     {"%s", COLOR_TIME},
     {
-      "Lose HP, SP in every 3 sec"
+      "Kehilangan HP dan SP setiap 3 detik"
     },
     {
-      "Increase ATK, Decrease DEF and Flee"
+      "Meningkatkan ATK, mengurangi DEF dan Flee"
     },
     {
-      "Cannot use skill and item"
+      "Tidak dapat menggunakan skill dan barang"
     }
   }
 }
@@ -1562,10 +1562,10 @@ StateIconList[EFST_IDs.EFST_TRUESIGHT] = {
     {"True Sight", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
-      "Increase all Status"
+      "Meningkatkan semua status"
     },
     {
-      "Increase Accuracy, Damage, Critical rate"
+      "Meningkatkan akurasi, serangan, kemungkinan kritikal"
     }
   }
 }
@@ -1575,7 +1575,7 @@ StateIconList[EFST_IDs.EFST_CASH_PLUSONLYJOBEXP] = {
   descript = {
     {"%s", COLOR_TIME},
     {
-      "Get 1.5x Job EXP when hunting monsters"
+      "Meningkatkan 50% EXP saat membunuh monster"
     }
   }
 }
@@ -1589,7 +1589,7 @@ StateIconList[EFST_IDs.EFST_ARMOR_PROPERTY] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Change Property"
+      "Merubah elemen"
     }
   }
 }
@@ -1600,7 +1600,7 @@ StateIconList[EFST_IDs.EFST_TENSIONRELAX] = {
     {"Relax", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
-      "Increase HP recovery speed"
+      "Meningkatkan regenerasi HP"
     }
   }
 }
@@ -1614,7 +1614,7 @@ StateIconList[EFST_IDs.EFST_DEATHHURT] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Decrease the effect when receiving Heal skills"
+      "Menurunkan efek dari skill Heal"
     }
   }
 }
@@ -1628,7 +1628,7 @@ StateIconList[EFST_IDs.EFST_IMPOSITIO] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase ATK of the weapon"
+      "Meningkatkan ATK"
     }
   }
 }
@@ -1642,7 +1642,7 @@ StateIconList[EFST_IDs.EFST_LEECHESEND] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Consume HP in every sec"
+      "Mengurangi HP setiap detik"
     }
   }
 }
@@ -1650,10 +1650,10 @@ StateIconList[EFST_IDs.EFST_REPRODUCE] = {
   descript = {
     {"Reproduce", COLOR_TITLE_BUFF},
     {
-      "Learn the skill which is targeted to the caster"
+      "Meng-copy skill yang menyerang karakter"
     },
     {
-      "Can learn only 1 skill"
+      "Hanya bisa meng-copy 1 skill."
     }
   }
 }
@@ -1667,7 +1667,7 @@ StateIconList[EFST_IDs.EFST_ACCELERATION] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase Movement Speed of Madogear"
+      "Meningkatkan kecepatan gerak Madogear"
     }
   }
 }
@@ -1678,7 +1678,7 @@ StateIconList[EFST_IDs.EFST_NJ_NEN] = {
     {"Ninja Aura", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
-      "Increase INT, STR"
+      "Meningkatkan INT dan STR"
     }
   }
 }
@@ -1692,13 +1692,13 @@ StateIconList[EFST_IDs.EFST_FORCEOFVANGUARD] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase MHP, DEF"
+      "Meningkatkan MaxHP dan DEF"
     },
     {
-      "Accumulate Rage rate whenever receiving damage"
+      "Menambah Rage saat terkena serangan"
     },
     {
-      "Consume SP continuously"
+      "Mengkonsumsi SP terus menerus"
     }
   }
 }
@@ -1712,13 +1712,13 @@ StateIconList[EFST_IDs.EFST_RG_CCONFINE_M] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Immobilize the caster and 1 enemy"
+      "Membuat pemain dan lawan tidak bisa bergerak"
     },
     {
-      "Increase Flee"
+      "Meningkatkan Flee"
     },
     {
-      "Cannot use to Boss monster"
+      "Tidak bisa digunakan pada Boss monster"
     }
   }
 }
@@ -1726,7 +1726,7 @@ StateIconList[EFST_IDs.EFST_TRICKDEAD] = {
   descript = {
     {"Play Dead", COLOR_TITLE_TOGGLE},
     {
-      "Playing dead"
+      "Berpura-pura mati"
     }
   }
 }
@@ -1740,7 +1740,7 @@ StateIconList[EFST_IDs.EFST_PROPERTYWATER] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Give Water property to the weapons"
+      "Memberi elemen Air pada senjata"
     }
   }
 }
@@ -1751,7 +1751,7 @@ StateIconList[EFST_IDs.EFST_ADORAMUS] = {
     {"Adoramus", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
-      "Decrease AGI and in Darkness state"
+      "Mengurangi AGI dan terkena Blind"
     }
   }
 }
@@ -1765,10 +1765,10 @@ StateIconList[EFST_IDs.EFST_GENTLETOUCH_ENERGYGAIN] = {
     },
     {"%s", COLOR_TIME},
     {
-      "When mili attacking or being attacked"
+      "Saat menyerang atau terkana serangan dalam jarak dekat"
     },
     {
-      "Create 1 Spirit Sphere"
+      "akan mendapat 1 spirit sphere."
     }
   }
 }
@@ -1782,10 +1782,10 @@ StateIconList[EFST_IDs.EFST_NEUTRALBARRIER] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase physical, magical DEF"
+      "Meningkatkan DEF dan MDEF"
     },
     {
-      "Cancel long-distance attack"
+      "Kebal terhadap serangan jarak jauh."
     }
   }
 }
@@ -1816,7 +1816,7 @@ StateIconList[EFST_IDs.EFST_FALCON] = {
       COLOR_TITLE_TOGGLE
     },
     {
-      "Renting Falcon"
+      "Menyewa Falcon"
     }
   }
 }
@@ -1830,10 +1830,10 @@ StateIconList[EFST_IDs.EFST_TWOHANDQUICKEN] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase ASPD"
+      "Meningkatkan kecepatan menyerang"
     },
     {
-      "when using two handed sword"
+      "saat menggunakan pedang dua tangan."
     }
   }
 }
@@ -1847,7 +1847,7 @@ StateIconList[EFST_IDs.EFST_SUN_COMFORT] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase DEF"
+      "Meningkatkan DEF"
     }
   }
 }
@@ -1861,7 +1861,7 @@ StateIconList[EFST_IDs.EFST_KYRIE] = {
     },
     {"%s", COLOR_TIME},
     {
-      "The barrier defends the caster from attacking for certain times"
+      "Melindungi pemain dari serangan untuk beberapa kali"
     }
   }
 }
@@ -1875,7 +1875,7 @@ StateIconList[EFST_IDs.EFST_PROTECTARMOR] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Protect armor from being destroyed"
+      "Melindungi Armor dari kerusakan"
     }
   }
 }
@@ -1889,16 +1889,16 @@ StateIconList[EFST_IDs.EFST_GIANTGROWTH] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase STR"
+      "Meningkatkan STR"
     },
     {
-      "When mili attacking"
+      "Saat menyerang dalam jarak dekat"
     },
     {
-      "have chance to give gigantic damage"
+      "memiliki kesempatan untuk memberi serangan kuat"
     },
     {
-      "have chance to destroy the caster's weapon"
+      "serta merusak senjata pemakai."
     }
   }
 }
@@ -1908,7 +1908,7 @@ StateIconList[EFST_IDs.EFST_STR_SCROLL] = {
   descript = {
     {"%s", COLOR_TIME},
     {
-      "Increase STR"
+      "Meningkatkan STR"
     }
   }
 }
@@ -1919,7 +1919,7 @@ StateIconList[EFST_IDs.EFST_AB_SECRAMENT] = {
     {"Sacrament", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
-      "Decrease the casting time"
+      "Mengurangi waktu cast skill"
     }
   }
 }
@@ -1930,13 +1930,13 @@ StateIconList[EFST_IDs.EFST_PARALYSE] = {
     {"Paralyze", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
-      "Decrease ASPD"
+      "Mengurangi ASPD"
     },
     {
-      "Decrease Flee"
+      "Mengurangi Flee"
     },
     {
-      "Decrease Movement Speed"
+      "Mengurangi kecepatan gerak"
     }
   }
 }
@@ -1947,7 +1947,7 @@ StateIconList[EFST_IDs.EFST_PROPERTYGROUND] = {
     {"Give Quake", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
-      "Enchant Earth property to the weapon"
+      "Memberi elemen Earth pada senjata"
     }
   }
 }
@@ -1961,10 +1961,10 @@ StateIconList[EFST_IDs.EFST_DOUBLECASTING] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Chance to repeat any Bolt skill"
+      "Kesempatan memberi tambahan magic Bolt pada musuh"
     },
     {
-      "that is already casted"
+      "saat menggunakan magic jenis bolt"
     }
   }
 }
@@ -1978,13 +1978,13 @@ StateIconList[EFST_IDs.EFST_RG_CCONFINE_S] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Immobilize the caster and 1 enemy"
+      "Membuat pemain dan lawan tidak bisa bergerak"
     },
     {
-      "Increase Flee"
+      "Meningkatkan Flee"
     },
     {
-      "Cannot use to Boss monster"
+      "Tidak bisa digunakan pada Boss monster"
     }
   }
 }
@@ -1994,10 +1994,10 @@ StateIconList[EFST_IDs.EFST_OVERHEAT] = {
   descript = {
     {"Over Heat", COLOR_TITLE_BUFF},
     {
-      "Over heated status of Madogear"
+      "Membuat Madogear over heat"
     },
     {
-      "Decrease certain HP in every sec"
+      "Mengurangi HP setiap detik"
     }
   }
 }
@@ -2011,10 +2011,10 @@ StateIconList[EFST_IDs.EFST_SPL_MATK] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase MATK"
+      "Meningkatkan serangan magic"
     },
     {
-      "to the monsters in Splendide fields"
+      "kesemua monsters di daratan Splendide"
     }
   }
 }
@@ -2025,10 +2025,10 @@ StateIconList[EFST_IDs.EFST_DEEP_SLEEP] = {
     {"Deep Sleep", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
-      "Get 1.5x damage"
+      "Menerima 50% lebih banyak kerusakan"
     },
     {
-      "Recover certain amount of HP/SP in every 2 sec"
+      "Memulihkan HP/SP setiap 2 detik"
     }
   }
 }
@@ -2042,10 +2042,10 @@ StateIconList[EFST_IDs.EFST_RECOGNIZEDSPELL] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Attack with the maximum MATK"
+      "Menyerang dengan Maksimum MATK"
     },
     {
-      "Increase SP consumption"
+      "Meningkatkan konsumsi SP"
     }
   }
 }
@@ -2055,7 +2055,7 @@ StateIconList[EFST_IDs.EFST_TARGET_ASPD] = {
   descript = {
     {"%s", COLOR_TIME},
     {
-      "Increase MSP, Decrease SP consumption"
+      "Meningkatkan MaxSP, menurunkan konsumsi SP"
     }
   }
 }
@@ -2065,7 +2065,7 @@ StateIconList[EFST_IDs.EFST_FOOD_BASICAVOIDANCE] = {
   descript = {
     {"%s", COLOR_TIME},
     {
-      "Increase Flee"
+      "Meningkatkan Flee"
     }
   }
 }
@@ -2079,10 +2079,10 @@ StateIconList[EFST_IDs.EFST_DEFENDER] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Decrease long-distance physical damage"
+      "Mengurangi kerusakan dari serangan jarak jauh"
     },
     {
-      "Decrease Movement Speed, ASPD"
+      "Menurunkan ASPD dan kecepatan gerak"
     }
   }
 }
@@ -2093,7 +2093,7 @@ StateIconList[EFST_IDs.EFST_WEAPONPROPERTY] = {
     {"Aspersio", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
-      "Give Holy property to the weapon"
+      "Memberi elemen Holy ke senjata"
     }
   }
 }
@@ -2107,10 +2107,10 @@ StateIconList[EFST_IDs.EFST_S_LIFEPOTION] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Recover certain amount of HP in every 5 sec"
+      "Memulihkan HP setip 5 detik"
     },
     {
-      "Doesn't have effect in Berserk condition"
+      "Tidak punya efek saat dalam keadaan Berserk"
     }
   }
 }
@@ -2120,7 +2120,7 @@ StateIconList[EFST_IDs.EFST_FOOD_LUK] = {
   descript = {
     {"%s", COLOR_TIME},
     {
-      "Increase LUK"
+      "Meningkatkan LUK"
     }
   }
 }
@@ -2131,10 +2131,10 @@ StateIconList[EFST_IDs.EFST_BLOODING] = {
     {"Bleeding", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
-      "Cannot recover HP, SP"
+      "Tidak bisa memulihkan HP dan SP"
     },
     {
-      "Lose certain amount of HP in every 10 sec"
+      "Kehilangan HP setiap 10 detik"
     }
   }
 }
@@ -2145,13 +2145,13 @@ StateIconList[EFST_IDs.EFST_REFRESH] = {
     {"Refresh", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
-      "Recover all kinds of abnormal status and debuffs"
+      "Menyembukan dari semua status abnormal dan status pendukung"
     },
     {
-      "Never get abnormal status and debuffs"
+      "Kebal terhadap status abnormal dan status pendukung"
     },
     {
-      "Recover certain amount of HP"
+      "Memulihkan HP"
     }
   }
 }
@@ -2161,7 +2161,7 @@ StateIconList[EFST_IDs.EFST_FOOD_LUK_CASH] = {
   descript = {
     {"%s", COLOR_TIME},
     {
-      "Increase LUK"
+      "Meningkatkan LUK"
     }
   }
 }
@@ -2203,7 +2203,7 @@ StateIconList[EFST_IDs.EFST_TARGET_BLOOD] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase resistance against the status below"
+      "Meningkatkan ketahan terhadap:"
     },
     {
       "Stun, Freezing, Stone Curse, Sleep, Silence"
@@ -2226,7 +2226,7 @@ StateIconList[EFST_IDs.EFST_MELODYOFSINK] = {
       "Increase MATK"
     },
     {
-      "Decrease physical ATK"
+      "Menurunkan serangan fisik"
     }
   }
 }
@@ -2240,7 +2240,7 @@ StateIconList[EFST_IDs.EFST_CRUCIS] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Decrease DEF of Undead and Ghost monsters"
+      "Menurunkan DEF monster Undead dan Ghost"
     }
   }
 }
@@ -2251,7 +2251,7 @@ StateIconList[EFST_IDs.EFST_SLOWCAST] = {
     {"Slow Cast", COLOR_TITLE_DEBUFF},
     {"%s", COLOR_TIME},
     {
-      "Increase the casting time"
+      "Meningkatkan waktu cast"
     }
   }
 }
@@ -2265,7 +2265,7 @@ StateIconList[EFST_IDs.EFST_PROPERTYWIND] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Give Wind property to the weapon"
+      "Memberi senjata elemen angin"
     }
   }
 }
@@ -2279,7 +2279,7 @@ StateIconList[EFST_IDs.EFST_ENCHANTBLADE] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Add MATK to mili physical ATK"
+      "Menambahkan MATK ke serangan jarak dekat"
     }
   }
 }
@@ -2293,10 +2293,10 @@ StateIconList[EFST_IDs.EFST_ADRENALINE] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase ASPD of"
+      "Meningkatkan ASPD senjata"
     },
     {
-      "Axe and Blunt class weapon"
+      "jenis kapak dan gada."
     }
   }
 }
@@ -2310,13 +2310,13 @@ StateIconList[EFST_IDs.EFST_MAGICMUSHROOM] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Smile emoticon"
+      "Menggunakan emoticon tertawa setiap saat."
     },
     {
-      "Cast random skill in every 4 sec"
+      "Menggunakan skill acak setiap 4 detik."
     },
     {
-      "Lose certain amount of HP in every 4 sec"
+      "Mengurangi HP setiap 4 detik."
     }
   }
 }
@@ -2326,7 +2326,7 @@ StateIconList[EFST_IDs.EFST_CASH_PLUSEXP] = {
   descript = {
     {"%s", COLOR_TIME},
     {
-      "Increase amount of EXP acquired"
+      "Meningkatkan jumlah EXP yang didapat."
     }
   }
 }
@@ -2340,7 +2340,7 @@ StateIconList[EFST_IDs.EFST_ATTHASTE_POTION2] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase ASPD"
+      "Meningkatkan ASPD"
     }
   }
 }
@@ -2351,13 +2351,13 @@ StateIconList[EFST_IDs.EFST_TOXIN] = {
     {"Toxin", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
-      "Bothers casting and skill motion for 10 sec"
+      "Menggagalkan skill cast setiap 10 detik."
     },
     {
-      "Ignore Phen Card options"
+      "Menghilangkan efek kartu phen dan sejenisnya."
     },
     {
-      "Lose certain amount of SP in every 10 sec"
+      "Mengurangi SP setiap 10 detik."
     }
   }
 }
@@ -2368,19 +2368,19 @@ StateIconList[EFST_IDs.EFST_RAISINGDRAGON] = {
       COLOR_TITLE_BUFF
     },
     {
-      "Increase the maximum number of Spirit Sphere"
+      "Meningkatkan jumlah Spirit Sphere"
     },
     {
-      "Increase the maximum HP and SP"
+      "Meningkatkan MaxHP dan MaxSP"
     },
     {
-      "Increase ASPD"
+      "Meningkatkan ASPD"
     },
     {
-      "Keeps Fury status"
+      "Menjaga status Fury tetap aktif"
     },
     {
-      "Consume certain amount of HP in every sec"
+      "Mengurangi HP setiap detik"
     }
   }
 }
@@ -2391,7 +2391,7 @@ StateIconList[EFST_IDs.EFST_HARMONIZE] = {
     {"Harmonize", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
-      "Adjust additional Status"
+      "Mengurangi semua stats"
     }
   }
 }
@@ -2401,7 +2401,7 @@ StateIconList[EFST_IDs.EFST_CHASEWALK2] = {
   descript = {
     {"%s", COLOR_TIME},
     {
-      "Increase STR"
+      "Meningkatkan STR"
     }
   }
 }
@@ -2411,7 +2411,7 @@ StateIconList[EFST_IDs.EFST_FOOD_STR_CASH] = {
   descript = {
     {"%s", COLOR_TIME},
     {
-      "Increase STR"
+      "Meningkatkan STR"
     }
   }
 }
@@ -2422,13 +2422,13 @@ StateIconList[EFST_IDs.EFST_CLOAKINGEXCEED] = {
       COLOR_TITLE_BUFF
     },
     {
-      "Can't be detected by Insect and Demon monsters"
+      "Tidak bisa dideteksi oleh serangga dan iblis."
     },
     {
-      "Not released till hit by certain numbers of damage"
+      "Skill dibatalkan saat menerima beberapa serangan."
     },
     {
-      "Increase Movement Speed"
+      "Meningkatkan kecepatan gerak."
     }
   }
 }
@@ -2439,7 +2439,7 @@ StateIconList[EFST_IDs.EFST_ASSUMPTIO2] = {
     {"Assumptio", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
-      "Increase DEF"
+      "Meningkatkan DEF"
     }
   }
 }
@@ -2453,7 +2453,7 @@ StateIconList[EFST_IDs.EFST_THORNS_TRAP] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Get damage little by little"
+      "Mengurangi HP secara terus menerus."
     }
   }
 }
@@ -2467,7 +2467,7 @@ StateIconList[EFST_IDs.EFST_SLOWPOISON] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Temporarily stop the poison spread"
+      "Untuk sementara menghentikan status poison."
     }
   }
 }
@@ -2478,7 +2478,7 @@ StateIconList[EFST_IDs.EFST_CLOAKING] = {
     {"Cloaking", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
-      "Can't be seen by others"
+      "Dapat bergerak dalam keadaan sembunyi."
     }
   }
 }
@@ -2488,7 +2488,7 @@ StateIconList[EFST_IDs.EFST_PARTYFLEE] = {
   descript = {
     {"%s", COLOR_TIME},
     {
-      "Increase Flee"
+      "Meningkatkan Flee"
     }
   }
 }
@@ -2499,7 +2499,7 @@ StateIconList[EFST_IDs.EFST_CRITICALPERCENT] = {
     {"Abrasive", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
-      "Increase Critical chance"
+      "Meningkatkan kemungkinan Kritikal"
     }
   }
 }
@@ -2513,19 +2513,16 @@ StateIconList[EFST_IDs.EFST_INSPIRATION] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase Accuracy, Stats, ATK, MHP"
+      "Meningkatkan akurasi, ATK, MaxHP dan semua status."
     },
     {
-      "Cancel certain buffs and abnormal status"
+      "Menghilangkan abnormal status dan skill pendukung."
     },
     {
-      "Decrease HP, SP continuously"
+      "Mengurangi HP dan SP secara terus menerus."
     },
     {
-      "Cancel all kinds of buffs and abnormal status"
-    },
-    {
-      "Lose certain amount of EXP"
+      "Mengurangi sejumlah EXP."
     }
   }
 }
@@ -2539,10 +2536,10 @@ StateIconList[EFST_IDs.EFST_UNLIMITED_HUMMING_VOICE] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Skill and magic casting is never get disconnected"
+      "Cast skill tidak bisa dibatalkan."
     },
     {
-      "Increase SP consumption when using skills"
+      "Meningkatkan konsumsi SP."
     }
   }
 }
@@ -2552,7 +2549,7 @@ StateIconList[EFST_IDs.EFST_FOOD_DEX] = {
   descript = {
     {"%s", COLOR_TIME},
     {
-      "Increase DEX"
+      "Meningkatkan DEX"
     }
   }
 }
@@ -2563,7 +2560,7 @@ StateIconList[EFST_IDs.EFST_ANALYZE] = {
     {"Analyze", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
-      "Decrease physical, magical DEF"
+      "Mengurangi pertahanan fisik dan magic."
     }
   }
 }
@@ -2577,16 +2574,13 @@ StateIconList[EFST_IDs.EFST_GENTLETOUCH_REVITALIZE] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase VIT, MHP"
+      "Meningkatkan VIT, MaxHP dan DEF"
     },
     {
-      "Increase physical DEF"
+      "Meningkatkan regenerasi HP"
     },
     {
-      "Increase HP auto recovery speed"
-    },
-    {
-      "Recovery HP while moving and attacking"
+      "HP dapat beregenerasi saat bergerak dan menyerang."
     }
   }
 }
@@ -2597,10 +2591,7 @@ StateIconList[EFST_IDs.EFST_COUNTER_ON] = {
       COLOR_TITLE_BUFF
     },
     {
-      "When the caster successfully hits a target"
-    },
-    {
-      "have chance of entering Counter Kick Stance"
+      "Saat menyerang lawan dapat mengaktifkan Counter Kick Stance."
     }
   }
 }
@@ -2611,7 +2602,7 @@ StateIconList[EFST_IDs.EFST_GLORIA] = {
     {"Gloria", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
-      "Increase LUK"
+      "Meningkatkan LUK"
     }
   }
 }
@@ -2625,7 +2616,7 @@ StateIconList[EFST_IDs.EFST_RUSH_WINDMILL] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase ATK"
+      "Meningkatkan ATK"
     }
   }
 }
@@ -2636,7 +2627,7 @@ StateIconList[EFST_IDs.EFST_PYREXIA] = {
     {"Pyrexia", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
-      "Darkness, Confusion status"
+      "Menyebabkan Blind dan Confuse."
     }
   }
 }
@@ -2650,10 +2641,10 @@ StateIconList[EFST_IDs.EFST_DANCE_WITH_WUG] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase ASPD"
+      "Meningkatkan ASPD."
     },
     {
-      "Decrease fixed casting time"
+      "Mengurangi waktu cast tetap."
     }
   }
 }
@@ -2667,10 +2658,10 @@ StateIconList[EFST_IDs.EFST_SWING] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase Movement Speed"
+      "Meningkatkan kecepatan gerak"
     },
     {
-      "Increase ASPD"
+      "Meningkatkan ASPD"
     }
   }
 }
@@ -2684,7 +2675,7 @@ StateIconList[EFST_IDs.EFST_MOON_COMFORT] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase Flee"
+      "Meningkatkan Flee"
     }
   }
 }
@@ -2698,7 +2689,7 @@ StateIconList[EFST_IDs.EFST_MOONLIT_SERENADE] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase MATK"
+      "Meningkatkan MATK"
     }
   }
 }
@@ -2712,10 +2703,10 @@ StateIconList[EFST_IDs.EFST_GENTLETOUCH_CHANGE] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Decrease VIT, MDEF"
+      "Mengurangi VIT dan MDEF"
     },
     {
-      "Increase ATK, ASPD"
+      "Meningkatkan ATK dan ASPD"
     }
   }
 }
@@ -2729,7 +2720,7 @@ StateIconList[EFST_IDs.EFST_STRIPACCESSARY] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Cannot wear accessory"
+      "Tidak dapat mengenakan aksesoris."
     }
   }
 }
@@ -2739,7 +2730,7 @@ StateIconList[EFST_IDs.EFST_PROPERTYUNDEAD] = {
   descript = {
     {"%s", COLOR_TIME},
     {
-      "Give Undead property"
+      "Memberi elemen undead."
     }
   }
 }
@@ -2753,16 +2744,16 @@ StateIconList[EFST_IDs.EFST_INVISIBILITY] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Able to attack in invisible status"
+      "Dapat menyerang dalam keadaan hiding."
     },
     {
-      "Change ATK property into Ghost property lv.1"
+      "Merubah serangan menjadi berelemen Ghost."
     },
     {
-      "Continuously consume SP"
+      "Mengurangi SP terus menerus."
     },
     {
-      "Unable to use skills and items"
+      "Tidak dapat menggunakan skill dan barang."
     }
   }
 }
@@ -2773,7 +2764,7 @@ StateIconList[EFST_IDs.EFST_ABUNDANCE] = {
     {"Abundance", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
-      "Recover certain amount of SP in every 10 sec"
+      "Memulihkan SP setiap 10 detik."
     }
   }
 }
@@ -2783,7 +2774,7 @@ StateIconList[EFST_IDs.EFST_FOOD_BASICHIT] = {
   descript = {
     {"%s", COLOR_TIME},
     {
-      "Increase Accuracy"
+      "Meningkatkan Akurasi"
     }
   }
 }
@@ -2793,7 +2784,7 @@ StateIconList[EFST_IDs.EFST_FOOD_AGI_CASH] = {
   descript = {
     {"%s", COLOR_TIME},
     {
-      "Increase AGI"
+      "Meningkatkan AGI"
     }
   }
 }
@@ -2807,10 +2798,10 @@ StateIconList[EFST_IDs.EFST_SHADOWFORM] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Dump the caster's damage"
+      "Memantulkan serangan yang diterima"
     },
     {
-      "according to caster's skill level"
+      "ke karakter yang dipilih."
     }
   }
 }
@@ -2824,10 +2815,10 @@ StateIconList[EFST_IDs.EFST_AUTOSHADOWSPELL] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Enable the magical skills"
+      "Dapat mengaktifkan skill magic yang dicopy"
     },
     {
-      "learned by Plagiarize and Reproduce"
+      "saat menyerang musuh dalam jarak dekat."
     }
   }
 }
@@ -2841,7 +2832,7 @@ StateIconList[EFST_IDs.EFST_SHAPESHIFT] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Change the property of Madogear's fuselage"
+      "Merubah elemen Madogear."
     }
   }
 }
@@ -2855,10 +2846,10 @@ StateIconList[EFST_IDs.EFST_MANU_ATK] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase physical ATK"
+      "Meningkatkan serangan fisik"
     },
     {
-      "to the monsters in Manuk fields"
+      "kesemua monster di dataran Manuk."
     }
   }
 }
@@ -2872,10 +2863,10 @@ StateIconList[EFST_IDs.EFST_MARIONETTE_MASTER] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Pass the status to"
+      "Memberi sebagian base status"
     },
     {
-      "the targeted player"
+      "ke pemain yang dituju."
     }
   }
 }
@@ -2889,10 +2880,10 @@ StateIconList[EFST_IDs.EFST_MARIONETTE] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Received a bonus Stats"
+      "Menerima sebagian base status"
     },
     {
-      "from the caster"
+      "dari pengguna skill."
     }
   }
 }
@@ -2906,10 +2897,7 @@ StateIconList[EFST_IDs.EFST_WZ_SIGHTBLASTER] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Push away the enemy giving the damage"
-    },
-    {
-      "equal to the caster's MATK"
+      "Menyerang dan mendorong musuh"
     }
   }
 }
@@ -2923,7 +2911,7 @@ StateIconList[EFST_IDs.EFST_LEXAETERNA] = {
     },
     {"%s", COLOR_TIME},
     {
-      "The enemy receives the damage twice"
+      "Menerima dua kali kerusakan dari serangan."
     }
   }
 }
@@ -2937,10 +2925,10 @@ StateIconList[EFST_IDs.EFST_INFRAREDSCAN] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Find out the hidden enemy"
+      "Mendeteksi musuh yang bersembunyi."
     },
     {
-      "Have chance to lower Flee of all the targets within the range"
+      "Mengurangi FLEE musuh yang terdeteksi."
     }
   }
 }
@@ -2950,7 +2938,7 @@ StateIconList[EFST_IDs.EFST_INT_SCROLL] = {
   descript = {
     {"%s", COLOR_TIME},
     {
-      "Increase INT"
+      "Meningkatkan INT"
     }
   }
 }
@@ -2961,14 +2949,14 @@ StateIconList[EFST_IDs.EFST_ASPERSIO] = {
     {"Aspersio", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
-      "Give Holy property to the weapon"
+      "Memberi elemen Holy ke senjata."
     }
   }
 }
 StateIconList[EFST_IDs.EFST_MOVHASTE_INFINITY] = {
   descript = {
     {
-      "Increase Movement Speed"
+      "Meningkatkan kecepatan gerak."
     }
   }
 }
@@ -2982,7 +2970,7 @@ StateIconList[EFST_IDs.EFST_LERADS_DEW] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase MHP"
+      "Meningkatkan MaxHP"
     }
   }
 }
@@ -2992,7 +2980,7 @@ StateIconList[EFST_IDs.EFST_FOOD_INT] = {
   descript = {
     {"%s", COLOR_TIME},
     {
-      "Increase INT"
+      "Meningkatkan INT"
     }
   }
 }
@@ -3006,7 +2994,7 @@ StateIconList[EFST_IDs.EFST_VENOMBLEED] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Decrease MHP"
+      "Mengurangi MaxHP"
     }
   }
 }
@@ -3020,10 +3008,10 @@ StateIconList[EFST_IDs.EFST_GS_GATLINGFEVER] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase ASPD, Damage"
+      "Meningkatkan ASPD dan serangan."
     },
     {
-      "Decrease Flee, Movement Speed"
+      "Mengurangi Flee dan kecepatan gerak."
     }
   }
 }
@@ -3037,16 +3025,16 @@ StateIconList[EFST_IDs.EFST_VITALITYACTIVATION] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase the effect of"
+      "Meningkatkan efek dari"
     },
     {
-      "HP recovery skill and healing item"
+      "skill dan barang pemulih HP."
     },
     {
-      "Cannot auto-recover SP"
+      "SP tidak dapat beregenerasi."
     },
     {
-      "Decrease the effect of SP recovery potion"
+      "Mengurangi efek dari barang pemulih SP."
     }
   }
 }
@@ -3060,16 +3048,16 @@ StateIconList[EFST_IDs.EFST_STONEHARDSKIN] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Create defense barrier after consuming certain amount of HP"
+      "Membuat perisai dengan mengorbankan HP."
     },
     {
-      "When other player mili physical attacks to the caster"
+      "Kemungkinan untuk membuat senjata lawan rusak"
     },
     {
-      "have chance to destroy the enemy's weapon"
+      "saat mereka menyerang dalam jarak dekat."
     },
     {
-      "have chance to decrease ATK of the monster"
+      "Kemungkinan untuk mengurangi ATK dari monster yang menyerang."
     }
   }
 }
@@ -3080,10 +3068,10 @@ StateIconList[EFST_IDs.EFST_WEIGHTOVER90] = {
       COLOR_TITLE_DEBUFF
     },
     {
-      "Cannot recover HP, SP automatically"
+      "HP dan SP tidak dapat beregenerasi."
     },
     {
-      "Cannot attack and use skills"
+      "Tidak dapat menyerang atau menggunakan skill."
     }
   }
 }
@@ -3097,7 +3085,7 @@ StateIconList[EFST_IDs.EFST_PROTECTHELM] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Protect helm from being destroyed"
+      "Melindungi Pelindung kepala dari kerusakan."
     }
   }
 }
@@ -3111,7 +3099,7 @@ StateIconList[EFST_IDs.EFST_PLUSAVOIDVALUE] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase Full Flee"
+      "Meningkatkan hindaran sempurna."
     }
   }
 }
@@ -3120,7 +3108,7 @@ StateIconList[EFST_IDs.EFST_OBLIVIONCURSE] = {
   posTimeLimitStr = 2,
   descript = {
     {
-      "Oblivious Curse",
+      "Oblivion Curse",
       COLOR_TITLE_DEBUFF
     },
     {"%s", COLOR_TIME},
@@ -3139,10 +3127,10 @@ StateIconList[EFST_IDs.EFST_HEALPLUS] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase the effect of"
+      "Meningkatkan efek dari"
     },
     {
-      "healing skills and some healing items"
+      "skill heal dan barang pemulih HP."
     }
   }
 }
@@ -3156,7 +3144,7 @@ StateIconList[EFST_IDs.EFST_PROTECT_DEF] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase resistance against physical ATK"
+      "Meningkatkan daya tahan dari serangan fisik."
     }
   }
 }
@@ -3170,7 +3158,7 @@ StateIconList[EFST_IDs.EFST_CRITICALWOUND] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Decrease the effect of healing skills"
+      "Mengurangi efek dari skill heal."
     }
   }
 }
@@ -3181,10 +3169,10 @@ StateIconList[EFST_IDs.EFST_PRESTIGE] = {
     {"Prestige", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
-      "Apply the magical flee rate according to caster's stats"
+      "Kemungkinan untuk menghindari serangan magic."
     },
     {
-      "Increase DEF"
+      "Meningkatkan DEF."
     }
   }
 }
@@ -3194,7 +3182,7 @@ StateIconList[EFST_IDs.EFST_FOOD_DEX_CASH] = {
   descript = {
     {"%s", COLOR_TIME},
     {
-      "Increase DEX"
+      "Meningkatkan DEX"
     }
   }
 }
@@ -3205,7 +3193,7 @@ StateIconList[EFST_IDs.EFST_CARTBOOST] = {
     {"Cart Boost", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
-      "Increase movement speed when using a cart"
+      "Meningkatkan kecepatan gerak saat menggunakan gerobak."
     }
   }
 }
@@ -3219,10 +3207,10 @@ StateIconList[EFST_IDs.EFST_L_LIFEPOTION] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Recover certain amount of HP in every 4 sec"
+      "Memulihkan HP setiap 4 detik."
     },
     {
-      "No effect when Berserk status"
+      "Tidak memiliki efek saat memiliki status Berserk."
     }
   }
 }
@@ -3236,7 +3224,7 @@ StateIconList[EFST_IDs.EFST_WINDWALK] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase movement speed, Flee"
+      "Meningkatkan Flee dan kecepatan gerak."
     }
   }
 }
@@ -3250,7 +3238,7 @@ StateIconList[EFST_IDs.EFST_PROPERTYFIRE] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Give fire property to the weapon"
+      "Memberi elemen api ke senjata."
     }
   }
 }
@@ -3261,7 +3249,7 @@ StateIconList[EFST_IDs.EFST_STRIKING] = {
     {"Strike", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
-      "Increase weapon ATK, critical rate"
+      "Meningkatkan ATK dan kemungkinan kritikal."
     }
   }
 }
@@ -3272,10 +3260,7 @@ StateIconList[EFST_IDs.EFST_DOWNKICK_ON] = {
       COLOR_TITLE_BUFF
     },
     {
-      "Have chance of entering"
-    },
-    {
-      "Heel Drop Stance when the caster successfully hits a target"
+      "Saat menyerang lawan dapat mengaktifkan Heel Drop Stance."
     }
   }
 }
@@ -3285,7 +3270,7 @@ StateIconList[EFST_IDs.EFST_PROPERTYDARK] = {
   descript = {
     {"%s", COLOR_TIME},
     {
-      "Give dark property to the target"
+      "Memberi elemen Dark pada target."
     }
   }
 }
@@ -3299,17 +3284,14 @@ StateIconList[EFST_IDs.EFST_REFLECTSHIELD] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Reflect certain amount of damage to the enemy"
-    },
-    {
-      "which the caster got from the mili-physical attack"
+      "Memantulkan sebagian serangan jarak dekat kembali ke musuh."
     }
   }
 }
 StateIconList[EFST_IDs.EFST_RIDING] = {
   descript = {
     {
-      "Riding Vehicle",
+      "Menaiki Tunggangan",
       COLOR_TITLE_TOGGLE
     }
   }
@@ -3324,13 +3306,10 @@ StateIconList[EFST_IDs.EFST_LIGHTNINGWALK] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Have chance to avoid long distance"
+      "Kemungkinan untuk menghindari serangan magic dan fisik jarak jauh"
     },
     {
-      "physical, magical attack"
-    },
-    {
-      "and move right before the enemy"
+      "dan berpindah langsung di hadapan musuh."
     }
   }
 }
@@ -3344,10 +3323,10 @@ StateIconList[EFST_IDs.EFST_FROSTMISTY] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Decrease DEF, Movement Speed, ASPD"
+      "Mengurangi DEF, kecepatan gerak dan ASPD"
     },
     {
-      "Increase fixed casting time"
+      "Meningkatkan waktu cast tetap."
     }
   }
 }
@@ -3361,10 +3340,10 @@ StateIconList[EFST_IDs.EFST_COLD] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Give water property damage"
+      "Menyerang dengan elemen air."
     },
     {
-      "Give freezing status"
+      "Memberi status Freezing."
     }
   }
 }
@@ -3385,13 +3364,13 @@ StateIconList[EFST_IDs.EFST_HELLPOWER] = {
     {"Hell Power", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
-      "Cannot revive"
+      "Tidak dapat dihidupkan."
     },
     {
-      "Cannot use Sacrifice"
+      "Tidak bisa menggunakan Sacrifice."
     },
     {
-      "Cannot use Token of Siegfried"
+      "Tidak bisa menggunakan  Token of Siegfried."
     }
   }
 }
@@ -3402,7 +3381,7 @@ StateIconList[EFST_IDs.EFST_SAVAGE_STEAK] = {
     {"Savage BBQ", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
-      "Increase STR"
+      "Meningkatkan STR"
     }
   }
 }
@@ -3416,7 +3395,7 @@ StateIconList[EFST_IDs.EFST_COCKTAIL_WARG_BLOOD] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase INT"
+      "Meningkatkan INT"
     }
   }
 }
@@ -3430,7 +3409,7 @@ StateIconList[EFST_IDs.EFST_MINOR_BBQ] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase VIT"
+      "Meningkatkan VIT"
     }
   }
 }
@@ -3444,7 +3423,7 @@ StateIconList[EFST_IDs.EFST_SIROMA_ICE_TEA] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase DEX"
+      "Meningkatkan DEX"
     }
   }
 }
@@ -3458,7 +3437,7 @@ StateIconList[EFST_IDs.EFST_DROCERA_HERB_STEAMED] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase AGI"
+      "Meningkatkan AGI"
     }
   }
 }
@@ -3472,7 +3451,7 @@ StateIconList[EFST_IDs.EFST_PUTTI_TAILS_NOODLES] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase LUK"
+      "Meningkatkan LUK"
     }
   }
 }
@@ -3486,16 +3465,16 @@ StateIconList[EFST_IDs.EFST_STOMACHACHE] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Reduce all additional status"
+      "Mengurangi sebagian status."
     },
     {
-      "Decrease Movement Speed"
+      "Mengurangi kecepatan gerak."
     },
     {
-      "Forced to sit down once in every 10 sec"
+      "Setiap 10 detik karakter akan dipaksa duduk."
     },
     {
-      "Consume certain amount of SP for 10 sec"
+      "Mengurangi SP setiap 10 detik."
     }
   }
 }
@@ -3509,7 +3488,7 @@ StateIconList[EFST_IDs.EFST_PROTECTEXP] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Never lose EXP when the caster is dead"
+      "Tidak akan kehilangan EXP saat karakter mati."
     }
   }
 }
@@ -3523,7 +3502,7 @@ StateIconList[EFST_IDs.EFST_ANGEL_PROTECT] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase HP, SP recovery speed"
+      "Meningkatkan regenerasi HP dan SP."
     }
   }
 }
@@ -3534,10 +3513,10 @@ StateIconList[EFST_IDs.EFST_MORA_BUFF] = {
     {"Mora Berry", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
-      "Increase resistance against"
+      "Meningkatkan daya tahan dari serangan"
     },
     {
-      "the monsters in the fields nearby Mora village"
+      "monsters di dataran sekitar desa Mora."
     }
   }
 }
@@ -3551,10 +3530,10 @@ StateIconList[EFST_IDs.EFST_POPECOOKIE] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase ATK, MATK"
+      "Meningkatkan ATK dan MATK"
     },
     {
-      "Increase all kinds of property resistances"
+      "Meningkatkan daya tahan dari semua elemen."
     }
   }
 }
@@ -3568,10 +3547,10 @@ StateIconList[EFST_IDs.EFST_VITALIZE_POTION] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase ATK, MATK"
+      "Meningkatkan ATK dan MATK"
     },
     {
-      "Increase effects of heal and healing items"
+      "Meningkatkan efek dari skill heal dan barang pemulih HP."
     }
   }
 }
@@ -3585,10 +3564,10 @@ StateIconList[EFST_IDs.EFST_G_LIFEPOTION] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Recover certain amount of HP every 3 seconds"
+      "Memulihkan HP setiap 3 detik."
     },
     {
-      "Not activated in Berserk condition"
+      "Tidak ada efek saat memiliki status Berserk."
     }
   }
 }
@@ -3602,10 +3581,10 @@ StateIconList[EFST_IDs.EFST_ODINS_POWER] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Increase ATK, MATK"
+      "Meningkatkan ATK dan MATK"
     },
     {
-      "Decrease DEF, MDEF"
+      "Mengurangi DEF dan MDEF"
     }
   }
 }
@@ -4908,9 +4887,9 @@ StateIconList[EFST_IDs.EFST_FRIGG_SONG] = {
       "Frigg's Song",
       COLOR_TITLE_BUFF
     },
-    {"Increase Max Hp"},
+    {"Meningkatkan MaxHP"},
     {
-      "Recover HP every seconds"
+      "Memulihkan HP setiap detik"
     },
     {"%s", COLOR_TIME}
   }
@@ -4924,10 +4903,10 @@ StateIconList[EFST_IDs.EFST_OFFERTORIUM] = {
       COLOR_TITLE_BUFF
     },
     {
-      "Increases the efficiency of heal skills"
+      "Meningkatkan efek dari skill Heal"
     },
     {
-      "Increase SP consumption"
+      "Meningkatkan konsumsi SP"
     },
     {"%s", COLOR_TIME}
   }
@@ -4941,13 +4920,13 @@ StateIconList[EFST_IDs.EFST_TELEKINESIS_INTENSE] = {
       COLOR_TITLE_BUFF
     },
     {
-      "Increase ghost property magic damage"
+      "Meningkatkan serangan magic berelemen ghost."
     },
     {
-      "Reduce SP consumption of ghost property magic"
+      "Mengurangi konsumsi SP magic berelemen ghost."
     },
     {
-      "Decrease variable cast time of all skills"
+      "Mengurangi waktu cast variabel."
     },
     {"%s", COLOR_TIME}
   }
@@ -4958,10 +4937,10 @@ StateIconList[EFST_IDs.EFST_FULL_THROTTLE] = {
   descript = {
     {"Full Throttle", COLOR_TITLE_BUFF},
     {
-      "Increase movement speed"
+      "Meningkatkan Kecepatan Gerak."
     },
     {
-      "Increase All Stats"
+      "Meningkatkan semua status."
     },
     {"%s", COLOR_TIME}
   }
@@ -4972,10 +4951,10 @@ StateIconList[EFST_IDs.EFST_REBOUND] = {
   descript = {
     {"Rebound", COLOR_TITLE_DEBUFF},
     {
-      "Decrease movement speed"
+      "Mengurangi kecepatan gerak."
     },
     {
-      "Disable HP and SP recovery"
+      "HP dan SP tidak dapat beregenerasi."
     },
     {"%s", COLOR_TIME}
   }
@@ -4986,10 +4965,10 @@ StateIconList[EFST_IDs.EFST_UNLIMIT] = {
   descript = {
     {"No Limits", COLOR_TITLE_BUFF},
     {
-      "Increase damage of ranged attack"
+      "Meningkatkan serangan jarak jauh."
     },
     {
-      "Greatly reduce DEF and MDEF"
+      "Mengurangi secara drastis DEF dan MDEF."
     },
     {"%s", COLOR_TIME}
   }
@@ -4999,12 +4978,12 @@ StateIconList[EFST_IDs.EFST_KINGS_GRACE] = {
   posTimeLimitStr = 5,
   descript = {
     {"King's Grace", COLOR_TITLE_BUFF},
-    {"Invulnerable"},
+    {"Kebal terhadap semua serangan."},
     {
-      "Disable item use"
+      "Tidak bisa menggunakan barang."
     },
     {
-      "Unable to move and attack"
+      "Tidak bisa bergerak atau menyerang."
     },
     {"%s", COLOR_TIME}
   }
@@ -5015,7 +4994,7 @@ StateIconList[EFST_IDs.EFST_DARKCROW] = {
   descript = {
     {"Dark Claw", COLOR_TITLE_DEBUFF},
     {
-      "Increase melee damage"
+      "Meningkatkan serangan jarak dekat."
     },
     {"%s", COLOR_TIME}
   }
@@ -5028,7 +5007,7 @@ StateIconList[EFST_IDs.EFST_JITTER_BUFF1] = {
       "뉴오즈의 엉뚱함",
       COLOR_TITLE_BUFF
     },
-    {"Increase ATK"},
+    {"Meningkatkan ATK"},
     {"%s", COLOR_TIME}
   }
 }
@@ -5040,7 +5019,7 @@ StateIconList[EFST_IDs.EFST_JITTER_BUFF2] = {
       "아이구의 의지",
       COLOR_TITLE_BUFF
     },
-    {"Increase MATK"},
+    {"Meningkatkan MATK"},
     {"%s", COLOR_TIME}
   }
 }
@@ -5053,7 +5032,7 @@ StateIconList[EFST_IDs.EFST_JITTER_BUFF3] = {
       COLOR_TITLE_BUFF
     },
     {
-      "Reduce after-attack delay"
+      "Mengurangi jeda setelah menyerang."
     },
     {"%s", COLOR_TIME}
   }
@@ -5067,7 +5046,7 @@ StateIconList[EFST_IDs.EFST_JITTER_BUFF4] = {
       COLOR_TITLE_BUFF
     },
     {
-      "Reduce SP consumption"
+      "Mengurangi konsumsi SP."
     },
     {"%s", COLOR_TIME}
   }
@@ -5081,7 +5060,7 @@ StateIconList[EFST_IDs.EFST_JITTER_BUFF5] = {
       COLOR_TITLE_BUFF
     },
     {
-      "Reduce after-cast delay"
+      "Mengurangi jeda setelah menggunakan skill."
     },
     {"%s", COLOR_TIME}
   }
@@ -5095,7 +5074,7 @@ StateIconList[EFST_IDs.EFST_JITTER_BUFF6] = {
       COLOR_TITLE_BUFF
     },
     {
-      "Increase accuracy"
+      "Meningkatkan Akurasi."
     },
     {"%s", COLOR_TIME}
   }
@@ -5108,7 +5087,7 @@ StateIconList[EFST_IDs.EFST_JITTER_BUFF7] = {
       "로엘의 진지함",
       COLOR_TITLE_BUFF
     },
-    {"Increase DEF"},
+    {"Meningkatkan DEF"},
     {"%s", COLOR_TIME}
   }
 }
@@ -5120,7 +5099,7 @@ StateIconList[EFST_IDs.EFST_JITTER_BUFF8] = {
       "루나인의 세침함",
       COLOR_TITLE_BUFF
     },
-    {"Increase Heal efficiency"},
+    {"Meningkatkan efek dari heal."},
     {"%s", COLOR_TIME}
   }
 }
@@ -5132,7 +5111,7 @@ StateIconList[EFST_IDs.EFST_JITTER_BUFF9] = {
       "라기의 썰렁함",
       COLOR_TITLE_BUFF
     },
-    {"Increase MDEF"},
+    {"Meningkatkan MDEF"},
     {"%s", COLOR_TIME}
   }
 }
@@ -5145,7 +5124,7 @@ StateIconList[EFST_IDs.EFST_JITTER_BUFF10] = {
       COLOR_TITLE_BUFF
     },
     {
-      "Increase evasion"
+      "Meningkatkan FLEE"
     },
     {"%s", COLOR_TIME}
   }
@@ -5223,7 +5202,7 @@ StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE1] = {
       "Powerful 30 seconds",
       COLOR_TITLE_BUFF
     },
-    {"Increase ATK"},
+    {"Meningkatkan ATK"},
     {"%s", COLOR_TIME}
   }
 }
@@ -5235,7 +5214,7 @@ StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE2] = {
       "Smart 30 seconds",
       COLOR_TITLE_BUFF
     },
-    {"Increase MATK"},
+    {"Meningkatkan MATK"},
     {"%s", COLOR_TIME}
   }
 }
@@ -5247,7 +5226,7 @@ StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE3] = {
       "Stamina 30 Seconds",
       COLOR_TITLE_BUFF
     },
-    {"Increase Max HP"},
+    {"Meningkatkan MaxHP"},
     {"%s", COLOR_TIME}
   }
 }
@@ -5259,7 +5238,7 @@ StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE4] = {
       "Horse Power 30 Seconds",
       COLOR_TITLE_BUFF
     },
-    {"Increase Max SP"},
+    {"Meningkatkan MaxSP"},
     {"%s", COLOR_TIME}
   }
 }
@@ -5271,7 +5250,7 @@ StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE5] = {
       "Light 30 Seconds",
       COLOR_TITLE_BUFF
     },
-    {"Increase FLEE"},
+    {"Meningkatkan FLEE"},
     {"%s", COLOR_TIME}
   }
 }
@@ -5283,7 +5262,7 @@ StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE6] = {
       "Faster 30 Seconds",
       COLOR_TITLE_BUFF
     },
-    {"Increase ASPD"},
+    {"Meningkatkan ASPD"},
     {"%s", COLOR_TIME}
   }
 }
@@ -5295,7 +5274,7 @@ StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE7] = {
       "Strong 30 Seconds",
       COLOR_TITLE_BUFF
     },
-    {"Increase DEF"},
+    {"Meningkatkan DEF"},
     {"%s", COLOR_TIME}
   }
 }
@@ -5307,7 +5286,7 @@ StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE8] = {
       "Safe 30 Seconds",
       COLOR_TITLE_BUFF
     },
-    {"Increase MDEF"},
+    {"Meningkatkan MDEF"},
     {"%s", COLOR_TIME}
   }
 }
@@ -5319,7 +5298,7 @@ StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE9] = {
       "Good Luck 30 Seconds",
       COLOR_TITLE_BUFF
     },
-    {"Increase Critical rate"},
+    {"Meningkatkan kemungkinan kritikal"},
     {"%s", COLOR_TIME}
   }
 }
@@ -5331,7 +5310,7 @@ StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE10] = {
       "Suits 30 Seconds",
       COLOR_TITLE_BUFF
     },
-    {"Increase HIT"},
+    {"Meningkatkan HIT"},
     {"%s", COLOR_TIME}
   }
 }
@@ -5344,7 +5323,7 @@ StateIconList[EFST_IDs.EFST_GLASTHEIM_TRANS] = {
       COLOR_TITLE_DEBUFF
     },
     {
-      "Reduce ghost property damage by 50%."
+      "Mengurangi 50% serangan yang diterima dari elemen Ghost."
     },
     {"%s", COLOR_TIME}
   }
@@ -5358,7 +5337,7 @@ StateIconList[EFST_IDs.EFST_ZONGZI_POUCH_TRANS] = {
       COLOR_TITLE_BUFF
     },
     {
-      "Increase all stats"
+      "Meningkatkan semua status."
     },
     {"%s", COLOR_TIME}
   }
@@ -5373,7 +5352,7 @@ StateIconList[EFST_IDs.EFST_B_TRAP] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Reduce movement speed"
+      "Mengurangi kecepatan gerak."
     }
   }
 }
