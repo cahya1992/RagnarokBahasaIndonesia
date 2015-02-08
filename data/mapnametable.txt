@@ -2,53 +2,53 @@
 // ep16.1 Banquet for Hero + Prontera Renewal
 1@mir.rsw#Awareness of the room#
 2@mir.rsw#Awareness of the room#
-1@sthb.rsw#Inside Sky Fortress#
-1@sthc.rsw#Secret Chamber of Sky Fortress#
-1@sthd.rsw#Sky Fortress Top Floor#
+1@sthb.rsw#Dalam Benteng di atas langit#
+1@sthc.rsw#Ruang Rahasia Benteng di atas langit#
+1@sthd.rsw#Lantai atas Benteng di atas langit#
 
-prt_cas.rsw#Prontera Central Palace#
-prt_cas_q.rsw#Prontera Imperial Palace#
+prt_cas.rsw#Pusat Istana Prontera#
+prt_cas_q.rsw#Istana Kerajaan Prontera#
 prt_prison.rsw#Prontera Dungeon#
-prt_lib.rsw#Memorial of Royal Family#
-prt_lib_q.rsw#Memorial of Past Royal Family#
+prt_lib.rsw#Kenangan Keluarga Kerajaan#
+prt_lib_q.rsw#Kenangan Keluarga Kerajaan Terdahulu#
 prt_q.rsw#Invaded Prontera#
-prt_pri00.rsw#Prontera Prison#
+prt_pri00.rsw#Penjara Prontera#
 
 
 // Clan MD
-1@ffp.rsw#Remnant Hideout#
+1@ffp.rsw#Sisa-sisa Persembunyian#
 
 // Infinite MD
-1@infi.rsw#Infinite Space#
+1@infi.rsw#Ruang tak terbatas#
 
 // Para Market
-paramk.rsw#Para Market#
+paramk.rsw#Pasar Para#
 
 // ep15.2 Memory Record
-verus01.rsw#Laboratory-OPTATIO#
-verus02.rsw#Research Building-WISH#
-un_bk_q.rsw#Underground Bunker#
-un_bunker.rsw#Underground Bunker#
-un_myst.rsw#Underground Tunnel#
-1@uns.rsw#The last room#
-1@lab.rsw#Central Laboratory#
+verus01.rsw#Laboratorium-OPTATIO#
+verus02.rsw#Gedung Penelitian-WISH#
+un_bk_q.rsw#Bunker Bawah Tanah#
+un_bunker.rsw#Bunker Bawah Tanah#
+un_myst.rsw#Terowongan Bawah Tanah#
+1@uns.rsw#Ruang Terakhir#
+1@lab.rsw#Pusat Laboratorium#
 
 // New Biolabs Dungeon
-lhz_dun_n.rsw#Tomb of the fallen#
+lhz_dun_n.rsw#Makam para Pejuang#
 
 // Trails of the 3 Heroes
-1@glast.rsw#Past Glastheim#
+1@glast.rsw#Glastheim dimasa lalu#
 1@air1.rsw#비공정#
 1@air2.rsw#비공정#
 
 // Rebellion Job Change Map
-job_gun.rsw#Release Shelter#
+job_gun.rsw#Tempat perlindungan Rebellion#
 
 // ep15.1
-ver_eju.rsw#Ruins of Los yupe#
-ver_tunn.rsw#Behrooz outside the tunnel#
-verus04.rsw#Behrooz excavations#
-verus03.rsw#Behrooz Central Square#
+ver_eju.rsw#Reruntuhan bagian timur Juperos#
+ver_tunn.rsw#Verus, Luar Terowongan#
+verus04.rsw#Verus, Tempat Penggalian#
+verus03.rsw#Verus, Alun-alun#
 
 1@mcd.rsw#Charleston factory#
 
@@ -202,7 +202,7 @@ dic_dun03.rsw#Lubang Scarab - Nightmare Mode#
 que_house_s.rsw#Rumah Aneh#
 dewata.rsw#Dewata#
 dew_in01.rsw#Dalam Dewata#
-dew_fild01.rsw#Daratan Dewata (Desa Suku Pedalaman)#
+dew_fild01.rsw#Dataran Dewata (Desa Suku Pedalaman)#
 dew_dun01.rsw#Pulau Gunung Berapai Krakatau#
 dew_dun02.rsw#Gua Tina Grace#
 1@mist.rsw#Hutan Labirin Berkabut#
@@ -220,7 +220,7 @@ job3_gen01.rsw#Lab Genetik#
 s_atelier.rsw#Bengkel Kegelapan#
 brasilis.rsw#Brasilis#
 bra_in01.rsw#Dalam Brasilis#
-bra_fild01.rsw#Daratan Brasilis#
+bra_fild01.rsw#Dataran Brasilis#
 bra_dun01.rsw#Dibalik Air Terjun#
 bra_dun02.rsw#Dibalik Air Terjun#
 moc_para01.rsw#Dalam bangunan Grup Paradise, Morroc#
@@ -243,10 +243,10 @@ jupe_core2.rsw#Pusat Juperos#
 nyd_dun01.rsw#Akar Yggdrasil Area 1#
 nyd_dun02.rsw#Akar Yggdrasil Area 2#
 manuk.rsw#Manuk#
-man_fild02.rsw#Daratan Manuk#
+man_fild02.rsw#Dataran Manuk#
 man_in01.rsw#Dalam Manuk#
 splendide.rsw#Splendide#
-spl_fild01.rsw#Daratan Splendide#
+spl_fild01.rsw#Dataran Splendide#
 spl_in01.rsw#Dalam Splendide#
 spl_in02.rsw#Dalam Splendide#
 bat_c01.rsw#Kreiger Von Midgard#
@@ -254,12 +254,12 @@ bat_c02.rsw#Kreiger Von Midgard#
 bat_c03.rsw#Kreiger Von Midgard#
 mid_camp.rsw#Kamp Ekspedisi Midgard#
 mid_campin.rsw#Dalam Kamp Ekspedisi Midgard#
-man_fild01.rsw#Daratan Manuk#
-man_fild03.rsw#Daratan Manuk#
-spl_fild02.rsw#Daratan Splendide#
-spl_fild03.rsw#Daratan Splendide#
+man_fild01.rsw#Dataran Manuk#
+man_fild03.rsw#Dataran Manuk#
+spl_fild02.rsw#Dataran Splendide#
+spl_fild03.rsw#Dataran Splendide#
 moc_fild22b.rsw#Jurang Dimensi#
-que_dan01.rsw#Daratan Hugel#
+que_dan01.rsw#Dataran Hugel#
 que_dan02.rsw#Dalam Rumah Terbengkalai, Yuno#
 schg_que01.rsw#Padang Rumput Morestone#
 schg_dun01.rsw#Schwartzvald Guild Dungeon#
@@ -334,13 +334,13 @@ z_agit.rsw#Tempat Persembunyian Gang Z#
 veins.rsw#Veins, Desa Ngarai#
 ve_in.rsw#Dalam Veins#
 ve_in02.rsw#Dalam Veins#
-ve_fild01.rsw#Daratan Veins#
-ve_fild02.rsw#Daratan Veins#
-ve_fild03.rsw#Daratan Veins#
-ve_fild04.rsw#Daratan Veins#
-ve_fild05.rsw#Daratan Veins#
-ve_fild06.rsw#Daratan Veins#
-ve_fild07.rsw#Daratan Veins#
+ve_fild01.rsw#Dataran Veins#
+ve_fild02.rsw#Dataran Veins#
+ve_fild03.rsw#Dataran Veins#
+ve_fild04.rsw#Dataran Veins#
+ve_fild05.rsw#Dataran Veins#
+ve_fild06.rsw#Dataran Veins#
+ve_fild07.rsw#Dataran Veins#
 thor_camp.rsw#Kamp Gunung Berapi Thor#
 que_thor.rsw#Dungeon Gunung Berapi Thor#
 thor_v01.rsw#Dungeon Gunung Berapi Thor Area 1#
@@ -363,16 +363,16 @@ que_rachel.rsw#Dalam Kuil Freya#
 ra_temsky.rsw#Ruangan Uskup (Taman Langit)#
 ra_fild01.rsw#Padang Rumput Audumra#
 ra_fild02.rsw#Jurang Oz#
-ra_fild03.rsw#Daratan Ida#
+ra_fild03.rsw#Dataran Ida#
 ra_fild04.rsw#Padang Rumput Audumra#
 ra_fild05.rsw#Padang Rumput Audumra#
 ra_fild06.rsw#Portus Luna#
 ra_fild07.rsw#Jurang Oz#
-ra_fild08.rsw#Daratan Ida#
+ra_fild08.rsw#Dataran Ida#
 ra_fild09.rsw#Padang Rumput Audumra#
 ra_fild10.rsw#Jurang Oz#
-ra_fild11.rsw#Daratan Ida#
-ra_fild12.rsw#Daratan Ida#
+ra_fild11.rsw#Dataran Ida#
+ra_fild12.rsw#Dataran Ida#
 ra_fild13.rsw#Pantai Air Mata#
 ra_san01.rsw#Kuil Suci Area 1#
 ra_san02.rsw#Kuil Suci Area 2#
@@ -392,13 +392,13 @@ p_track02.rsw#Arena Balapan Monster#
 odin_tem01.rsw#Kuil Odin Area 1#
 odin_tem02.rsw#Kuil Odin Area 2#
 odin_tem03.rsw#Kuil Odin Area 3#
-hu_fild02.rsw#Daratan Hugel#
-hu_fild03.rsw#Daratan Hugel#
-hu_fild06.rsw#Daratan Hugel#
-ein_fild01.rsw#Daratan Einbroch#
-ein_fild02.rsw#Daratan Einbroch#
-ein_fild05.rsw#Daratan Einbroch#
-yuno_fild10.rsw#Daratan Yuno#
+hu_fild02.rsw#Dataran Hugel#
+hu_fild03.rsw#Dataran Hugel#
+hu_fild06.rsw#Dataran Hugel#
+ein_fild01.rsw#Dataran Einbroch#
+ein_fild02.rsw#Dataran Einbroch#
+ein_fild05.rsw#Dataran Einbroch#
+yuno_fild10.rsw#Dataran Yuno#
 kh_kiehl02.rsw#Kamar Kiehl#
 kh_kiehl01.rsw#Kamar Kiehl#
 kh_dun02.rsw#Pabrik Robot Area 2#
@@ -456,20 +456,20 @@ airplane_01.rsw#Pesawat#
 lhz_dun01.rsw#Laboratorium Somatologi Area 1#
 lhz_dun02.rsw#Laboratorium Somatologi Area 2#
 lhz_dun03.rsw#Laboratorium Somatologi Area 3#
-lhz_fild01.rsw#Daratan Lighthalzen#
+lhz_fild01.rsw#Dataran Lighthalzen#
 yuno_pre.rsw#Gedung Pemerintahan Schwarzwald#
 y_airport.rsw#Bandara Yuno#
-lhz_fild03.rsw#Daratan Lighthalzen#
-lhz_fild02.rsw#Daratan Lighthalzen (Dataran Tinggi Malaikat Kematian)#
-ein_fild04.rsw#Daratan Einbroch#
-ein_fild03.rsw#Daratan Einbroch#
+lhz_fild03.rsw#Dataran Lighthalzen#
+lhz_fild02.rsw#Dataran Lighthalzen (Dataran Tinggi Malaikat Kematian)#
+ein_fild04.rsw#Dataran Einbroch#
+ein_fild03.rsw#Dataran Einbroch#
 ein_dun02.rsw#Mine Dungeon Lantai 2#
 ein_dun01.rsw#Mine Dungeon Lantai 1#
-ein_fild10.rsw#Daratan Einbroch#
-ein_fild09.rsw#Daratan Einbroch#
-ein_fild08.rsw#Daratan Einbroch#
-ein_fild07.rsw#Daratan Einbroch#
-ein_fild06.rsw#Daratan Einbroch#
+ein_fild10.rsw#Dataran Einbroch#
+ein_fild09.rsw#Dataran Einbroch#
+ein_fild08.rsw#Dataran Einbroch#
+ein_fild07.rsw#Dataran Einbroch#
+ein_fild06.rsw#Dataran Einbroch#
 airplane.rsw#Pesawat#
 airport.rsw#Bandara#
 ein_in01.rsw#Dalam Einbroch#
@@ -484,7 +484,7 @@ turbo_n_4.rsw#Stadion Turbo Track#
 turbo_n_1.rsw#Stadion Turbo Track#
 turbo_room.rsw#Ruang Tunggu#
 yuno_fild12.rsw#Pos Pemeriksaan Perbatasan#
-yuno_fild11.rsw#Daratan Yuno#
+yuno_fild11.rsw#Dataran Yuno#
 yuno_fild09.rsw#Kamp Penjaga Schwarzwald#
 yuno_fild08.rsw#Akademi Kiel Hyre#
 yuno_fild07.rsw#Jurang El Mes (Lembah Neraka)#
@@ -493,8 +493,8 @@ ayo_in02.rsw#Dalam Ayothaya#
 ayo_in01.rsw#Dalam Ayothaya#
 ayo_dun02.rsw#Dalam Labirin Kuil Kuno#
 ayo_dun01.rsw#Labirin Kuil Kuno#
-ayo_fild02.rsw#Daratan Ayothaya#
-ayo_fild01.rsw#Daratan Ayothaya#
+ayo_fild02.rsw#Dataran Ayothaya#
+ayo_fild01.rsw#Dataran Ayothaya#
 ayothaya.rsw#Ayothaya#
 que_god02.rsw#Quest Map#
 que_god01.rsw#Quest Map#
@@ -511,7 +511,7 @@ lou_in01.rsw#Dalam Louyang#
 lou_dun03.rsw#Istana ShenYang#
 lou_dun02.rsw#Di dalam Kuburan Keluarga Kerajaan#
 lou_dun01.rsw#Kuburan Keluarga Kerajaan#
-lou_fild01.rsw#Daratan Louyang#
+lou_fild01.rsw#Dataran Louyang#
 louyang.rsw#Louyang, Kota di Dataran Tinggi#
 valkyrie.rsw#Aula Valkyrie, Aula Kehormatan#
 nif_in.rsw#Dalam Niflheim#
@@ -534,14 +534,14 @@ gon_test.rsw#Arena#
 gon_dun01.rsw#Kuil Ratu Gonryun#
 gon_dun02.rsw#Papan Permainan Petapa#
 gon_dun03.rsw#Arcadia#
-gon_fild01.rsw#Daratan Gonryun#
+gon_fild01.rsw#Dataran Gonryun#
 gon_in.rsw#Dalam Gonryun#
 gonryun.rsw#Gonryun, Tanah para Petapa#
 ama_test.rsw#Tempat Berkesan Momotaro#
 ama_dun03.rsw#Kuil Bawah Tanah Amatsu#
 ama_dun02.rsw#Area Pertempuran Hutan Bawah Tanah#
 ama_dun01.rsw#Labirin Tatami#
-ama_fild01.rsw#Daratan Amatsu#
+ama_fild01.rsw#Dataran Amatsu#
 ama_in02.rsw#Dalam Kastil Himezi#
 ama_in01.rsw#Dalam Amatsu#
 amatsu.rsw#Amatsu#
@@ -630,7 +630,7 @@ cmd_fild09.rsw#Benteng Saint Darmain (Selatan)#
 xmas_in.rsw#Dalam Lutie#
 xmas_dun02.rsw#Ruang Pemantau Mainan#
 xmas_dun01.rsw#Gudang Pabrik Mainan#
-xmas_fild01.rsw#Daratan Lutie#
+xmas_fild01.rsw#Dataran Lutie#
 xmas.rsw#Lutie, Desa bersalju#
 mjolnir_01.rsw#Gunung Mjolnir#
 mjolnir_02.rsw#Gunung Mjolnir#
@@ -644,32 +644,32 @@ mjolnir_09.rsw#Gunung Mjolnir#
 mjolnir_10.rsw#Gunung Mjolnir#
 mjolnir_11.rsw#Gunung Mjolnir#
 mjolnir_12.rsw#Gunung Mjolnir#
-prt_fild00.rsw#Daratan Prontera#
-prt_fild01.rsw#Daratan Prontera#
-prt_fild02.rsw#Daratan Prontera#
-prt_fild03.rsw#Daratan Prontera#
-prt_fild04.rsw#Daratan Prontera#
-prt_fild05.rsw#Daratan Prontera#
-prt_fild06.rsw#Daratan Prontera#
-prt_fild07.rsw#Daratan Prontera#
-prt_fild08.rsw#Daratan Prontera#
-prt_fild09.rsw#Daratan Prontera#
-prt_fild10.rsw#Daratan Prontera#
-prt_fild11.rsw#Daratan Prontera#
+prt_fild00.rsw#Dataran Prontera#
+prt_fild01.rsw#Dataran Prontera#
+prt_fild02.rsw#Dataran Prontera#
+prt_fild03.rsw#Dataran Prontera#
+prt_fild04.rsw#Dataran Prontera#
+prt_fild05.rsw#Dataran Prontera#
+prt_fild06.rsw#Dataran Prontera#
+prt_fild07.rsw#Dataran Prontera#
+prt_fild08.rsw#Dataran Prontera#
+prt_fild09.rsw#Dataran Prontera#
+prt_fild10.rsw#Dataran Prontera#
+prt_fild11.rsw#Dataran Prontera#
 prt_monk.rsw#Biara Saint Capitolina#
-gef_fild00.rsw#Daratan Geffen#
-gef_fild01.rsw#Daratan Geffen#
-gef_fild02.rsw#Daratan Geffen#
-gef_fild03.rsw#Daratan Geffen#
-gef_fild04.rsw#Daratan Geffen#
-gef_fild05.rsw#Daratan Geffen#
-gef_fild06.rsw#Daratan Geffen#
-gef_fild07.rsw#Daratan Geffen#
-gef_fild08.rsw#Daratan Geffen#
-gef_fild09.rsw#Daratan Geffen#
-gef_fild10.rsw#Daratan Geffen#
+gef_fild00.rsw#Dataran Geffen#
+gef_fild01.rsw#Dataran Geffen#
+gef_fild02.rsw#Dataran Geffen#
+gef_fild03.rsw#Dataran Geffen#
+gef_fild04.rsw#Dataran Geffen#
+gef_fild05.rsw#Dataran Geffen#
+gef_fild06.rsw#Dataran Geffen#
+gef_fild07.rsw#Dataran Geffen#
+gef_fild08.rsw#Dataran Geffen#
+gef_fild09.rsw#Dataran Geffen#
+gef_fild10.rsw#Dataran Geffen#
 in_orcs01.rsw#Desa Orc#
-gef_fild11.rsw#Daratan Geffen#
+gef_fild11.rsw#Dataran Geffen#
 moc_fild01.rsw#Padang Pasir Sograt#
 moc_fild02.rsw#Padang Pasir Sograt#
 moc_fild03.rsw#Padang Pasir Sograt#
@@ -932,10 +932,10 @@ gef_vilg00.rsw#Desa Geffen#
 gef_vilg01.rsw#Desa Geffen#
 moc_dugn01.rsw#Morocc Dungeon#
 moc_dugn02.rsw#Morocc Dungeon#
-moc_fild01.rsw#Daratan Morocc#
-moc_fild02.rsw#Daratan Morocc#
-moc_fild03.rsw#Daratan Morocc#
-moc_fild04.rsw#Daratan Morocc#
+moc_fild01.rsw#Dataran Morocc#
+moc_fild02.rsw#Dataran Morocc#
+moc_fild03.rsw#Dataran Morocc#
+moc_fild04.rsw#Dataran Morocc#
 moc_intr00.rsw#Dalam Morocc#
 moc_intr01.rsw#Dalam Morocc#
 moc_intr02.rsw#Dalam Morocc#
@@ -948,11 +948,11 @@ probemap02.rsw#Probe Map 2#
 prt_cstl01.rsw#Kastil Prontera#
 prt_dugn00.rsw#Prontera Dungeon#
 prt_dugn01.rsw#Prontera Dungeon#
-prt_fild00.rsw#Daratan Prontera#
-prt_fild01.rsw#Daratan Prontera#
-prt_fild03.rsw#Daratan Prontera#
-prt_fild04.rsw#Daratan Prontera#
-prt_fild05.rsw#Daratan Prontera#
+prt_fild00.rsw#Dataran Prontera#
+prt_fild01.rsw#Dataran Prontera#
+prt_fild03.rsw#Dataran Prontera#
+prt_fild04.rsw#Dataran Prontera#
+prt_fild05.rsw#Dataran Prontera#
 prt_intr01.rsw#Dalam Prontera#
 prt_intr01_a.rsw#Dalam Prontera#
 prt_intr02.rsw#Dalam Prontera#

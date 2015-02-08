@@ -290,8 +290,8 @@ Sama rata#
 Masing-masing#
 Pembagian grup#
 Pengaturan grup#
-Bagaimana pembagian EXP#
-Bagaimana pengambilan barang#
+Pembagian EXP#
+Pengambilan barang#
 Hanya ketua grup yang bisa mengubah aturan ini.#
 Jangan tanyakan jumlahnya#
 Karakter akan dihapus setelah ^ff0000%d^000000 detik. Silahkan tekan batal untuk keluar#
@@ -355,7 +355,7 @@ Waktu terakhir loggin#
 IP terakhir loggin#
 Pengaturan Teman#
 Apakah kamu yakin mau menghapus ?#
-Apakah kamu yakin mau pergi ?#
+Apakah kamu yakin mau keluar dari grup ?#
 Daftarkan sebagai teman#
 Buka Pembicaraan 1:1 dengan teman#
 Buka Pembicaraan 1:1#
@@ -736,7 +736,7 @@ Pembicaraan tidak ditampilkan dalam kotak chat [OFF]#
 /set1 : /noctrl + /showname + /skillfail#
 /fog : FOG efek On atau Off#
 Kamu mendapat lamaran untuk pernikahan, apakah kamu mau menerimanya?#
-Bagaimana Pembagian Barang#
+Pembagian Barang#
 Masing-masing#
 Pembagian Grup#
 nProtect KeyCrypt#
@@ -2052,11 +2052,11 @@ P#
 F#
 Kunci barang#
 Notifikasi untuk mencari bagian grup#
-Mengorganisasikan sebuah grup#
+Buat grup#
 Keluar grup#
 Undangan grup#
-Registrasi nama grup#
-Nama karakter yang ingin diundang#
+Nama grup#
+Nama karakter#
 Undangan party telah dikirim ke.#
 Telah menolak undangan grup.#
 Telah menerima undangan grup.#
