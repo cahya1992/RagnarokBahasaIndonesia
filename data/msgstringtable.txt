@@ -220,7 +220,7 @@ Batal#
 Akan ada kelambatan setelah menggunakan skill#
 Kamu tidak bisa mengambil barang ini karena kelebihan berat.#
 Melebihi kapasitas maksimum#
-Barang dalam Cart#
+Barang Jualan#
 Lepas Cart#
 Membuka toko jalanan#
 Silahkan namakan tokomu#
@@ -2184,7 +2184,7 @@ Tak satupun dari item dapat digabungkan.#
 Tak satupun dari item dapat digabungkan.#
 Akt#
 Tnd#
-Rec#
+Rek#
 Epi#
 Lok#
 Evt#

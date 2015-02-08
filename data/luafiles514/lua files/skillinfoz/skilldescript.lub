@@ -445,7 +445,7 @@ SKILL_DESCRIPT = {
     "Jenis skill : ^777777Suportif^000000",
     "Keterangan : ^777777Bisa mengidentifikasi barang yang belum diidentifikasi.^000000"
   },
-  [SKID.MC_PUSHCART] = {
+  [SKID.MC_VENDING] = {
     "Vending",
     "Lv Maksimum : 10",
     "^777777Syarat Skill : Pushcart 3^000000",
@@ -458,7 +458,7 @@ SKILL_DESCRIPT = {
     "Lv Maksimum : 10",
     "Jenis skill : ^777777Ofensif^000000",
     "Target: ^777777Musuh^000000",
-    "Keterangan : ^777777Menyerang musuh menggunakan uang sesuai ^FFFFFF   ^777777dengan level skill.^000000",
+    "Keterangan : ^777777Menyerang musuh menggunakan uang sesuai dengan level skill.^000000",
     "[Lv 1]: ^777777Atk 150%, 100 zeny^000000",
     "[Lv 2]: ^777777Atk 200%, 200 zeny^000000",
     "[Lv 3]: ^777777Atk 250%, 300 zeny^000000",
@@ -5348,7 +5348,7 @@ SKILL_DESCRIPT = {
     "instead.",
     "Description: ^777777Increase Maximum Weight Limit when",
     "in Solar, Lunar and Stellar areas. The effect",
-    "of this skill is^FFFFFF ^777777canceled when",
+    "of this skill is canceled when",
     "its user leaves the Solar, Lunar or Stellar",
     "designated area.^000000",
     "[Lv 1] ^777777Maximum Weight +10%^000000",
