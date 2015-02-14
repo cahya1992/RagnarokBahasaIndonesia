@@ -3070,25 +3070,26 @@ Profesi: ^777777Swordman Class^000000
 Sebuah Pedang dua tangan yang sangat besar hasil penggabungan dari 2 Pedang kembar Naght Sieger.
 Kemungkinan kecil untuk mengabaikan tingkat defense, saat melakukan serangan fisik.
 Memberikan kemungkinan cast Lv. 3 Meteor Storm, Lv. 5 Frost Nova saat melakukan serangan fisik.
-Jenis: ^777777Pedang dua tangan^000000  Serangan: ^777777275^000000
+Jenis: ^777777Pedang dua tangan^000000
+Serangan: ^777777275^000000
 Berat: ^777777220^000000
-Level Senjata: ^7777774^000000
+Senjata Level: ^7777774^000000
 Level Persyaratan: ^77777780^000000
-Profesi: ^777777Job 3 dari profesi Swordman^000000
+Profesi: ^777777Transcendent Job Swordman^000000
 #
 1186#
 Senjata terkutuk yang hanya dipakai untuk menghancurkan jiwa. Pedang ini membawa pemiliknya kedalam penderitaan.
-STR + 5, AGI + 2 
-Perfect Dodge + 20
+STR +5, AGI +2
+Perfect Dodge +20
 Ketika melakukan serangan fisik, mempunyai kemungkinan memberi status abnormal.
 Ketika melakukan serangan fisik, memberikan 100% damage ke semua monster dalam area 11*11 kotak disekitar pemakai dan memberikan 100% pemulihan HP.
 Jika level upgrade diatas 9, bisa memberikan 100% damage ke semua monster dalam area 15*15 kotak disekitar pemakai dan memberikan 200% damage saat pemulihan HP.
-Jenis: ^777777Two Handed Sword^000000
-Attack : ^777777200^000000
+Jenis: ^777777Pedang dua tangan^000000
+Serangan: ^777777200^000000
 Berat: ^777777200^000000
-Weapon Level : ^7777774^000000
+Senjata Level: ^7777774^000000
 Level Persyaratan: ^77777770^000000
-Profesi : ^777777Transcendent Swordman Class^000000
+Profesi: ^777777Transcendent Job Swordman^000000
 #
 1187#
 Kekuatan serangan fisik meningkat terhadap monster Demihuman sebesar 70%..
@@ -3113,50 +3114,55 @@ Profesi : ^777777Swordman Class^000000
 Sebuah Pedang yang hanya seorang ahli Pedang yang di ijinkan untuk memakainya.
 Ketika telah menguasai sepenuhnya skill 'Bash', kekuatan serangan skill meningkat sebesar 50% 
 Ketika telah menguasai sepenuhnya skill 'Bowling Bash', kekuatan serangan skill meningkat sebesar 50% 
-Str + 1, Dex + 1 
-Jenis: ^777777Pedang 2 tangan^000000    Serangan: ^777777180^000000
+Str +1, Dex +1 
+Jenis: ^777777Pedang dua tangan^000000
+Serangan: ^777777180^000000
 Berat: ^777777200^000000
 Senjata Level: ^7777774^000000
 Level Persyaratan: ^77777780^000000
-Profesi : ^777777Swordman^000000
+Profesi: ^777777Swordman^000000
 #
 1189#
 Pedang yang terlihat kuat dibuat ulang dan menyerupai Claymore. Pegangan tangannya dihias dengan warna merah untuk para kesatria tinggi.
-Ketika STR diatas 95, ATK + 20.
-Jenis: ^777777Pedang 2 tangan^000000 Serangan: ^777777200^000000
+Ketika STR diatas 95, ATK +20.
+Jenis: ^777777Pedang dua tangan^000000
+Serangan: ^777777200^000000
 Berat: ^777777380^000000
-Level Persyaratan: ^77777750^000000
 Senjata Level: ^7777772^000000
-Profesi : ^777777High Swordman^000000
+Level Persyaratan: ^77777750^000000
+Profesi: ^777777High Swordman^000000
 #
 1190#
 #
 1191#
 Sebuah Pedang dua tangan berwarna merah.
-Attack Speed meningkat sebesar +1. untuk setiap tingkat 2 upgrade,  
-Jenis: ^777777Pedang dua tangan^000000 Serangan: ^777777280^000000
+ASPD +1, untuk setiap 2 tingkat tempa.
+Jenis: ^777777Pedang dua tangan^000000
+Serangan: ^777777280^000000
 Berat: ^777777340^000000
 Senjata Level: ^7777773^000000
 Level Persyaratan: ^777777100^000000
-Jobs : ^777777Rune Knight dan Royal Guard^000000
+Profesi: ^777777Job 3 Swordman^000000
 #
 1192#
 Pedang dua tangan yang dibuat oleh Tim Paradise bagi Swordman pemula.
 Tidak bisa di upgraded.
-Jenis: ^777777Pedang dua tangan^000000 Serangan: ^777777162^000000
+Jenis: ^777777Pedang dua tangan^000000
+Serangan: ^777777162^000000
 Berat: ^7777770^000000
 Senjata Level: ^7777772^000000
 Level Persyaratan: ^77777726^000000
-Jobs : ^777777Swordman^000000
+Profesi: ^777777Swordman^000000
 #
 1193#
 Pedang dua tangan yang dibuat oleh Tim Paradise. Sangat cocok bagi orang yang cukup ahli menangani Pedang dua tangan.
 Tidak bisa di upgraded.
-Jenis: ^777777Pedang dua tangan^000000 Serangan: ^777777185^000000
+Jenis: ^777777Pedang dua tangan^000000
+Serangan: ^777777185^000000
 Berat: ^7777770^000000
 Senjata Level: ^7777772^000000
 Level Persyaratan: ^77777740^000000
-Jobs : ^777777Acolyte^000000
+Profesi: ^777777Swordman^000000
 #
 1194#
 #
@@ -3174,11 +3180,12 @@ Profesi: ^777777Swordman Job Tipe^000000
 ^ff0000Tidak dapat di transaksikan.^000000
 Pedang dua tangan yang dibuat oleh Eden Group. Sangat cocok untuk mereka yang memiliki pengalaman lebih, dalam menggunakan pedang dua tangan.
 Tidak bisa di upgrade.
-Jenis: ^777777Two-handed Sword^000000 Serangan: ^777777200^000000
-Berat  : ^7777770^000000
-Senjata Lv  : ^7777773^000000
-Dibutuhkan Lv   : ^77777760^000000
-Profesi : ^777777Swordman Class^000000
+Jenis: ^777777Pedang dua tangan^000000
+Serangan: ^777777200^000000
+Berat: ^7777770^000000
+Senjata Level: ^7777773^000000
+Level Persyaratan: ^77777760^000000
+Profesi: ^777777Swordman^000000
 #
 1198#
 ^000088barang rental^000000
@@ -3605,7 +3612,8 @@ Profesi: ^777777Semua Profesi kecuali Acolyte^000000
 #
 1250#
 Belati Arab yang dipakai khusus di bawah tangan atau pelindung tangan.
-Jenis: ^777777Katar^000000   Serangan: ^777777125^000000
+Jenis: ^777777Katar^000000
+Serangan: ^777777125^000000
 Berat: ^77777780^000000
 Senjata Level: ^7777772^000000
 Level Persyaratan: ^77777718^000000
@@ -3613,107 +3621,130 @@ Profesi: ^777777Assassin^000000
 #
 1251#
 Belati Arab yang dipakai khusus di bawah tangan atau pelindung tangan.
-Jenis: ^777777Katar^000000   Serangan: ^777777125^000000
+Jenis: ^777777Katar^000000
+Serangan: ^777777125^000000
 Berat: ^77777780^000000
 Senjata Level: ^7777772^000000
 Level Persyaratan: ^77777718^000000
 Profesi: ^777777Assassin^000000
 #
 1252#
-Katar biasa 
+Katar dengan bilah yang berada di atas tangan yang digunakan untuk pertarungan jarak dekat.
 Dex +1 
-Jenis: ^777777Katar^000000   Serangan: ^777777148^000000
+Jenis: ^777777Katar^000000
+Serangan: ^777777148^000000
 Berat: ^777777120^000000
 Senjata Level: ^7777773^000000
 Level Persyaratan: ^77777733^000000
 Profesi: ^777777Assassin^000000
 #
 1253#
-Katar biasa.
+Katar dengan bilah yang berada di atas tangan yang digunakan untuk pertarungan jarak dekat.
 Dex +1 
-Jenis: ^777777Katar^000000   Serangan: ^777777148^000000
+Jenis: ^777777Katar^000000
+Serangan: ^777777148^000000
 Berat: ^777777120^000000
 Senjata Level: ^7777773^000000
 Level Persyaratan: ^77777733^000000
 Profesi: ^777777Assassin^000000
 #
 1254#
-Belati khusus untuk menusuk.
-Jenis: ^777777Katar^000000   Serangan: ^777777165^000000
+Katar dengan dua bilah menonjol yang berbentuk seperti gunting.
+Jenis: ^777777Katar^000000
+Serangan: ^777777165^000000
 Berat: ^777777150^000000
 Senjata Level: ^7777773^000000
 Level Persyaratan: ^77777733^000000
 Profesi: ^777777Assassin^000000
 #
 1255#
-Belati khusus untuk menusuk.
-Jenis: ^777777Katar^000000   Serangan: ^777777165^000000
+Katar dengan dua bilah menonjol yang berbentuk seperti gunting.
+Jenis: ^777777Katar^000000
+Serangan: ^777777165^000000
 Berat: ^777777150^000000
 Senjata Level: ^7777773^000000
 Level Persyaratan: ^77777733^000000
 Profesi: ^777777Assassin^000000
 #
 1256#
-Katar yang terbuat dari es yang beku dan tajam. Membuat musuh menjadi `freeze' dengan kemungkinan yang kecil.
-Jenis: ^777777Katar^000000  Serangan: ^777777105^000000
-Berat: ^777777120^000000     Elemen : ^777777Air^000000
+Katar yang terbuat dari es yang dingin dan tajam.
+Membuat musuh menjadi `Frozen' dengan kemungkinan yang kecil.
+Jenis: ^777777Katar^000000
+Serangan: ^777777105^000000
+Berat: ^777777120^000000
+Elemen: ^6996ADAir^000000
 Senjata Level: ^7777773^000000
 Level Persyaratan: ^77777755^000000
 Profesi: ^777777Assassin^000000
 #
 1257#
-Katar yang terbuat dari duri.Membuat musuh menjadi `Blind' dengan kemungkinan yang kecil.
-Jenis: ^777777Katar^000000  Serangan: ^777777105^000000
-Berat: ^777777120^000000     Elemen : ^777777Tanah^000000
+Katar yang dibuat dari tanah bumi.
+Membuat musuh menjadi `Blind' dengan kemungkinan yang kecil.
+Jenis: ^777777Katar^000000
+Serangan: ^777777105^000000
+Berat: ^777777120^000000
+Elemen: ^cc5500Tanah^000000
 Senjata Level: ^7777773^000000
 Level Persyaratan: ^77777755^000000
 Profesi: ^777777Assassin^000000
 #
 1258#
-Katar berelemen api yang menyerupai kobaran api. Membuat musuh menjadi `Silence' dengan kemungkinan yang kecil.
-Jenis: ^777777Katar^000000  Serangan: ^777777105^000000
-Berat: ^777777120^000000     Elemen : ^777777Api^000000
+Katar yang dibuat dari lahar gunung berapi.
+Membuat musuh menjadi `Silence' dengan kemungkinan yang kecil.
+Jenis: ^777777Katar^000000
+Serangan: ^777777105^000000
+Berat: ^777777120^000000
+Elemen: ^FF0000Api^000000
 Senjata Level: ^7777773^000000
 Level Persyaratan: ^77777755^000000
 Profesi: ^777777Assassin^000000
 #
 1259#
-Katar angin yang membekukan. Membuat musuh menjadi `sleep' dengan kemungkinan yang kecil.
-Jenis: ^777777Katar^000000  Serangan: ^777777105^000000
-Berat: ^777777120^000000     Elemen : ^777777Angin^000000
+Katar yang dibuat dari kekuatan angin badai.
+Membuat musuh menjadi `sleep' dengan kemungkinan yang kecil.
+Jenis: ^777777Katar^000000
+Serangan: ^777777105^000000
+Berat: ^777777120^000000
+Elemen: ^4cbb17Angin^000000
 Senjata Level: ^7777773^000000
 Level Persyaratan: ^77777755^000000
 Profesi: ^777777Assassin^000000
 #
 1260#
 Katar yang terbuat dari tulang kaki ghoul, yang membawa rasa takut akan kematian di sekitarnya.
-Jenis: ^777777Katar^000000 Serangan: ^777777150^000000
-Berat: ^777777170^000000    Elemen : ^777777Undead^000000
+Jenis: ^777777Katar^000000
+Serangan: ^777777150^000000
+Berat: ^777777170^000000
+Elemen: ^777777Undead^000000
 Senjata Level: ^7777773^000000
 Level Persyaratan: ^77777765^000000
 Profesi: ^777777Assassin^000000
 #
 1261#
-Katar mematikan yang berbentuk seperti manusia, sangat mudah menghancurkan titik yang mudah hancur.Senjata untuk membunuh.
-50% serangan bonus pada setengah manusia. DEF +3, Dodge +5, Perfect Dodge +2 
-Jenis: ^777777Katar^000000 Serangan: ^777777140^000000
-Berat: ^777777150^000000    Elemen : ^777777Netral^000000
+Katar mematikan yang dirancang secara sempurna untuk membunuh secara cepat.
+Memberi tambahan luka kepada monster setengah manusia sebesar 50%.
+DEF +3, Flee +5, Perfect Dodge +2
+Jenis: ^777777Katar^000000
+Serangan: ^777777140^000000
+Berat: ^777777150^000000
 Senjata Level: ^7777774^000000
 Level Persyaratan: ^77777775^000000
 Profesi: ^777777Assassin^000000
 #
 1262#
-Katar yang bisa meninggalkan luka yang tidak bisa disembuhkan.
+Katar dengan dua bilah yang bisa meninggalkan luka yang tidak bisa disembuhkan.
 Kemungkinan kecil bisa memberikan status 'Bleeding' pada lawan saat bertarung dengan.
-Jenis: ^777777Katar^000000 Serangan: ^777777115^000000
-Berat: ^777777120^000000    Property : ^777777Netral^000000
+Jenis: ^777777Katar^000000
+Serangan: ^777777115^000000
+Berat: ^777777120^000000
 Senjata Level: ^7777773^000000
 Level Persyaratan: ^77777755^000000
 Profesi: ^777777Assassin^000000
 #
 1263#
 Katar yang menurut beritanya dibuat dari kumpulan dendam orang yang sudah mati.
-Kemungkinan kecil bisa memberikan status 'Curse' pada lawan saat bertarung. Critical -1 
+Kemungkinan kecil bisa memberikan status 'Curse' pada lawan saat bertarung.
+Crit -1
 Jenis: ^777777Katar^000000
 Serangan: ^777777151^000000
 Berat: ^777777125^000000
@@ -3723,37 +3754,56 @@ Level Persyaratan: ^77777770^000000
 Profesi: ^777777Assassin^000000
 #
 1264#
-Sebuah katar dengna tambahan slot. Sangat sulit untuk dikendalikan, sering melukai pemakainya.
-Memiliki kemungkinan kecil bisa memberikan status 'Bleeding' pada penggunanya.
-Jenis: ^777777Katar^000000 Serangan: ^77777790^000000
+Sebuah katar dengan tambahan slot. Sangat sulit untuk dikendalikan, sering melukai pemakainya.
+Memiliki kemungkinan kecil memberikan status 'Bleeding' pada penggunanya.
+Jenis: ^777777Katar^000000
+Serangan: ^77777790^000000
 Berat: ^77777780^000000
 Senjata Level: ^7777771^000000
 Profesi: ^777777Assassin^000000
 #
 1265#
 Namanya diambil dari cerita yang mengatakan bahwa senjata ini akan meraung jika dilumuri darah.
-sangat cocok untuk melawan manusia.
-Mengabaikan pertahanan dari Demi Human, mengurangi sejumlah besar Flee rate dan HP dan SP tidak bisa beregenerasi.
-Jenis: ^777777Katar^000000 Serangan: ^777777120^000000
+Sangat cocok untuk melawan manusia.
+Mengabaikan pertahanan monster setengah manusia
+Mengurangi sejumlah besar Flee rate serta HP dan SP tidak bisa beregenerasi.
+Jenis: ^777777Katar^000000
+Serangan: ^777777120^000000
 Berat: ^777777100^000000
 Senjata Level: ^7777774^000000
 Level Persyaratan: ^77777775^000000
 Profesi: ^777777Assassin^000000
 #
 1266#
-Katar mematikan yang berbentuk seperti manusia, sangat mudah menghancurkan titik yang mudah hancur.Senjata untuk membunuh.
-50% serangan bonus pada setengah manusia. DEF +3, Dodge +5, Perfect Dodge +2 
-Jenis: ^777777Katar^000000 Serangan: ^777777140^000000
-Berat: ^777777150^000000    Elemen : ^777777Netral^000000
+Katar mematikan yang dirancang secara sempurna untuk membunuh secara cepat.
+Memberi tambahan luka kepada monster setengah manusia sebesar 50%.
+DEF +3, Flee +5, Perfect Dodge +2
+Jenis: ^777777Katar^000000
+Serangan: ^777777140^000000
+Berat: ^777777150^000000
 Senjata Level: ^7777774^000000
 Level Persyaratan: ^77777775^000000
 Profesi: ^777777Assassin^000000
 #
 1267#
+^000088Barang Rental^000000
+Katar mematikan yang dirancang secara sempurna untuk membunuh secara cepat.
+Memberi tambahan luka kepada monster setengah manusia sebesar 70%.
+DEF +3, Flee +5, Perfect Dodge +2
+Menambah ASPD.
+Jenis: ^777777Katar^000000
+Serangan: ^777777189^000000
+Berat: ^7777770^000000
+Senjata Level: ^7777774^000000
+Level Persyaratan: ^7777771^000000
+Profesi: ^777777Assassin^000000
 #
 1268#
-Sebuah katar yang terbuat dari tulang binatang besar. Menyerang musuh mengakibatkan tidak bisa sembuh dari luka yang dibuat. Memberikan 10% kemungkinan melakukan cast[Critical Wounds] Lv1 ke target ketika melakukan serangan fisik, mengurangi effect Heal dari Potion, Potion Pitcher, Heal skill, dan Sanctuary sebesar 20%.  	Jika senjata ditempa sampai +9 atau lebih, timbal baliknya akan memberikan 10% kemungkinan melakukancast[Critical Wounds] Lv2 ke target ketika melakukan serangan fisik, mengurangi effect Heal dari Potion, Potion Pitcher, Heal skill, dan Sanctuary sebesar 40%.						
-Jenis: ^777777Katar^000000   Serangan: ^777777160^000000
+Sebuah katar yang terbuat dari tulang binatang besar, luka yang diberikan akan sulit disembuhkan.
+Memberikan kemungkinan melakukan [Fatal Wound] Lv1 ke target ketika melakukan serangan fisik.
+Jika senjata ditempa sampai +9 atau lebih, memberi kemungkinan melakukan [Fatal Wound] Lv2 ke target ketika melakukan serangan fisik
+Jenis: ^777777Katar^000000
+Serangan: ^777777160^000000
 Berat: ^777777145^000000
 Senjata Level: ^7777774^000000
 Level Persyaratan: ^77777755^000000
@@ -11008,7 +11058,7 @@ Profesi: ^777777Semua Job^000000
 #
 2465#
 Sepatu yang sangat cocok untuk berdansa.
-AGI + 1, Meningkatkan Aspd. (mengurangi delay setelah menyerang sebesar 2%).
+AGI +1, Meningkatkan Aspd. (mengurangi delay setelah menyerang sebesar 2%).
 mengurangi 32 SP yang diperlukan untuk menggunakan skill Swing Dance.
 Jenis:^777777Shoes^000000 Tk.Defense : ^77777715^000000
 Berat: ^77777730^000000
@@ -11734,19 +11784,44 @@ Required Level : ^777777100^000000
 Job : ^777777Rune Knight^000000
 #
 2576#
-Tas punggung terbaik untuk para petualang pemberani. Kamu akan merasa aman dengan adanya tas ini kemanapun kamu pergi.
-Dapat menggunakan Skill Greed Scroll LV 1
-Jika upgrade item mencapai tingkat 7
-Pada saat STR penggunanya lebih dari 90 , maka ATK + 20 ( Jika upgrade item mencapai tingkat 9 , maka +10 ATK lagi )
-Pada saat INT penggunanya lebih dari 90 , maka MATK + 30 ( Jika upgrade item mencapai tingkat 9 , maka +20 MATK lagi )
-Pada saat VIT penggunanya lebih dari 90 , Ketahanan terhadap serangan netral  meningkat 5% ( Jika upgrade item mencapai tingkat 9 maka +5% lagi )
-Pada saat AGI penggunanya lebih dari 90 , maka ASPD Meningkat ( Jeda antar serangan menurun 8% ) (Jika upgrade item mencapai tingkat 9 , maka ASPD + 1)
-Pada saat DEX penggunanya lebih dari 90 , maka serangan jarak jauh meningkat 5% ( Jika upgrade item mencapai tingkat 9 maka +5% lagi)
-Pada saat LUK penggunanya lebih dari 90 , serangan kritikal meningkat 10% ( Jika upgrade item mencapai tingkat 9 , maka +5% lagi)
-Jenis: ^777777Garment^000000 DEF : ^77777720^000000
+Tas punggung yang dipake para petualang pemberani.
+Dapat menggunakan Skill Greed Lvl 1
+[-^6A5ACD Base STR 90^000000 -]
+Level tempa ^008800+7^000000:
+ATK +20
+Level tempa ^008800+9^000000:
+ATK +30
+[-^6A5ACD Base INT 90^000000 -]
+Level tempa ^008800+7^000000:
+MATK +30
+Level tempa ^008800+9^000000:
+MATK +50
+[-^6A5ACD Base VIT 90^000000 -]
+Level tempa ^008800+7^000000:
+Toleransi serangan Netral +5%
+Level tempa ^008800+9^000000:
+Toleransi serangan Netral +10%
+[-^6A5ACD Base AGI 90^000000 -]
+Level tempa ^008800+7^000000:
+ASPD +8%
+Level tempa ^008800+9^000000:
+ASPD +8%, ASPD +1
+[-^6A5ACD Base DEX 90^000000 -]
+Level tempa ^008800+7^000000:
+Serangan jarak jauh +5%
+Level tempa ^008800+9^000000:
+Serangan jarak jauh +10%
+[-^6A5ACD Base LUK 90^000000 -]
+Level tempa ^008800+7^000000:
+Serangan kritikal +10%
+Level tempa ^008800+9^000000:
+Serangan kritikal +15%
+^ffffff_^000000
+Jenis: ^777777Jubah^000000
+Pertahanan: ^77777720^000000
 Berat: ^77777720^000000
-Minimum Level : ^7777771^000000
-Job : ^777777Semua Job^000000
+Level Persyaratan: ^7777771^000000
+Profesi: ^777777Semua^000000
 #
 2577#
 Sebuah manteau yang didalamnya terdapat jiwa assassin kuno.
@@ -11842,14 +11917,26 @@ Jobs : ^777777Semua^00000000
 2588#
 #
 2589#
-Sayap raksasa hitam dari malaikat yang jatuh ke rune midgard.
-LUK +2, MDEF +18
-Meningkatkan Pertahanan terhadap Element Darkness Attack + 30%,Mengurangi Pertahanan terhadap Element Holy attack
-Meningkatkan pertahanan terhadap Demi-Human class sebesar +10%
-Jenis: ^777777Garment^000000  Def : ^77777718^000000
+Sayap besar dan hitam dari malaikat kegelapan.
+Semua status +1
+[^6A5ACDSetiap 20 base STR^000000]
+Meningkatkan ATK +1%
+[^6A5ACDSetiap 20 base INT^000000]
+Meningkatkan MATK +1%
+[^6A5ACDSetiap 20 base VIT^000000]
+Meningkatkan daya tahan serangan netral 1%
+[^6A5ACDSetiap 20 base AGI^000000]
+Meningkatkan ASPD +1%
+[^6A5ACDSetiap 20 base DEX^000000]
+Meningkatkan serangan jarak jauh +1%
+[^6A5ACDSetiap 20 base LUK^000000]
+Meningkatkan kemungkinan kritikal +1%
+^777777 ^000000
+Jenis: ^777777Jubah^000000
+Pertahanan: ^77777718^000000
 Berat: ^77777720^000000
 Level Persyaratan: ^7777771^000000
-Profesi : ^777777Semua Job^000000
+Profesi: ^777777Semua^000000
 #
 2590#
 Pakaian yang dibuat dari karung Buwaya. Penuh dengan jiwa yang tidak bisa beristirahat dengan tenang dan ingin membalas dendam.
@@ -16396,7 +16483,7 @@ Berat: ^7777771^000000
 #
 4332#
 ATK +5, INT +1 
- 
+^ffffff_^000000
 ^6A5ACDMonk Card Set^000000
 ^3CB371Rideword Card^000000
 ^3CB371Cookie Card^000000
@@ -16407,20 +16494,20 @@ SP +80
 ATT +25 
 Memberikan kemungkinan mengunakan skill level 5 signum crusis ketika menyerang dan memberikan serangan tambahan 
 10% ketika mengunakan skill Ashura. jika dipakai oleh job monk maka casting time tidak dapat digagalkan 
-dan pengunaan SP berkurang 10% 
-Jenis: ^777777Kartu^000000             
+dan pengunaan SP berkurang 10%
+Jenis: ^777777Kartu^000000
 Letak : ^777777Armor^000000
 Berat: ^7777771^000000
 #
 4333#
 Memberikan kemungkinan menyebabkan status poison pada musuh dan player setiap kali menerima serangan fisik.
-Jenis: ^777777Kartu^000000             
+Jenis: ^777777Kartu^000000
 Letak : ^777777Armor^000000
 Berat: ^7777771^000000
 #
 4334#
 Memberikan toleransi 10% terhadap serangan jarak jauh, dan mengurangi serangan 10% terhadap elemen netral.
-Jenis: ^777777Kartu^000000             
+Jenis: ^777777Kartu^000000
 Letak : ^777777Garment^000000
 Berat: ^7777771^000000
 #
@@ -16475,7 +16562,7 @@ Berat: ^7777771^000000
 #
 4343#
 LUK +2 
- 
+^ffffff_^000000
 ^6A5ACDAlchemist Card Set^000000
 ^3CB371Zipper Bear Card^000000
 ^3CB371Baby Leopard Card^000000
@@ -16489,8 +16576,8 @@ STR +4
 Job Alchemist Bonus: 
 Memberikan kemungkinan menggunakan skill level 1 Adrenaline Rush ketika menyerang 
 dan memberikan kemungkinan untuk mendapatkan Coating Bottle atau Stem ketika mengalahkan musuh.
- 
-Jenis: ^777777Kartu^000000             
+^ffffff_^000000
+Jenis: ^777777Kartu^000000
 Letak : ^777777Helmet^000000
 Berat: ^7777771^000000
 #
@@ -16521,7 +16608,7 @@ Berat: ^7777771^000000
 #
 4348#
 Memberikan kemungkinan autocasting Lv.1 Strip Armor setiap kali terkena serangan fisik.
- 
+^ffffff_^000000
 ^6A5ACDRogue Card Set^000000
 ^3CB371Wanderer Card^000000
 ^3CB371Wild Rose Card^000000
@@ -16535,8 +16622,8 @@ Memberikan kemungkinan mengunakan skill Strip Armor level 5 jika sudah mempelaja
 Job Rogue Bonus: 
 Konsumsi SP -20% 
 Menghilangkan kemampuan Auto-Snatch dari kartu Wanderer.
- 
-Jenis: ^777777Kartu^000000             
+^ffffff_^000000
+Jenis: ^777777Kartu^000000
 Letak : ^777777Aksesoris^000000
 Berat: ^7777771^000000
 #
@@ -16680,8 +16767,7 @@ Berat: ^7777771^000000
 #
 4371#
 ATK +10. Meningkatkan Cast Time sebesar 20%.
- 
- 
+^ffffff_^000000
 ^6A5ACDCrusader Card Set^000000
 ^3CB371Archdam Card^000000
 ^3CB371Permeter Card^000000
@@ -16696,7 +16782,7 @@ SP Recovery +10%
 Kecepatan Cast +10% 
 Crusader/Paladin Bonus: 
 Armor menjadi elemen Holy.
- 
+^ffffff_^000000
 Jenis: ^777777Kartu^000000
 Letak : ^777777Armor^000000
 Berat: ^7777771^000000
@@ -16762,7 +16848,7 @@ Berat: ^7777771^000000
 #
 4381#
 VIT +1, Max HP +10%.
- 
+^ffffff_^000000
 ^6A5ACDBard/Dancer Card Set^000000
 ^3CB371Cruiser Card^000000
 ^3CB371Anolian Card^000000
@@ -16775,7 +16861,7 @@ Dex +5
 +10% untuk serangan skill Dart Arrow 
 Bard atau Dancer Bonus: 
 Ada kemungkinan kecil untuk menggunakan skill Tarot Card of Fate level 2 ketika mendapat serangan fisik.
- 
+^ffffff_^000000
 Jenis: ^777777Kartu^000000
 Letak : ^777777Shoes^000000
 Berat: ^7777771^000000
@@ -17599,6 +17685,11 @@ Berat: ^7777771^000000
 4512#
 #
 4513#
+Serangan kritical +2%.
+Jika penggunanya adalah Thief, maka setiap 2 tingkat tempa akan meningkatkan Serangan kritical +1%.
+Jenis: ^777777Card ^000000
+Digunakan di: ^777777Headgear^000000
+Berat: ^7777771^000000
 #
 4514#
 #
@@ -17917,11 +18008,11 @@ Berat: ^7777771^000000
 4641#
 #
 4700#
-STR+1 
+STR+1
 ^ffffff_^000000
 #
 4701#
-STR+2 
+STR+2
 ^ffffff_^000000
 #
 4702#
@@ -19405,9 +19496,9 @@ Profesi: ^777777Semua^000000
 #
 5102#
 Lensa mata yang unik dan lucu jika kamu memakainya bentuk mata karakter kamu akan seperti mata dalam Ragnarok Battle.
-Jenis: ^777777Pelindung Kepala^000000     
+Jenis: ^777777Pelindung Kepala^000000
 Tk Def : ^7777770^000000
-Dipakai di : ^777777Atas^000000     
+Dipakai di : ^777777Atas^000000
 Berat: ^77777710^000000
 Profesi: ^777777Semua profesi^000000
 #
@@ -19687,8 +19778,8 @@ profesi : ^777777Semua profesi^000000
 Boneka yang berbentuk Alice, kamu dapat mengenakannya di kepala.
 Meningkatkan 10% serangan pada monster DemiHuman.
 Terdapat kemungkinan kecil sipemakai terkena status Sleep saat menyerang.
- 
-STR+1, Tidak dapat diupgrade.
+STR +1
+Tidak dapat diupgrade.
 Dipakai di: ^777777Atas^000000
 Tk Def ^7777771^000000      Berat : ^77777750^000000
 Profesi: ^777777Semua kecuali Novice^000000
@@ -19718,11 +19809,12 @@ Tk Def ^7777772^000000      Berat : ^77777740^000000
 Profesi: ^777777Semua^000000
 #
 5141#
-Sebuah boneka Marionette 
-yang memberikan suatu perasaan aneh 
-ketika memakai diatas kepala. STR +1 
-Jenis: ^777777Pelindung Kepala^000000    Tk. Def : ^7777771^000000
-Dipakai di : ^777777Atas^000000    Berat : ^77777740^000000
+Sebuah boneka Marionette yang memberikan suatu perasaan aneh ketika dipakai diatas kepala.
+STR +1
+Jenis: ^777777Pelindung Kepala^000000
+Tk. Def : ^7777771^000000
+Dipakai di : ^777777Atas^000000
+Berat : ^77777740^000000
 Level Persyaratan: ^77777730^000000
 Profesi: ^777777Semua profesi kecuali Novice^000000
 #
@@ -19750,7 +19842,6 @@ Profesi: ^777777Semua^000000
 5146#
 Topi yang menyerupai bentuk kepala hewan gajah.
 VIT + 1, 7% toleransi terhadap monster jenis Animal.
- 
 Dapat menggunakan skill Waterball Lv 1.
 Jenis: ^777777Pelindung Kepala^^000000
 Dipakai di: ^777777Atas^000000
@@ -19937,7 +20028,7 @@ Hijau yang melambangkan keberanian.
 Mengurangi damage dari serangan 
 monster Demihuman sebesar 10%.
 Tidak bisa di upgrade.
-Jenis: ^777777Pelindung Kepala^000000	Tk Def: ^7777770^000000						
+Jenis: ^777777Pelindung Kepala^000000	Tk Def: ^7777770^000000
 Dipakai di: ^777777Atas^000000    Berat: ^77777770^000000
 Untuk Profesi: ^777777Semua Profesi^000000
 #
@@ -19945,7 +20036,7 @@ Untuk Profesi: ^777777Semua Profesi^000000
 Sebuah Topi yang pernah digunakan oleh seseorang bernama Satto, 
 seorang pejabat dari negeri Timur.
 AGI +1, HP Recovery +3% jika digunakan oleh job Taekwon.
-Jenis: ^777777Pelindung Kepala^000000	Tk Def: ^7777776^000000						
+Jenis: ^777777Pelindung Kepala^000000	Tk Def: ^7777776^000000
 Dipakai di: ^777777Atas^000000    Berat: ^77777740^000000
 Level Persyaratan: ^77777760^000000
 Untuk Profesi: ^777777Semua Profesi^000000
@@ -19955,7 +20046,7 @@ Sebuah topi yang terbuat dari Sutera
 berwarna merah yang digunakan oleh perempuan, 
 tetapi pria bisa menggunakannya juga.
 INT +1, SP Recovery +3% jika digunakan oleh job Taekwon.
-Jenis: ^777777Pelindung Kepala^000000	Tk Def: ^7777776^000000						
+Jenis: ^777777Pelindung Kepala^000000	Tk Def: ^7777776^000000
 Dipakai di: ^777777Atas^000000    Berat: ^77777740^000000
 Level Persyaratan: ^77777760^000000
 Untuk Profesi: ^777777Semua Profesi^000000
@@ -19966,15 +20057,15 @@ untuk munutupi mata agar tidak ketahuan
 identitasnya.
 Toleransi status Curse sebesar 5%.
 Akurasi -5.
-Jenis: ^777777Pelindung Kepala^000000	Tk Def: ^7777770^000000						
-Dipakai di: ^777777Tengah^000000	Berat: ^77777710^000000						
+Jenis: ^777777Pelindung Kepala^000000	Tk Def: ^7777770^000000
+Dipakai di: ^777777Tengah^000000	Berat: ^77777710^000000
 Untuk Profesi: ^777777Semua Profesi^000000
 #
 5176#
 Sebuah Topeng tradisional oriental yang selalu tersenyum.
 LUK +1 dan Perfect Dodge +2 jika digunakan oleh job Taekwon.
-Jenis: ^777777Pelindung Kepala^000000	Tk Def: ^7777772^000000						
-Dipakai di: ^777777Tengah, Bawah^000000	Berat: ^77777710^000000						
+Jenis: ^777777Pelindung Kepala^000000	Tk Def: ^7777772^000000
+Dipakai di: ^777777Tengah, Bawah^000000	Berat: ^77777710^000000
 Level Persyaratan: ^77777730^000000
 Untuk Profesi: ^777777Semua Profesi^000000
 #
@@ -19982,8 +20073,8 @@ Untuk Profesi: ^777777Semua Profesi^000000
 Sebuah topeng Singa dengan ekspresi mata yang marah.
 Dex +2, kemungkinan mengakibatkan status Stun setiap serangan fisik jarak dekat, 
 dan ATK + 2 setiap kali diupgrade jika digunakan oleh job Taekwon.
-Jenis: ^777777Pelindung Kepala^000000	Tk Def: ^7777775^000000						
-Dipakai di: ^777777Atas, Tengah^000000	Berat: ^77777750^000000						
+Jenis: ^777777Pelindung Kepala^000000	Tk Def: ^7777775^000000
+Dipakai di: ^777777Atas, Tengah^000000	Berat: ^77777750^000000
 Level Persyaratan: ^77777740^000000
 Untuk Profesi: ^777777Semua Profesi^000000
 #
@@ -20011,7 +20102,6 @@ Profesi: ^777777Swordman, Merchant, Thief^000000
 Sebuah topi berbentuk puppy yang lucu dan dapat dikenakan di kepala.
 AGI + 1. Terdapat kemungkinan untuk autocast skill Gloria Lv 1 ketika melakukan serangan fisik.
 Jika karakter memiliki AGI 77 atau lebih, meningkatkan kemungkinan 3 kali lipat.
- 
 Tidak dapat diupgrade.
 Dipakai di: ^777777Atas^000000
 Level Persyaratan: ^77777730^000000
@@ -20031,8 +20121,8 @@ Konon topi ini pernah dimiliki
 oleh seorang kapten yang terkenal.
 Sekarang topi ini adalah simbol dari kepemimpinan.
 Toleransi serangan elemen air sebesar 5%.
-Jenis: ^777777Pelindung Kepala^000000	Tk Def: ^7777778^000000						
-Dipakai di: ^777777Atas^000000	Berat: ^77777750^000000						
+Jenis: ^777777Pelindung Kepala^000000	Tk Def: ^7777778^000000
+Dipakai di: ^777777Atas^000000	Berat: ^77777750^000000
 Level Persyaratan: ^77777730^000000
 Untuk Profesi: ^777777Semua Profesi^000000
 #
@@ -20048,8 +20138,7 @@ Profesi: ^777777Semua^000000
 5186#
 Topi dengan tiruan monster Geographer.
 INT + 1.
- Terdapat kemungkinan autocast skill Heal Lv 1 ketika menerima serangan fisik.
- 
+Terdapat kemungkinan autocast skill Heal Lv 1 ketika menerima serangan fisik.
 Tidak dapat di upgrade.
 Dipakai di: ^777777Atas^000000
 Level Persyaratan: ^77777730^000000
@@ -20243,7 +20332,6 @@ Profesi: ^777777Semua Profesi kecuali Novice^000000
 5225#
 Sebuah topi yang biasa dikenenakan oleh seorang mayoret.
 Terdapat kemungkinan cast skill Angelus Lv 5 ketika menerima serangan fisik.
- 
 MDEF + 2, STR + 2.
 Dipakai di: ^777777Atas^000000
 Level Persyaratan: ^77777710^000000
@@ -20298,7 +20386,6 @@ Dipakai di : ^777777Atas^000000
 Berat: ^77777750^000000
 Level Persyaratan: ^777777Tidak ada^000000
 Profesi: ^777777Semua profesi kecuali Novice^000000
- 
 #
 5231#
 Boneka berwarna coklat yang ditaruh di atas kepala. Apabila kamu mendengar ada yang menangis, atau merasakan sesuatu yang bergerak di atas kepalamu, janganlah merasa takut 
@@ -20321,7 +20408,6 @@ Dipakai di : ^777777Atas^000000
 Berat: ^77777750^000000
 Level Persyaratan: ^777777Tidak ada^000000
 Profesi: ^777777Semua profesi kecuali Novice^000000
- 
 #
 5233#
 Boneka berwarna biru yang ditaruh di atas kepala. Apabila kamu mendengar ada yang menangis, atau merasakan sesuatu yang bergerak di atas kepalamu, janganlah merasa takut 
@@ -20344,7 +20430,6 @@ Dipakai di : ^777777Atas^000000
 Berat: ^77777750^000000
 Level Persyaratan: ^777777Tidak ada^000000
 Profesi: ^777777Semua profesi kecuali Novice^000000
- 
 #
 5235#
 Topi berwarna coklat yang dijahit untuk menghangatkan kepala di tempat yang dingin. Tetapi ada juga yang memakainya untuk memberkan kesan trendi 
@@ -20530,10 +20615,10 @@ Profesi: ^777777Semua kecuali Novice^000000
 ^000088Rental Item^000000
 Headgear yang dibuat untuk menghormati seorang archer ledendaris yang memanah apel yang diletakan diatas kepala temannya, 
 dari jarak yang sangat jauh.
-DEX + 4 
-Jenis: ^777777Helmet^000000     
+DEX +4
+Jenis: ^777777Helmet^000000
 Tk Def : ^77777712^000000
-Dipakai di : ^777777Atas^000000     
+Dipakai di : ^777777Atas^000000
 Berat: ^7777770^000000
 Level Persyaratan: ^7777771^000000
 Profesi : ^777777Semua profesi kecuali novice^000000
@@ -20542,9 +20627,9 @@ Profesi : ^777777Semua profesi kecuali novice^000000
 ^000088Rental Item^000000
 Bando yang ada kuping kelinci buatannya. Barang ini adalah barang yang super langka dan katanya akan memberikan keberuntungan.
 Mengurangi serangan dari monster jenis Demihuman sebesar 10%, MDEF + 5 
-Jenis: ^777777Helmet^000000     
+Jenis: ^777777Helmet^000000
 Tk Def : ^77777710^000000
-Dipakai di : ^777777Atas^000000     
+Dipakai di : ^777777Atas^000000
 Berat: ^7777770^000000
 Profesi : ^777777Semua Profesi^000000
 #
@@ -20599,9 +20684,9 @@ Profesi: ^777777Semua Profesi^000000
 Boneka yang ditaruh di atas kepala. Apabila kamu mendengar ada kucing yang menangis, atau merasakan ada sesuatu yang bergerak di atas kepalamu, janganlah merasa takut.
 MDEF + 15 
 Memberikan toleransi 30% dari status Curse 
-Jenis: ^777777Headgear^000000     
+Jenis: ^777777Headgear^000000
 Tk Def : ^7777773^000000
-Dipakai di : ^777777Atas^000000     
+Dipakai di : ^777777Atas^000000
 Berat: ^7777770^000000
 Profesi : ^777777Semua Profesi Kecuali Novice^000000
 #
@@ -20928,9 +21013,9 @@ Profesi : ^777777Semua Profesi^000000
 5331#
 Topi besar untuk kapten bajak laut. Bentuknya dimaksudkan seperti kapal bajak laut yang besar. Tapi sudah ketinggalan jaman 
 VIT + 3, INT+ 3.
-Jenis: ^777777Headgear^000000     
+Jenis: ^777777Headgear^000000
 Tk Def : ^77777714^000000
-Dipakai di : ^777777Upper^000000     
+Dipakai di : ^777777Upper^000000
 Berat: ^7777770^000000
 Profesi : ^777777Semua Profesi Kecuali Novice^000000
 #
@@ -22567,6 +22652,7 @@ Profesi: ^777777Semua Profesi^000000
 5641#
 #
 5642#
+Barang yang tidak diketahui. Dapat diidentifikasi menggunakan [Magnifier].
 #
 5643#
 #
@@ -22826,7 +22912,7 @@ Berkemungkinan untuk mendapatkan [Cactus Needle] ketika mengalahkan monster jeni
 Jenis: ^777777Headgear^000000 Tk Def : ^7777771^000000
 Posisi : ^777777Atas^000000 Berat : ^77777730^000000
 Level Persyaratan: ^7777771^000000
-Profesi : ^777777Semua Profesi^000000" 
+Profesi : ^777777Semua Profesi^000000
 #
 5738#
 Sebuah manusia salju yang menggemaskan! Rasakan udara musim dingin disekitarmu!
@@ -23617,22 +23703,36 @@ Sebuah alat pertanian. Kamu harus berhati-hati karena benda ini dapat digunakan 
 Berat: ^7777771^000000
 #
 6011#
+Huruf  ^000088B^000000. Kartu ini sepertinya dapat di rangkai menjadi suatu kata. 
+Berat: ^7777771^000000 
 #
 6012#
 Huruf  ^000088C^000000. Kartu ini sepertinya dapat di rangkai menjadi suatu kata.
 Berat: ^7777771^000000
 #
 6013#
+Huruf  ^000088J^000000. Kartu ini sepertinya dapat di rangkai menjadi suatu kata. 
+Berat: ^7777771^000000 
 #
 6015#
+Huruf  ^000088M^000000. Kartu ini sepertinya dapat di rangkai menjadi suatu kata. 
+Berat: ^7777771^000000 
 #
 6016#
+Huruf  ^000088Q^000000. Kartu ini sepertinya dapat di rangkai menjadi suatu kata. 
+Berat: ^7777771^000000 
 #
 6017#
+Huruf  ^000088T^000000. Kartu ini sepertinya dapat di rangkai menjadi suatu kata. 
+Berat: ^7777771^000000 
 #
 6018#
+Huruf  ^000088V^000000. Kartu ini sepertinya dapat di rangkai menjadi suatu kata. 
+Berat: ^7777771^000000 
 #
 6019#
+Huruf  ^000088Z^000000. Kartu ini sepertinya dapat di rangkai menjadi suatu kata. 
+Berat: ^7777771^000000 
 #
 6020#
 Bulu indah berwarna yang cantik bisa dijual ke NPC pedagang dengan harga yang tinggi.
@@ -23661,7 +23761,7 @@ Berat: ^7777771^000000
 6026#
 #
 6027#
-Sebuah kristal yang mengandung kekuatan kegelapan.  Bercak darah di permukaannya menandakan akan karakter kristal ini.
+Sebuah kristal yang mengandung kekuatan kegelapan. Bercak darah di permukaannya menandakan akan karakter kristal ini.
 ^ffffff_^000000
 Berat: ^7777770^000000
 #
@@ -23717,7 +23817,7 @@ Setumpuk catatan sobek dan tersebar dimana-mana. Beberapa kertas disatukan dan d
 Berat: ^7777771^000000
 #
 6038#
-Sebuah file dokumen data yang terlihat bagus.  Kata terima kasih berukuran kecil tertulis dibalik file.
+Sebuah file dokumen data yang terlihat bagus. Kata terima kasih berukuran kecil tertulis dibalik file.
 ^ffffff_^000000
 Berat: ^7777771^000000
 #
@@ -27041,7 +27141,6 @@ Berat: ^7777771^000000
 #
 7189#
 Hati magis yang dibuat dari barang pohon. Kekuatan utama dari Wooden Golem.
- 
 ^ffffff_^000000
 Berat: ^7777771^000000
 #
@@ -27062,13 +27161,11 @@ Berat: ^7777771^000000
 #
 7193#
 Tunas dari benih tumbuhan.
- 
 ^ffffff_^000000
 Berat: ^7777771^000000
 #
 7194#
 Daun berwarna hijau muda. Terasa sangat lembut bila kamu menyentuhnya.
- 
 ^ffffff_^000000
 Berat: ^7777771^000000
 #
@@ -27094,13 +27191,11 @@ Berat: ^7777771^000000
 #
 7199#
 Kupon yang terlihat berguna. Mungkin saja berguna untuk dikoleksi.
- 
 ^ffffff_^000000
 Berat: ^7777771^000000
 #
 7200#
 Sebuah tali yang dapat ditarik sepanjang-panjangnya dengan menggunakan tangan. Sangat menyenangkan bermain menggunakannya.
- 
 ^ffffff_^000000
 Berat: ^7777771^000000
 #
@@ -27963,7 +28058,7 @@ Sebuah kunci tipis  transparan berwarna merah.
 ^FFFFFF ^000000
 #
 7422#
-Sebuah kunci tipis transparan berwarna kuning.^FFFFFF     ^000000
+Sebuah kunci tipis transparan berwarna kuning.
 #
 7423#
 Sebuah kunci tipis transparan berwarna biru.
@@ -28213,128 +28308,105 @@ Berat: ^7777771^000000
 #
 7472#
 Level 1 Recipes 
-''Buku resep Level 1. "Jangan panik, kamu tidak sendiri belantara ini. Buku ini dapat menolongmu untuk menyelamatkan dirimu sendiri'' 
- 
- 
+''Buku resep Level 1. "Jangan panik, kamu tidak sendiri belantara ini. Buku ini dapat menolongmu untuk menyelamatkan dirimu sendiri''
 ^ff0000Fried Grasshopper Legs^000000
 5 Grasshopper Legs 
 1 Old Frying Pan 
 1 Cooking Oil 
- 
 ^0000ffGrape Juice Herb Tea^000000
 3 Grapes 
 2 Red Potions 
- 
 ^800000Honey Grape Juice^000000
 1 Honey 
 2 Grapes 
 1 Red Potion 
- 
 ^008040Frog Eggs and 
 Squid Ink Soup^000000
 1 Bag of Grain 
 10 Spawns 
 1 Squid Ink 
- 
 ^ff8040Steamed Crab Nippers^000000
 10 Nippers 
 10 Green Herbs 
 1 Yellow Potion 
- 
 ^400080Fried Monkey Tails^000000
 5 Yoyo Tails 
 1 Old Frying Pan 
 1 Cooking Oil 
- 
 Berat: ^7777771^000000
 #
 7473#
 Level 2 Recipes 
 ''Siapapun dapat membuat masakan lezat dengan menggunakan buku resep ini'' 
- 
 ^ff0000Seasoned Sticky Webfoot^FFFFFF  ^000000 20 Sticky Webfoots 
 10 Green Herbs 
 10 Yellow Herbs 
 1 Savory Sauce 
- 
 ^0000ffAutumn Red Tea^000000
 5 Blue Herbs 
 10 Red Herbs 
 10 Yellow Herbs 
- 
 ^800000Chocolate Mousse Cake^000000
 10 Cacao 
 1 Piece of Cake 
 1 Milk 
 1 China 
- 
 ^008040Smooth Noodles^000000
 1 Bag of Grain 
 1 Savory Sauce 
 5 Jack o' Pumpkins 
 3 Carrots 
- 
 ^ff8040Assorted Seafood^000000
 10 Clam Fleshes 
 5 Gills 
 5 Fins 
 1 Fresh Fish 
- 
 ^400080Mixed Juice^000000
 3 Apple Juices 
 2 Carrot Juices 
 1 Grape Juice 
 2 Orange Juices 
- 
 Berat: ^7777771^000000
 #
 7474#
 Level 3 Recipes 
 ''Nikmatilah resep-resep yang sangat populer dikalangan ibu-ibu rumah tangga dan para ahli'' 
- 
-^ff0000Bomber Steak^000000  
+^ff0000Bomber Steak^000000
 4 Meats 
 1 Old Frying Pan 
 10 Green Herbs 
 5 Red Chiles 
 1 Spicy Sauce 
- 
 ^0000ffHoney Herbal Tea^000000
 2 Honey 
 10 White Herb 
 1 Yellow Spice 
- 
 ^800000Fruit Mix^000000
 5 Apples 
 5 Bananas 
 5 Oranges 
 5 Strawberries 
 1 Yellow Spice 
- 
 ^008040Tentacle Cheese Gratin^000000
 10 Tentacles 
 10 Cheeses 
 5 Yams 
 1 Sweet Sauce 
- 
 ^ff8040Clam Soup^000000
 20 Clam Fleshes 
 10 Conches 
 1 Honey 
 1 Sweet Sauce 
- 
 ^400080Fried Sweet Potato^000000
 10 Potatos 
 10 Yams 
 1 Sweet Potato 
 1 Sweet Sauce 
- 
 Berat: ^7777771^000000
 #
 7475#
 Level 4 Recipes 
-''Buku ini tidak diperuntukan bagi pemula. Buatlah makanan yang tidak dapat ditolak bagaikan makanan untuk kaum bangsawan.'' 
- 
+''Buku ini tidak diperuntukan bagi pemula. Buatlah makanan yang tidak dapat ditolak bagaikan makanan untuk kaum bangsawan.''
 ^ff0000Herb Marinade Beef^000000  
 5 Meats 
 3 Red Herbs 
@@ -28342,14 +28414,12 @@ Level 4 Recipes
 3 Green Herbs 
 1 Sweet Sauce 
 1 Lemon 
- 
 ^0000ffMorroc Fruit Wine^000000
 10 Strawberries 
 4 Lemons 
 10 Oranges 
 2 Alcohols 
 5 Grapes 
- 
 ^800000Cream Sandwich^000000
 5 Breads 
 15 Milks 
@@ -28357,48 +28427,41 @@ Level 4 Recipes
 10 Yellow Herbs 
 1 Meat 
 1 Sweet Sauce 
- 
 ^008040Lutie Cold Noodle^000000
 3 Bags of Grain 
 1 Spicy Sauce 
 10 Ice Cubics 
 10 Carrots 
 10 Jack o' Pumpkins 
- 
 ^ff8040Seasoned Jellyfish^000000
 30 Tentacles 
 10 White Herbs 
 10 Soft Leaves 
 1 Old Frying Pan 
 20 Squid Inks 
- 
 ^400080Steamed Ancient Lips^000000
 10 Ancient Lips 
 10 Raccoon Leaves 
 10 White Herbs 
 5 Fresh Fishes 
 2 Sweet Sauces 
- 
 Berat: ^7777771^000000
 #
 7476#
 Level 5 Recipes 
 ''Resep bagi ahli masak-ciptakanlah masakan yang tidak terduga kenikmatannya, semoga berhasil!'' 
- 
 ^ff0000Lutie Lady's Pancake^000000  
 10 Potatos 
 2 Honeys 
 1 Cooking Oil 
 3 Carrots 
 1 Bag of Grain 
- 
 ^0000ffMastela Fruit Wine^000000
 4 Mastela Fruits 
 1 Blue Potion 
 2 Alcohols 
 2 Lemons 
 1 Yellow Spice 
- 
 ^800000Green Salad^000000
 2 Hinale Leaflets 
 3 Aloe Leaflets 
@@ -28406,7 +28469,6 @@ Level 5 Recipes
 6 Huge Leaves 
 1 Sweet Sauce 
 1 Yellow Spice 
- 
 ^008040Steamed Bat 
 Wing in Pumpkin^000000
 20 Red Bat Wings 
@@ -28414,42 +28476,35 @@ Wing in Pumpkin^000000
 1 Pot 
 10 Hinale Leaflets 
 10 Red Herbs 
- 
 ^ff8040Spicy Fried Bao^000000
 20 Baos 
 10 Yellow Herbs 
 1 Spicy Sauce 
 1 Red Spice 
 20 Green Herbs 
- 
 ^400080Fried Scorpion Tails^000000
 20 Scorpion Tails 
 10 Bug Leg 
 10 Huge Leaf 
 2 Old Frying Pan 
 1 Cooking Oil 
- 
 Berat: ^7777771^000000
 #
 7477#
 Level 6 Recipes 
 ''rahasia memasak dalam berbagai keadaan ada dalam buku ini. gunakan dengan bijak'' 
- 
 ^ff0000Shiny Marinade Beef^000000  
 10 Meats 
 2 Honeys 
 1 Yellow Herb 
 1 Mastela Fruit 
 20 Shining Scales 
- 
 ^0000ffRed Mushroom Wine^000000
 3 Edible Mushrooms 
 3 Grape Juices 
 20 Mushroom Spores 
 1 Alcohol 
 1 Red Spice 
- 
- 
 ^800000Peach Cake^000000
 20 Solid Peaches 
 10 Pieces of Cake 
@@ -28457,33 +28512,28 @@ Level 6 Recipes
 10 Milks 
 5 Orange Juices 
 1 Sweet Sauce 
- 
 ^008040Chile Shrimp Gratin^000000
 20 Red Chiles 
 20 Shrimps 
 1 Sweet Sauce 
 20 Lemons 
- 
 ^ff8040Awfully Bitter Bracer^000000
 20 Brown Roots 
 10 Maneater Roots 
 20 Mushroom Spores 
 1 Cooking Oil 
 2 Honeys 
- 
 ^400080Lucky Soup^000000
 5 Reptile Tongues 
 5 Tongues 
 10 Clovers 
 10 Witch Starsands 
 1 Aloe 
- 
 Berat: ^7777771^000000
 #
 7478#
 Level 7 Recipes 
 ''Membuat masakan lezat yang dapat memuaskan orang-orang yang bahkan sangat kelaparan.'' 
- 
 ^ff0000Whole Roast^000000  
 10 Meats 
 1 Live Coal 
@@ -28491,7 +28541,6 @@ Level 7 Recipes
 1 Spicy Sauce 
 15 Trunks 
 10 White Herbs 
- 
 ^0000ffSpecial Royal 
 Jelly Herbal Tea:^000000
 4 Royal Jellys 
@@ -28499,7 +28548,6 @@ Jelly Herbal Tea:^000000
 5 White Herbs 
 10 Hinale Leaflets 
 1 Yellow Spice 
- 
 ^800000Soul Haunted Bread^000000
 10 Breads 
 5 Mastela Fruits 
@@ -28507,7 +28555,6 @@ Jelly Herbal Tea:^000000
 5 Ments 
 5 Amulets 
 2 Unripe Apples 
- 
 ^008040Steamed Alligator 
 with Vegetable^000000
 10 Anolian Skins 
@@ -28516,7 +28563,6 @@ with Vegetable^000000
 10 Aloe Leaflets 
 10 Yellow Herbs 
 1 Yellow Spice 
- 
 ^ff8040Sumptuous Feast^000000
 10 Fish Tails 
 5 Aloe Leaflets 
@@ -28524,7 +28570,6 @@ with Vegetable^000000
 2 Fresh Fishes 
 10 Pet Foods 
 1 Sweet Sauce 
- 
 ^400080Assorted Shish Kebob^000000
 10 Scale Skins 
 5 Gills 
@@ -28532,13 +28577,11 @@ with Vegetable^000000
 5 Meats 
 10 Edible Mushrooms 
 10 Clam Fleshes 
- 
 Berat: ^7777771^000000
 #
 7479#
 Level 8 Recipes 
 ''resep yg hanya boleh digunakan oleh koki yang berpengelaman'' 
- 
 ^ff0000Bearfoot Special^000000  
 20 Bear's Footskins 
 10 Carrots 
@@ -28546,7 +28589,6 @@ Level 8 Recipes
 2 Aloe Leaflets 
 1 Hinale Leaflet 
 1 Savory Sauce 
- 
 ^0000ffRoyal Family Tea^000000
 4 Prickly Fruits 
 10 Hinale Leaflets 
@@ -28554,7 +28596,6 @@ Level 8 Recipes
 10 Aloe Leaflets 
 6 Royal Jellys 
 1 Yellow Spice 
- 
 ^800000Special Toast^000000
 10 Breads 
 2 Royal Jellys 
@@ -28563,14 +28604,12 @@ Level 8 Recipes
 1 Spicy Sauce 
 10 Cheeses 
 1 Sweet Sauce 
- 
 ^008040Incredibly Spicy Curry +9^000000 1 Aloe Vera 
 1 Spicy Sauce 
 10 Meats 
 10 Hinale Leaflets 
 10 Jack o' Pumpkins 
 10 Carrots 
- 
 ^ff8040Giant Burito^000000
 20 Fig Leaves 
 20 Meats 
@@ -28578,7 +28617,6 @@ Level 8 Recipes
 10 Jack o' Pumpkins 
 1 Savory Sauce 
 2 Bags of Grain 
- 
 ^400080Strawberry Rice Ball:^000000
 10 Strawberries 
 5 Bags of Grain 
@@ -28586,13 +28624,11 @@ Level 8 Recipes
 1 Yellow Spice 
 2 Red Spice 
 1 Savory Sauce 
- 
 Berat: ^7777771^000000
 #
 7480#
 Level 9 Recipes 
 ''Perhatian! Koki tanpa skill akan terancam bahaya apabila mencoba resep-resep yang tedapat pada buku ini'' 
- 
 ^ff0000Tendon Satay^000000  
 40 Tendons 
 1 Pot 
@@ -28601,7 +28637,6 @@ Level 9 Recipes
 2 Coals 
 30 Green Herbs 
 10 Squid Inks 
- 
 ^0000ffTristram 12:^000000
 10 Yggdrasil Leaves 
 10 Oranges 
@@ -28610,7 +28645,6 @@ Level 9 Recipes
 2 Blue Potions 
 1 Yellow Spice 
 10 Aloe Leaflets 
- 
 ^800000Heavenly Fruit Juice^000000
 5 Unripe Apples 
 10 Oranges 
@@ -28619,7 +28653,6 @@ Level 9 Recipes
 1 Tropical Banana 
 5 Grape Juices 
 2 Alcohols 
- 
 ^008040Special Meat Stew:^000000
 10 Meats 
 5 Royal Jellys 
@@ -28628,7 +28661,6 @@ Level 9 Recipes
 5 Yellow Herbs 
 10 White Herbs 
 5 Red Herbs 
- 
 ^ff8040Ascending Dragon Soup^000000
 10 Dragon Skins 
 20 Dragon Tails 
@@ -28636,7 +28668,7 @@ Level 9 Recipes
 6 Royal Jellys 
 1 Spicy Sauce 
 1 Red Spice 
-1 Fatty Chubby Earthworm ^FFFFFF       ^000000
+1 Fatty Chubby Earthworm
 ^400080Blood Flavored Soda^000000
 1 Animal Gore 
 2 Anodynes 
@@ -28645,13 +28677,11 @@ Level 9 Recipes
 6 Royal Jellys 
 1 Red Spice 
 10 Apple Juices 
- 
 Berat: ^7777771^000000
 #
 7481#
 Level 10 Recipes 
 ''TBuku ini berisi resep rahasia yang dibuat oleh koki profesional dari kota prontera. Hanya diperuntukan para ahlinya juru masak.'' 
- 
 ^ff0000Steamed Tongue^000000  
 20 Tongues 
 1 Pot 
@@ -28661,7 +28691,6 @@ Level 10 Recipes
 5 Royal Jellys 
 10 Yggdrasil Leaves 
 2 Blue Potions 
- 
 ^0000ffDragon Breath Cocktail^000000
 10 Maneater Roots 
 1 Singing Plant 
@@ -28671,17 +28700,17 @@ Level 10 Recipes
 5 Prickly Fruits 
 1 Yggdrasilberry 
 10 Blue Herb 
- 
 ^800000Hwergelmir's Tonic^000000
 1 Yggdrasilberries 
 10 Ice Cubics 
 10 Bacilluses 
 4 Royal Jellys 
-3 Concentration Potions^FFFFFF  ^000000 5 Alcohols 
+3 Concentration Potions^000000
+5 Alcohols 
 2 Prickly Fruits 
 1 Illusion Flower 
- 
-^008040Steamed Desert Scorpions^FFFFFF ^000000 20 Scorpion Tails 
+^008040Steamed Desert Scorpions^000000
+20 Scorpion Tails 
 20 Scorpion Claws 
 2 Aloe Veras 
 3 Yggdrasil Leaves 
@@ -28689,7 +28718,6 @@ Level 10 Recipes
 10 Royal Jellys 
 1 Spicy Sauce 
 1 Pot 
- 
 ^ff8040Immortal Stew^000000
 20 Immortal Hearts 
 10 Mementos 
@@ -28699,8 +28727,8 @@ Level 10 Recipes
 2 Spicy Sauces 
 10 Amulets 
 2 Bitter Herbs 
- 
-^400080Cooked Nine Tail's Tails^FFFFFF ^000000 10 Nine Tails 
+^400080Cooked Nine Tail's Tails^000000
+10 Nine Tails 
 2 Four Leaf Cloves 
 10 Maneater Roots 
 10 Sharp Leaves 
@@ -28708,7 +28736,6 @@ Level 10 Recipes
 1 Savory Sauce 
 1 Yellow Spice 
 2 Izidors 
- 
 berat: ^7777771^000000
 #
 7482#
@@ -28765,7 +28792,7 @@ Sebuah keycard berwarna biru yang dapat memberikan akses masuk ke tempat persemb
 ^ffffff_^000000
 #
 7496#
-Sebuah keycard berwarna merah yang dapat memberikan akses masuk ke^FFFFFF      ^000000 ruangan tertentu.
+Sebuah keycard berwarna merah yang dapat memberikan akses masuk ke ruangan tertentu.
 ^ffffff_^000000
 #
 7497#
@@ -28773,7 +28800,7 @@ Sebuah fragment metalik yang terlihat aneh.
 ^ffffff_^000000
 #
 7498#
-Sebuah keyring yang digunakan pada banyak kunci^FFFFFF    ^000000 pada Rosimier Mansion.
+Sebuah keyring yang digunakan pada banyak kunci pada Rosimier Mansion.
 ^ffffff_^000000
 #
 7499#
@@ -28786,7 +28813,7 @@ Senyumannya yang hangat dan indah dapat kamu rasakan melalui hatimu.
 ^ffffff_^000000
 #
 7501#
-Sebuah surat yang ditulis oleh seorang laki-laki dengan inisial,^FFFFFF ^000000 K.H., untuk seorang wanita bernama Allysia.
+Sebuah surat yang ditulis oleh seorang laki-laki dengan inisial, K.H., untuk seorang wanita bernama Allysia.
 ^FFFFFF ^000000
 ^777777''Jangan percaya sama James.
 Saya yakin kalau dia berbohong.
@@ -28798,7 +28825,7 @@ Saya akan menunggumu.
 ^ffffff_^000000
 #
 7502#
-Sebuah surat yang ditujukan untuk Allysia, dan ditulis^FFFFFF  ^000000 oleh seorang laki-laki bernama James.
+Sebuah surat yang ditujukan untuk Allysia, dan ditulis oleh seorang laki-laki bernama James.
 ^FFFFFF ^777777 
 ''Allysia yang ku sayang, percayalah padaku, 
 Saya juga terkejut saat mengetahui bahwa keluarga saya telah menjodohkan saya dengan Cerinee.
@@ -28820,7 +28847,7 @@ Sebuah kunci mainan yang sangat rumit yang terbuat dari plastik.
 ^ffffff_^000000
 #
 7506#
-Sebuah kunci berwarna hitam agar dapat^FFFFFF  ^000000 masuk melalui pintu depan.
+Sebuah kunci berwarna hitam agar dapat masuk melalui pintu depan.
 ^ffffff_^000000
 #
 7507#
@@ -28829,7 +28856,7 @@ Sekeping besi yang telah berkarat dengan bentuk bujur sangkar.
 Berat: ^7777771^000000
 #
 7508#
-Cincin tunangan^FFFFFF      ^000000 yang dimiliki oleh Allysia.
+Cincin tunangan yang dimiliki oleh Allysia.
 ^ffffff_^000000
 #
 7509#
@@ -28910,7 +28937,7 @@ Berat: ^7777771^000000
 #
 7524#
 Sebuah bola yang digunakan 
-sebagai catalyst untuk memungkinkan^FFFFFF  ^000000 seorang Ninja untuk menadari 
+sebagai catalyst untuk memungkinkan seorang Ninja untuk menadari 
 kemampuan dan skill 
 yang tersembuyi.
 ^ffffff_^000000
@@ -28920,7 +28947,7 @@ Berat: ^7777772^000000
 #
 7526#
 Sebuah bagian dari manuskrip Joshua yang hilang.
-Sangat penuh dengan arti^FFFFFF  ^000000 isinya benar-benar menyentuh jiwa.
+Sangat penuh dengan arti isinya benar-benar menyentuh jiwa.
 ^ffffff_^000000
 #
 7527#
@@ -29149,15 +29176,27 @@ Berat: ^7777771^000000
 7597#
 #
 7598#
+Huruf ^000088I^000000. Kartu ini sepertinya dapat di rangkai menjadi suatu kata.
+^ffffff_^000000
+Berat: ^7777771^000000
 #
 7599#
+Huruf ^000088D^000000. Kartu ini sepertinya dapat di rangkai menjadi suatu kata.
+^ffffff_^000000
+Berat: ^7777771^000000
 #
 7600#
+Huruf ^000088K^000000. Kartu ini sepertinya dapat di rangkai menjadi suatu kata.
+^ffffff_^000000
+Berat: ^7777771^000000
 #
 7601#
+Huruf ^000088S^000000. Kartu ini sepertinya dapat di rangkai menjadi suatu kata.
+^ffffff_^000000
+Berat: ^7777771^000000
 #
 7602#
-Huruf ^000088R^000000.Kartu ini sepertinya dapat di rangkai menjadi suatu kata.
+Huruf ^000088R^000000. Kartu ini sepertinya dapat di rangkai menjadi suatu kata.
 ^ffffff_^000000
 Berat: ^7777771^000000
 #
@@ -29941,12 +29980,12 @@ Berat: ^7777770^000000
 7905#
 #
 7906#
-A poppy wreath placed at  
-a location of strong  
-personal meaning to  
-commemorate the memories  
-of events and people  
-that have shaped  
+A poppy wreath placed at
+a location of strong
+personal meaning to
+commemorate the memories
+of events and people
+that have shaped 
 your life.
 ^ffffff_^000000
 #
@@ -30486,7 +30525,7 @@ An egg in which the
 New Year Doll Cute 
 Pet is sleeping. You 
 can wake it up with 
-a [Portable Incubator.]^FFFFFF   ^000000 Class: ^777777Pet Egg^000000
+a [Portable Incubator.] Class: ^777777Pet Egg^000000
 #
 9039#
 #
@@ -30835,7 +30874,7 @@ Sebuah karya baru dari penulis novel terkenal,Mihir.
 Berat: ^7777771^000000
 #
 11002#
-Sebuah novel terkenal yang di terbitkan bulanan ^FFFFFF   ^000000 yang berjudul  
+Sebuah novel terkenal yang di terbitkan bulanan  yang berjudul  
 ''Genius Chef Orleans Takes on the World!'' 
 ^ffffff_^000000
 Berat: ^7777771^000000
@@ -30851,18 +30890,19 @@ Berat: ^7777771^000000
 #
 11005#
 Sebuah buku yang mencurigakan dengan stampet Kerajaan Rune-Midgard. Halaman mengenai^FFFFFF     ^000000 pengarangnya telah 
-disobek.^ffffff_^000000
+disobek.
+^ffffff_^000000
 Berat: ^7777771^000000
 #
 11006#
 Sebuah buku yang diterbitkan di Arunafeltz, negara yang memuja Dewi Freya. Cerita ini dulu hanya dari mulut ke mulut, tetapi 
-telah^FFFFFF    ^000000 dimasukan nilai religius dan diterbitkan.
+telah  dimasukan nilai religius dan diterbitkan.
 ^ffffff_^000000
 Berat: ^7777771^000000
 #
 11007#
 Sebuah buku yang diterbitkan di Arunafeltz, negara yang memuja Dewi Freya. Cerita ini dulu hanya dari mulut ke mulut, tetapi 
-telah^FFFFFF    ^000000 dimasukan nilai religius.
+telah dimasukan nilai religius.
 ^ffffff_^000000
 Berat: ^7777771^000000
 #
@@ -30879,7 +30919,7 @@ Berat: ^7777771^000000
 11010#
 #
 11011#
-Catatan Dokter Varmunt. Catatan singkat tertulis dalam tulisan tangan.  Kebanyakan berisi mengenai Thanatos Tower dan peninggalan sejarah yang ingin dia ketahui.
+Catatan Dokter Varmunt. Catatan singkat tertulis dalam tulisan tangan. Kebanyakan berisi mengenai Thanatos Tower dan peninggalan sejarah yang ingin dia ketahui.
 ^ffffff_^000000
 Berat: ^7777770^000000
 #
@@ -31603,7 +31643,7 @@ INT +1
 Berat: ^77777710^000000
 #
 12047#
-teh yang dibuat dari 3 bahan yang terbaik yang membuat rasanya sangat nikmat.
+Teh yang dibuat dari 3 bahan yang terbaik yang membuat rasanya sangat nikmat.
 INT + 2 
 ^FFFFFF ^000000
 Berat: ^77777750^000000
@@ -31809,7 +31849,7 @@ Berat: ^777777100^000000
 12080#
 cocktail dengan 
 rasa yang tak terlupakan 
-yang mengesankan seperti^FFFFFF       ^000000 napas naga. INT +10
+yang mengesankan seperti napas naga. INT +10
 ^FFFFFF ^000000
 Berat: ^777777100^000000
 #
@@ -31974,7 +32014,7 @@ rasanya sangat keras. LUK +9
 Berat: ^777777100^000000
 #
 12100#
-Masakan langka^FFFFFF    ^000000 dari Payon yang 
+Masakan langka dari Payon yang 
 membawa keberuntungan kepada pemakannya. LUK +10
 ^FFFFFF ^000000
 Berat: ^77777750^000000
@@ -32023,7 +32063,7 @@ Sebuah gulungan yang nampak dikemas secara hati-hati.
 Berat: ^77777720^000000
 #
 12109#
-Sebuah Box yang terbungkus rapi yang mempunyai tanda^FFFFFF    ^000000 Poring ditengahnya, sepertinya jika kamu memecahkannya maka akan keluar monster.
+Sebuah Box yang terbungkus rapi yang mempunyai tanda Poring ditengahnya, sepertinya jika kamu memecahkannya maka akan keluar monster.
 ^FFFFFF ^000000
 Berat: ^77777720^000000
 #
@@ -32233,7 +32273,7 @@ Memanggil bow mercenary soldier tingkat 4
 Berat: ^77777710^000000
 #
 12157#
-SMemanggil bow mercenary soldier tingkat 5 
+Memanggil bow mercenary soldier tingkat 5 
 ^ffffff_^000000
 Berat: ^77777710^000000
 #
@@ -32451,31 +32491,37 @@ Berat: ^7777775^000000
 #
 12202#
 Makanan yang istimewa yang berasal dari louyang. Sangat mahal tapi rasanya luar biasa.
-STR + 10. memiliki durasi selama 30 menit.
+STR +10.
+Durasi 30 menit.
 ^ffffff_^000000
 Berat: ^7777771^000000
 #
 12203#
 Salah satu masakan dari 4 makanan terbaik dari gurun pasir sograt, scorpion ini dimasak dengan panas dari alam.
-AGI + 10. memiliki durasi selama 30 menit.
+AGI +10
+Durasi 30 menit.
 ^ffffff_^000000
 Berat: ^7777771^000000
 #
 12204#
 Sebuah cocktail yang rasanya tidak akan pernah bisa kamu lupakan^FFFFFFsering disebut dengan dragon's breath^000000  
-INT + 10. memiliki durasi selama 30 menit.
+INT +10
+Durasi 30 menit.
 ^ffffff_^000000
 Berat: ^7777771^000000
 #
 12205#
 Nama makanan ini berasal dari sungai midgrad yang terkenal, rasanya sangat lezat 
-DEX +10 memiliki durasi selama 30 menit.
+DEX +10
+Durasi 30 menit.
 ^ffffff_^000000
 Berat: ^7777771^000000
 #
 12206#
 Masakan spesial dari ^FFFFFF Payon  ^000000.
-Memberikan keberuntungan pada yang memakannya. LUK +10. memiliki durasi selama 30 menit 
+Memberikan keberuntungan pada yang memakannya.
+LUK +10
+Durasi 30 menit.
 ^ffffff_^000000
 Berat: ^7777771^000000
 #
@@ -32483,7 +32529,8 @@ Berat: ^7777771^000000
 Daging yang enak 
 Baunya sangat khas 
 Tetapi efeknya dapat memberikan kekuatan besar ditubuhmu 
-VIT +10. memiliki durasi selama 30 menit 
+VIT +10
+Durasi 30 menit.
 ^ffffff_^000000
 Berat: ^7777771^000000
 #
@@ -32885,7 +32932,8 @@ Sebuah butterfly wing yang diberi kekuatan sihir.. ^000088Dapat pindah ke tempat
 Berat: ^7777770^000000
 #
 12325#
-Sebuah Magnifier yang dapat mengidentifikasi sebuah benda dengan lebih jelas.
+Sebuah Magnifier yang dapat mengidentifikasi sebuah benda yang tidak diketahui.
+^008800Gunakan [Ctrl+Klik kiri] langsung pada barang yang tidak diketahui.^000000
 ^ffffff_^000000
 Berat: ^7777770^000000
 #
@@ -33276,53 +33324,56 @@ Menyembuhkan sejumlah besar HP, meningkatkans kecepatan penyembukan HP otomatis 
 Berat: ^7777777^000000
 #
 12429#
-Dish yang sangat lezat, barbekyu Sevage! 
-STR + 20.
-Durasi: 5 min.
+Hidangan yang sangat lezat, barbekyu Sevage! 
+STR +20
+Durasi: 5 menit.
 Berat: ^7777775^000000
 #
 12430#
 Koktail berwarna merah darah. Mungkin diambil dari darah serigala.
-INT + 20.
-Durasi: 5 min.
+INT +20
+Durasi: 5 menit.
 Berat: ^7777775^000000
 #
 12431#
 Daging dari kepala minotaur. Empuk dan enak.
-VIT + 20.
-Durasi: 5 min.
+VIT +20
+Durasi: 5 menit.
 Berat: ^7777775^000000
 #
 12432#
 Es dan Teh, tidak hijau dan tidak coklat, tapi transparan.
-DEX + 20.
-Durasi: 5 min.
+DEX +20
+Durasi: 5 menit.
 Berat: ^7777775^000000
 #
 12433#
 Hidangan terlezat di Arunafeltz dengan bentuk yang kenyal.
-AGI + 20.
-Durasi: 5 min.
+AGI +20
+Durasi: 5 menit.
 Berat: ^7777775^000000
 #
 12434#
 Mie paling terkenal di Geffen. kamu akan merasa orang terberuntung di dunia.
-LUK + 20.
-Durasi: 5 min.
+LUK +20
+Durasi: 5 menit.
 Berat: ^7777775^000000
 #
 12435#
 Sebuah hal yang menakutkan, hitam dan berbau seperti terbakar. Ini terlihat seperti kegagalan dari sesuatu, bahkan sudah tidak terlihat bentuk aslinya.
 mengurangi semua status 5 sampai 10.
-Durasi: 5 min.
+Durasi: 5 menit.
 Berat: ^7777775^000000
 #
 12436#
-Menambah SP, meningkatkan kecepatan regenerasi SP secara alami sebesar 20% . MSP 5% bertambah. Durasi: 500 detik.
+Memulihkan SP dan meningkatkan kecepatan regenerasi SP sebesar 20%.
+MaxSP bertambah sebanyak 5%.
+Durasi: 500 detik.
 Berat: ^7777775^000000
 #
 12437#
-Meningkatkan kecepatan serang sedikit. Durasi: 500 detik.
+Meningkatkan sedikit kecepatan serang.
+Durasi: 500 detik.
 Berat: ^7777775^000000
 #
 12438#
@@ -36960,33 +37011,37 @@ Profesi: ^777777Novice, Swordman, Merchant, Thief, dan Ninja^000000
 Salah satu Pedang Naght Sieger. Mata Pedang yang berwarna biru mewakilkan ketajaman dari Pedang ini.
 Kemungkinan kecil untuk mengabaikan tingkat defense, saat melakukan serangan fisik.
 Memberikan kemungkinan cast Lv 5 Frost Diver.
-Jenis: ^777777Pedang^000000      Serangan: ^777777150^000000
-Berat: ^777777150^000000      Elemen: ^777777Water^000000
-Level Senjata: ^7777774^000000
+Jenis: ^777777Pedang satu tangan^000000
+Serangan: ^777777150^000000
+Berat: ^777777150^000000
+Elemen: ^6996ADAir^000000
+Senjata Level: ^7777774^000000
 Level Persyaratan: ^77777775^000000
-Profesi: ^777777Job 3 dari profesi Swordma, Merchant, Thief^000000
+Profesi: ^777777Transcendent Job Swordman, Merchant dan Thief^000000
 #
 13413#
 Salah satu Pedang Naght Sieger. Mata Pedang yang berwarna merah mewakilkan daya hancur yang tinggi.
 Kemungkinan kecil untuk mengabaikan tingkat defense, saat melakukan serangan fisik.
 Memberikan kemungkinan cast Lv 3 Meteor Storm.
-Jenis: ^777777Pedang^000000      Serangan: ^777777160^000000
-Berat: ^777777150^000000      Elemen: ^777777Fire^000000
-Level Senjata: ^7777774^000000
+Jenis: ^777777Pedang satu tangan^000000
+Serangan: ^777777160^000000
+Berat: ^777777150^000000
+Elemen: ^FF0000Api^000000
+Senjata Level: ^7777774^000000
 Level Persyaratan: ^77777775^000000
-Profesi: ^777777Job 3 dari profesi Swordman, Merchant, dan Thief^000000
+Profesi: ^777777Transcendent Job Swordman, Merchant dan Thief^000000
 #
 13414#
 Pedang sihir yang mengandung 4 unsur alam yang berbeda.  Sangat efektif melawan musuh berelem Air, Angin, Tanah dan Api.
-STR + 2, INT + 4, Dex + 1, MATK + 95 
+STR +2, INT +4, Dex +1, MATK +95 
 Memberikan tambahan damage sebesar 10% terhadap monster tanpa elemen.
 Ketika menyerang, memberikan kemungkinan tambahan serangan sihir bolt pada saat tertentu.
-Jenis: ^777777One Handed Sword^000000
-Attack : ^777777105^000000
+Jenis: ^777777Pedang satu tangan^000000
+Serangan: ^777777105^000000
 Berat: ^777777120^000000
-Weapon Level : ^7777773^000000
+Senjata Level: ^7777773^000000
 Level Persyaratan: ^77777770^000000
-Profesi : ^777777Transcendent Swordman, Merchant, Thief Class^000000
+Profesi: ^777777Transcendent Job Swordman, Merchant dan Thief^000000
 #
 13415#
 Sebuah Pedang yang besar dan sedikit melengkung 
@@ -37111,29 +37166,31 @@ Jobs : ^777777SwordmanWeapon Class/Merchant Weapon Class/Thief Weapon Class^0000
 #
 13431#
 Pedang yang terbuat dari Bradium, mineral dari dunia lain 
-Tidak dapat dihancurkan 
-AGI + 1, MHP - 5%.
-Jenis: ^777777Pedang^000000 Serangan: ^777777180^000000
+Tidak dapat dihancurkan.
+AGI +1, MaxHP -5%.
+Jenis: ^777777Pedang satu tangan^000000
+Serangan: ^777777180^000000
 Berat: ^777777220^000000
 Senjata Level: ^7777773^000000
 Level Persyaratan: ^777777110^000000
-Profesi: ^777777Swordman/Merchant^000000
+Profesi: ^777777Swordman dan Merchant^000000
 #
 13433#
-Sword, yang disediakan oleh  Academy
-MaxHP + 200, MaxSP + 100.
-Ketika BaseLv meningkat hingga 10,  MaxHP - 40, MaxSP - 20.
-Class : ^777777Sword^000000 Defense : ^777777120^000000
-Weight : ^777777120^000000
-Weapon's Lv : ^7777771^000000
-Required Lv : ^77777730^000000
-Job : ^777777Swordman^000000
+Pedang yang disediakan oleh akademi
+MaxHP +200, MaxSP +100.
+Ketika BaseLv meningkat hingga 10,  MaxHP -40, MaxSP -20.
+Jenis: ^777777Pedang^000000
+Serangan: ^777777120^000000
+Berat: ^777777120^000000
+Senjata Level: ^7777771^000000
+Level Persyaratan: ^77777730^000000
+Profesi: ^777777Swordman^000000
 #
 13434#
 ^ff0000Tidak dapat di transaksikan.^000000
 Pedang satu tangan yang dibuat oleh Eden Group. Sangat cocok untuk mereka yang memiliki pengalaman lebih, dalam menggunakan pedang satu tangan.
 Tidak bisa di upgrade.
-Jenis: ^777777Sword^000000 Serangan: ^777777185^000000
+Jenis: ^777777Pedang^000000 Serangan: ^777777185^000000
 Berat  : ^7777770^000000
 Senjata Lv  : ^7777773^000000
 Dibutuhkan Lv   : ^77777760^000000
@@ -37146,11 +37203,11 @@ Profesi : ^777777Swordman / Merchant / Thief Class^000000
 13437#
 #
 13438#
-The Wizard membuat pedang ini dengan semua kekuatan magicnya. Tetapi dia tidak dapat menggunakannya.
+Penyihir membuat pedang ini dengan semua kekuatan magicnya. Tetapi dia tidak dapat menggunakannya.
 Ketika menggunakan serangan fisik jarak dekat, mempunyai kesempatan mengeluarkan serangan magic.
 Meningkatkan kesempatan setiap 2 tingkat upgrade
 MATK + 110.
-Class : ^777777Sword^000000 Attack : ^777777165^000000
+Class : ^777777Pedang^000000 Attack : ^777777165^000000
 Weight : ^777777200^000000
 Weapon Lv : ^7777774^000000
 Required Lv. : ^777777105^000000
@@ -37166,7 +37223,7 @@ Jobs : ^777777Novice/Swordman class/Merchant class/Thief class^000000
 #
 13444#
 Menambahkan kecepatan serangn. ( -8% pengurangan setelah-serangan)
-Class : ^777777Sword^000000 Atk : ^777777190^000000
+Class : ^777777Pedang^000000 Atk : ^777777190^000000
 Weight : ^77777770^000000
 Weapon Lev : ^7777773^000000
 Req Lev : ^7777771^000000
@@ -37190,7 +37247,7 @@ Profesi : ^777777Novice/Swordman Class/Merchant/Theif^000000
 #
 13451#
 Pedang Biru yang mempunyai kekuatan menghancurkan. Str +5, Agi +5.
-Type : ^777777Sword^000000 Serangan: ^777777190^000000
+Type : ^777777Pedang^000000 Serangan: ^777777190^000000
 Berat: ^777777120^000000
 Senjata Lv. : ^7777773^000000
 Dibutuhkan Lv.: ^777777100^000000
@@ -41073,18 +41130,20 @@ Berat: ^7777771^000000
 14766#
 #
 15000#
-Baju perang baja yang dilapisi oleh tulang yang tajam.
+Baju perang baja yang dilapisi oleh tulang-tulang yang tajam.
 Ketika melakukan serangan, berkemungkinan melakukan auto cast 'bleeding' area 5x5 cells dari pemain sebesar 1%.
-Mengabaikan 10% DEF dari monster human dan jenis binatang.
-STR + 1, MDEF + 3 
-Jenis: ^777777Armor^000000    Tk Def : ^77777760^000000
+Mengabaikan 10% DEF dari monster setengah manusia dan binatang.
+STR +1, MDEF +3 
+Jenis: ^777777Armor^000000
+Pertahanan: ^77777760^000000
 Berat: ^777777100^000000
-Level Persyaratan: ^7777771^000000
-Profesi : ^777777High Thief^000000
+Level Persyaratan: ^77777785^000000
+Profesi: ^777777Transcendent Thief, Merchant dan Swordman^000000
 #
 15001#
 Bagian utama dari set Armor Hermod.
-Jenis: ^777777Armor^000000    Def : ^77777710^000000
+Jenis: ^777777 ^000000
+Pertahanan: ^77777710^000000
 Berat: ^7777770^000000
 Level Persyaratan: ^7777770^000000
 Profesi: ^777777Semua kecuali Novice^000000
@@ -45922,7 +45981,7 @@ Profesi : ^777777Semua kecuali Novice^000000
 18513#
 #
 18514#
-^ff0000Tidak dapat di transaksikan.^000000
+^ff0000Tidak dapat ditransaksikan.^000000
 Sebuah Topi yang hanya disediakan untuk anggota Eden Group.
 Topi ini dirancang untuk semua setelan jas.
 Memiliki kesempatan untuk menambah 10 Atk atau 10 daya Matk selama 5 detik saat melakukan kerusakan fisik atau sihir.
@@ -46893,14 +46952,14 @@ Profesi : ^777777Semua Profesi^000000
 #
 18741#
 Penomena supranatural menakutkan. Itu membuat orang merasa takut
-Jenis: ^777777Costume Armor^000000 Defense : ^7777770^000000
+Jenis: ^777777Kostum^000000 Defense : ^7777770^000000
 Digunakan di: ^777777Upper ^000000Berat : ^7777770^000000
 Digunakan Lv. : ^7777771^000000
 Profesi : ^777777Semua Profesi^000000
 #
 18742#
 Ah.. Aku dapat merasakanya.. Aku dapat memikirkan alam semesta yang kecil dipikiranku.
-Jenis: ^777777Costume^000000 Def : ^7777770^000000
+Jenis: ^777777Kostum^000000 Def : ^7777770^000000
 Letak : ^777777Kepala Tengah ^000000Berat : ^7777770^000000
 Level Persyaratan: ^7777771^000000
 Job : ^777777Semua Job^000000
@@ -46914,7 +46973,7 @@ Profesi : ^777777Semua Profesi^000000
 #
 18744#
 Terasa seperti aku adalah seorang Super Star
-Jenis: ^777777Costume^000000 Defense : ^7777770^000000
+Jenis: ^777777Kostum^000000 Defense : ^7777770^000000
 Letak : ^777777Kepala Tengah ^000000Berat : ^7777770^000000
 Level Persyaratan: ^7777771^000000
 Job : ^777777Semua Job^000000
@@ -48263,7 +48322,7 @@ Profesi: ^777777Semua^000000
 19538#
 Cahaya bulan yang sangat indah dan menakjubkan.
 mempunyai kesempatan untuk menambahkan + 50 atk atau +50 matk ketika melakukan serangan fisik atau magic selama 5 detik.
-Jenis: ^777777Costume^000000
+Jenis: ^777777Kostum^000000
 Digunakan di: ^777777Pelindung kepala ^000000 Berat : ^7777770^000000
 Required Lv : ^7777771^000000
 Profesi: ^777777Semua Profesis^000000
@@ -48340,7 +48399,7 @@ Profesi: ^777777Semua Profesis^000000
 #
 19574#
 Pelindung kepala yang menyerupai pelindung kepala yang pemiliknya sudah meninggal.
-Jenis: ^777777Costume^000000
+Jenis: ^777777Kostum^000000
 Letak : ^777777Kepala Atas Dan Kepala Tengah ^000000 Berat : ^7777770^000000
 Level Persyaratan: ^7777771^000000
 Job : ^777777Semua Job^000000
@@ -48381,7 +48440,7 @@ Profesi: ^777777Semua Profesi^000000
 19589#
 Sebuah helm cantik berbentuk sayap malaikat.
 Memakai item ini membuat Anda merasa sedikit pusing, tapi segera itu akan menyegarkanmu.
-Class : ^777777Costume ^000000 Def : ^7777770^000000
+Class : ^777777Kostum ^000000 Def : ^7777770^000000
 Location : ^777777Upper ^000000Weight : ^7777770^000000
 Required LV : ^7777771^000000
 Job : ^777777All^000000
@@ -48423,7 +48482,7 @@ Job : ^777777All^000000
 19607#
 Kekuatan cinta membuat perubahan ke wanita ini.
 Butuh perawatan halus.
-Class : ^777777Costume^000000 Def : ^7777770^000000
+Class : ^777777Kostum^000000 Def : ^7777770^000000
 Location : ^777777Upper ^000000Weight : ^7777770^000000
 Required LV : ^7777771^000000
 Job : ^777777All^000000
@@ -48506,7 +48565,7 @@ Job : ^777777All^000000
 #
 19649#
 Sebuah kucing putih tampak lucu
-Class : ^777777Costume^000000 Def : ^7777770^000000
+Class : ^777777Kostum^000000 Def : ^7777770^000000
 Location : ^777777Upper ^000000Weight : ^7777770^000000
 Required LV : ^7777771^000000
 Job : ^777777All^000000
@@ -48540,7 +48599,7 @@ Profesi: ^777777Semua Profesi^000000
 #
 19661#
 Sweet bonnet
-Class : ^777777Costume^000000 Def : ^7777770^000000
+Class : ^777777Kostum^000000 Def : ^7777770^000000
 Location : ^777777Upper ^000000Weight : ^7777770^000000
 Required LV : ^7777771^000000
 Job : ^777777All^000000
@@ -48577,7 +48636,7 @@ Job : ^777777All^000000
 #
 19677#
 Cincin misterius di atas kepala. Ini mungkin terasa seperti kamu tidak memiliki jiwa saat kamu memakainya.
-Class : ^777777Costume Armor^000000 Defense : ^7777770^000000
+Class : ^777777Kostum^000000 Defense : ^7777770^000000
 Location : ^777777Upper ^000000Weight : ^7777770^000000
 Required Lv : ^7777771^000000
 Job : ^777777Semua Job^000000
@@ -48618,7 +48677,7 @@ Job : ^777777All^000000
 #
 19690#
 Dark Snake Lord's hat akan terlihat berwibawa jika kamu mengunakannya.
-Class : ^777777Costume^000000 Def : ^7777770^000000
+Class : ^777777Kostum^000000 Def : ^7777770^000000
 Location : ^777777Upper ^000000Weight : ^7777770^000000
 Req Lev : ^7777771^000000
 Job : ^777777All^000000
@@ -48633,14 +48692,14 @@ Job : ^777777All^000000
 #
 19695#
 Sebuah teko dengan tekanan tinggi yang dikenakan di atas kepala kamu. airnya akan tumpah jika kamu bergerak terlalu cepat.
-Class : ^777777Costume^000000 Def : ^7777770^000000
+Class : ^777777Kostum^000000 Def : ^7777770^000000
 Location : ^777777Upper ^000000Weight : ^7777770^000000
 Req Lev : ^7777771^000000
 Job : ^777777All^000000
 #
 19696#
 Sebuah topi yang berbentuk Rice Cake.
-Class : ^777777Costume^000000 Def : ^7777770^000000
+Class : ^777777Kostum^000000 Def : ^7777770^000000
 Location : ^777777Upper ^000000Weight : ^7777770^000000
 Req Lev : ^7777771^000000
 Job : ^777777All^000000
@@ -48678,7 +48737,7 @@ Job : ^777777Semua^000000
 #
 19709#
 Sebuah pita yang terbuat dari bendera tua. Ini dipakai di sisi kepala kamu.
-Class : ^777777Costume^000000 Def : ^7777770^000000
+Class : ^777777Kostum^000000 Def : ^7777770^000000
 Location : ^777777Upper ^000000Weight : ^7777770^000000
 Req Lev : ^7777771^000000
 Job : ^777777All^000000
@@ -48699,7 +48758,7 @@ Job : ^777777All^000000
 #
 19718#
 Sebuah bandana rambut dengan embel-embel Gothic.
-Class : ^777777Costume^000000 Def : ^7777770^000000
+Class : ^777777Kostum^000000 Def : ^7777770^000000
 Location : ^777777Upper ^000000Weight : ^7777770^000000
 Req Lev : ^7777771^000000
 Job : ^777777All^000000
@@ -48710,7 +48769,7 @@ Job : ^777777All^000000
 #
 19721#
 Sebuah tutup kepala dengan sayap gelap yang membentang di sisi kanan dan kiri nya mengintensifkan kemampuan tertentu.
-Class : ^777777Costume^000000 Def : ^7777770^000000
+Class : ^777777Kostum^000000 Def : ^7777770^000000
 Location : ^777777Upper ^000000Weight : ^7777770^000000
 Req Lev : ^7777771^000000
 Job : ^777777All^000000
@@ -48721,7 +48780,7 @@ Job : ^777777All^000000
 #
 19724#
 Sebuah tutup kepala yang berbentuk seperti karyawan Kafra.
-Class : ^777777Costume^000000 Def : ^7777770^000000
+Class : ^777777Kostum^000000 Def : ^7777770^000000
 Location : ^777777Upper ^000000Weight : ^7777770^000000
 Req Lev : ^7777771^000000
 Job : ^777777All^000000
@@ -48734,14 +48793,14 @@ Job : ^777777All^000000
 #
 19728#
 Sebuah simulasi topi dari Npc Zonda.
-Class : ^777777Costume^000000 Def : ^7777770^000000
+Class : ^777777Kostum^000000 Def : ^7777770^000000
 Location : ^777777Upper ^000000Weight : ^7777770^000000
 Req Lev : ^7777771^000000
 Job : ^777777All^000000
 #
 19729#
 Sebuah kombinasi yang sempurna dari Kafra band dan Kitty Band.
-Class : ^777777Costume^000000 Def : ^7777770^000000
+Class : ^777777Kostum^000000 Def : ^7777770^000000
 Location : ^777777Upper ^000000Weight : ^7777770^000000
 Req Lev : ^7777771^000000
 Job : ^777777All^000000
@@ -48786,21 +48845,21 @@ Job : ^777777All^000000
 #
 19750#
 Pita putih besar.
-Jenis: ^777777Costume Armor^000000
+Jenis: ^777777Kostum^000000
 Digunakan di: ^777777Upper ^000000Berat : ^7777770^000000
 Digunakan Lv. : ^7777771^000000
 Profesi : ^777777Semua Profesi^000000
 #
 19751#
 The crown, which is designed white wing on the left side and black wing on the right side
-Jenis: ^777777Costume Armor^000000
+Jenis: ^777777Kostum^000000
 Digunakan di: ^777777Upper ^000000Berat : ^7777770^000000
 Digunakan Lv. : ^7777771^000000
 Profesi : ^777777Semua Profesi^000000
 #
 19752#
 Aksesoris dengan mawar ungu
-Jenis: ^777777Costume Armor^000000
+Jenis: ^777777Kostum^000000
 Digunakan di: ^777777Mid ^000000Berat : ^7777770^000000
 Digunakan Lv. : ^7777771^000000
 Profesi : ^777777Semua Profesi^000000
@@ -49078,7 +49137,7 @@ Profesi : ^777777Semua Profesi^000000
 19903#
 Sebuah topi  tua berwarna hitam.
 Selama periode event, mengurangi delay Casting akan berkurang sebesar 10%
-Jenis: ^777777Costume^000000 Defense : ^7777770^000000
+Jenis: ^777777Kostum^000000 Defense : ^7777770^000000
 Location : ^777777Upper ^000000Berat : ^7777770^000000
 Required Lv : ^7777771^000000
 Job : ^777777All jobs^000000
@@ -49108,7 +49167,7 @@ Job : ^777777All jobs^000000
 19917#
 Penutup Kepala berbentuk labu dengan suasana hati yang suram.
 Selama periode event, akan meningkatkan movement speed.
-Jenis: ^777777Costume Armor^000000
+Jenis: ^777777Kostum^000000
 Location : ^777777Upper ^000000 Berat : ^7777770^000000
 Required Lv : ^7777771^000000
 Job : ^777777Semua Job^000000
@@ -49116,7 +49175,7 @@ Job : ^777777Semua Job^000000
 19918#
 Topeng Lude, yang merupakan maskot dari Niflheim
 Selama periode event,  meningkatkan efek dari Heal dan efek dari pemulihan item sebesar 20%.
-Jenis: ^777777Costume Armor^000000
+Jenis: ^777777Kostum^000000
 Location : ^777777Middle Low ^000000 Berat : ^7777770^000000
 Required Lv : ^7777771^000000
 Job : ^777777Semua Job^000000
@@ -49124,7 +49183,7 @@ Job : ^777777Semua Job^000000
 19919#
 Topeng Cube, yang merupakan maskot dari Niflheim
 Selama periode event, attack speed akan meningkat (mengurangi delay setelah menyerang sebesar 10%) 
-Jenis: ^777777Costume Armor^000000
+Jenis: ^777777Kostum^000000
 Location : ^777777Middle-low ^000000 Berat : ^7777770^000000
 Required Lv : ^7777771^000000
 Job : ^777777Semua Job^000000
@@ -49132,7 +49191,7 @@ Job : ^777777Semua Job^000000
 19920#
 Whisper's mask. Sudah lebih kuat dari sebelumnya
 Selama periode event,  FLEE + 20.
-Jenis: ^777777Costume Armor^000000
+Jenis: ^777777Kostum^000000
 Location : ^777777Upper-Middle-Low ^000000 Berat : ^7777770^000000
 Required Lv : ^7777771^000000
 Job : ^777777Semua Job^000000
@@ -49143,7 +49202,7 @@ Job : ^777777Semua Job^000000
 #
 19929#
 Kostum pita yang di desain klasik.
-Jenis: ^777777Costume^000000 Def : ^7777770^000000
+Jenis: ^777777Kostum^000000 Def : ^7777770^000000
 Digunakan di  : ^777777Upper ^000000Berat : ^7777770^000000
 Rew LvL : ^7777771^000000
 Profesi : ^777777All^000000
@@ -49264,7 +49323,7 @@ Job : ^777777Semua^000000
 Masker rambut unicorn biru yang dibuat untuk 2014 tahun kuda biru. Hal ini terlihat sangat keren, tetapi sangat sulit untuk bernapas dengan itu.
 Dapat mengurangi skill yang tersedia.
 Efek pemulihan wortel * 100% (Pilihan ini hanya tersedia selama periode peristiwa.)
-Jenis: ^777777Costume^000000 Def : ^7777770^000000
+Jenis: ^777777Kostum^000000 Def : ^7777770^000000
 Di gunakan di  : ^777777UpperMiddleLower ^000000Berat : ^7777770^000000
 Digunakan Lv : ^7777771^000000
 Profesi : ^777777Semua Profesi^000000
@@ -49306,7 +49365,7 @@ Profesi : ^777777Semua Profesi^000000
 20014#
 ^ff0000It cannot be traded with other accounts.^000000
 Topi hitam tinggi yang di replica dari seorang Emansipator
-Jenis: ^777777Costume^000000
+Jenis: ^777777Kostum^000000
 Digunakan di  : ^777777Upper ^000000Berat : ^7777770^000000
 Dibutuhkan Lv.. : ^7777771^000000
 Profesi : ^777777Semua Profesi^000000
@@ -49314,7 +49373,7 @@ Profesi : ^777777Semua Profesi^000000
 20015#
 ^ff0000It cannot be traded with other accounts.^000000
 Kumis yang di replica dari seorang Emansipator
-Jenis: ^777777Costume^000000
+Jenis: ^777777Kostum^000000
 Digunakan di  : ^777777Lower ^000000Berat : ^7777770^000000
 Dibutuhkan Lv.. : ^7777771^000000
 Profesi : ^777777Semua Profesi^000000
@@ -49322,7 +49381,7 @@ Profesi : ^777777Semua Profesi^000000
 20016#
 ^ff0000It cannot be traded with other accounts.^000000
 Pengalaman makan yang selalu lebih baik dengan lobster.
-Jenis: ^777777Costume^000000
+Jenis: ^777777Kostum^000000
 Digunakan di  : ^777777Upper ^000000Berat : ^7777770^000000
 Dibutuhkan Lv.. : ^7777771^000000
 Profesi : ^777777Semua Profesi^000000
@@ -49332,7 +49391,7 @@ Profesi : ^777777Semua Profesi^000000
 20018#
 ^ff0000It cannot be traded with other accounts.^000000
 Sebuah helm aneh yang tampaknya seperti hidup.
-Jenis: ^777777Costume^000000
+Jenis: ^777777Kostum^000000
 Digunakan di  : ^777777Upper ^000000Berat : ^7777770^000000
 Dibutuhkan Lv.. : ^7777771^000000
 Profesi : ^777777Semua Profesi^000000
@@ -49340,7 +49399,7 @@ Profesi : ^777777Semua Profesi^000000
 20019#
 ^ff0000Cannot be traded with other accounts.^000000
 Topi ini adalah untuk Seniman yang berkontribusi kepada masyarakat.
-Jenis: ^777777Costume^000000
+Jenis: ^777777Kostum^000000
 Digunakan di  : ^777777Upper ^000000Berat : ^7777770^000000
 Dibutuhkan Lv..: ^7777771^000000
 Profesi : ^777777All Profesi^000000
@@ -49384,7 +49443,7 @@ Profesi : ^777777All Profesi^000000
 20038#
 ^ff0000It cannot be traded with other accounts.^000000
 Sebuah helm aneh yang tampaknya seperti hidup.
-Jenis: ^777777Costume^000000
+Jenis: ^777777Kostum^000000
 Digunakan di  : ^777777Upper ^000000Berat : ^7777770^000000
 Dibutuhkan Lv.. : ^7777771^000000
 Profesi : ^777777Semua Profesi^000000
@@ -49437,7 +49496,69 @@ Profesi : ^777777Semua Profesi^000000
 #
 20085#
 #
+20086#
+^ff0000Tidak bisa ditransaksikan.^000000
+Naga adalah satu dari 12 zodiac cina.
+빛나는 여의주를 품고 있어 소원을 들어줄 것 만 같다.
+Jenis : ^777777Kostum^000000
+Lokasi : ^777777Atas^000000
+Berat : ^7777770^000000
+Level Persyaratan : ^7777771^000000
+Profesi : ^777777Semua^000000
+#
+20087#
+^ff0000Tidak bisa ditransaksikan.^000000
+Naga adalah satu dari 12 zodiac cina.
+빛나는 여의주를 품고 있어 소원을 들어줄 것 만 같다.
+Jenis : ^777777Kostum^000000
+Lokasi : ^777777Atas^000000
+Berat : ^7777770^000000
+Level Persyaratan : ^7777771^000000
+Profesi : ^777777Semua^000000
+#
 20091#
+#
+20092#
+'sale'이라는 글자가 씌어있는 꽤나 실용적인 표지판. 노점을 열때 활용하면 안성맞춤일듯 싶다.
+계열 : ^777777의상장비^000000
+위치 : ^777777상단 ^000000무게 : ^7777770^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777전 직업^000000
+#
+20093#
+착용할 경우 착용자의 정신력을 한계까지 끌어내어 마법을 사용하는 횟수를 늘려준다는 신비한 모자지만 활동성에 대해서는…말하고 싶지 않을 듯…
+계열 : ^777777의상장비^000000
+위치 : ^777777상단 ^000000무게 : ^7777770^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777전 직업^000000
+#
+20094#
+머리를 묶어 고정하는데 쓰이며 위의 작은 리본은 귀여움을 한껏 강조해준다
+계열 : ^777777의상장비^000000
+위치 : ^777777상단 ^000000무게 : ^7777770^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777전 직업^000000
+#
+20095#
+머리를 묶어 고정하는데 쓰이며 위의 작은 리본은 귀여움을 한껏 강조해준다
+계열 : ^777777의상장비^000000
+위치 : ^777777상단 ^000000무게 : ^7777770^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777전 직업^000000
+#
+20096#
+머리를 묶어 고정하는데 쓰이며 위의 작은 리본은 귀여움을 한껏 강조해준다
+계열 : ^777777의상장비^000000
+위치 : ^777777상단 ^000000무게 : ^7777770^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777전 직업^000000
+#
+20097#
+머리를 묶어 고정하는데 쓰이며 위의 작은 리본은 귀여움을 한껏 강조해준다
+계열 : ^777777의상장비^000000
+위치 : ^777777상단 ^000000무게 : ^7777770^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777전 직업^000000
 #
 20102#
 #
@@ -49454,6 +49575,24 @@ Profesi : ^777777Semua Profesi^000000
 20108#
 #
 20109#
+#
+20110#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+12지신 중 뱀의 기운이 가득한 모자.
+똬리를 틀고 있어 공격 할 것 같은 느낌이다.
+계열 : ^777777의상장비^000000
+위치 : ^777777상단 ^000000무게 : ^7777770^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777전 직업^000000
+#
+20111#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+12지신 중 뱀의 기운이 가득한 모자.
+똬리를 틀고 있어 공격 할 것 같은 느낌이다.
+계열 : ^777777의상장비^000000
+위치 : ^777777상단 ^000000무게 : ^7777770^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777전 직업^000000
 #
 20112#
 #
@@ -49879,7 +50018,7 @@ VIT 90 atau lebih All State +1, MaxHP +1%, MaxSP +1%,  disetiap tingkat tempa,  
 AGI 90 atau lebih All State +1, MaxHP +1%, MaxSP +1%,  disetiap tingkat tempa,  AGI +1.
 DEX 90 atau lebih All State +1, MaxHP +1%, MaxSP +1%,  disetiap tingkat tempa,  DEX +1.
 LUK 90 atau lebih All State +1, MaxHP +1%, MaxSP +1%,  disetiap tingkat tempa,  LUK +1.
-Class : ^777777Costume Type^000000 Defense : ^77777715^000000
+Class : ^777777Kostum^000000 Defense : ^77777715^000000
 Weight : ^77777710^000000
 Required Lv : ^7777771^000000
 Job : ^777777Semua job^000000
@@ -49889,7 +50028,7 @@ Ketika dipakai bersama Mad Bunny, berubah menjadi monster Piamat untuk 10 detik 
 Ketika berubah, HP berkurang 30 HP per detik, and Matk + 5 di setiap kelipatan tempa +3
 Menempa Piamat Ribbon, kemungkinan transform juga akan meningkat 
 Matk + 10, INT + 1, DEX + 1.
-Class : ^777777Costume Type^000000 Defense : ^7777770^000000
+Class : ^777777Kostum^000000 Defense : ^7777770^000000
 Weight : ^77777710^000000
 Required Lv : ^77777730^000000
 Job : ^777777Semua Job^000000
@@ -49898,7 +50037,7 @@ Job : ^777777Semua Job^000000
 #
 20727#
 Sayap emas berkilau
-Class : ^777777Costume Type ^000000 Weight : ^7777770^000000
+Class : ^777777Kostum ^000000 Weight : ^7777770^000000
 Required Lv : ^7777771^000000
 Job : ^777777Semua job^000000
 #
@@ -49907,7 +50046,7 @@ Jubah Loyalis.
 STR + 2, MHP + 10%.
 Anti knucked back
 ketika mengunakan item ini serangan yang diterima dari musuh berelemen apapun akan bertambah sebesar 20%.
-Jenis: ^777777Costume^000000 Defense : ^77777730^000000
+Jenis: ^777777Kostum^000000 Defense : ^77777730^000000
 Berat: ^77777720^000000
 Digunakan Lv. : ^77777780^000000
 Profesi : ^777777Semua Profesi^000000
@@ -49918,8 +50057,8 @@ Profesi : ^777777Semua Profesi^000000
 #
 20737#
 Sayap dari binatang kuno yang berasal dari Asia
-Class : ^777777Costume armor^000000
-Location : ^777777Costume Type ^0000
+Class : ^777777Kostum^000000
+Location : ^777777Kostum ^0000
 Weight : ^7777770^000000
 Required Lv : ^7777771^000000
 Job : ^777777Semua job^000000

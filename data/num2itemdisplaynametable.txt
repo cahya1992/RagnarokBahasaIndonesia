@@ -1003,9 +1003,9 @@
 1743#Glorious Hunter Bow#
 1744#Bow#
 1745#Bow#
-1746#Elven Bow#
-1747#P.Bow¥°#
-1748#P.Bow¥±#
+1746#Bow#
+1747#Bow#
+1748#Bow#
 1749#Bow#
 1750#Arrow#
 1751#Arrow#
@@ -3037,9 +3037,9 @@
 5096#Mask#
 5097#Hat#
 5098#Mask#
-5099#Neko Mimi#
+5099#Headgear#
 5100#Helm#
-5101#Takius Blindfold#
+5101#Headgear#
 5102#Accessory#
 5103#Hat#
 5104#Helm#
@@ -3056,7 +3056,7 @@
 5115#Hat#
 5116#Hat#
 5117#Accessory#
-5118#Head band#
+5118#Headband#
 5119#Hat#
 5120#Hat#
 5121#Mask#
@@ -3194,7 +3194,7 @@
 5253#Hat#
 5254#Hat#
 5255#Hat#
-5256#Valkyrie Feather Band#
+5256#Headband#
 5257#Headgear#
 5258#Hat#
 5259#Hat#
@@ -3206,7 +3206,7 @@
 5265#Apple of Archer#
 5266#Bunny Band#
 5267#Sakkat#
-5268#Grand Circlet#
+5268#Headgear#
 5269#Hairband#
 5270#Hat#
 5271#Helm#
@@ -3218,7 +3218,7 @@
 5277#Accessory#
 5278#Accessory#
 5279#Headgear#
-5280#Baphomet Horns#
+5280#Headgear#
 5281#Headgear#
 5282#Hat#
 5283#Hat#
@@ -3244,11 +3244,11 @@
 5303#Hairband#
 5304#Hat#
 5305#Accessory#
-5306#Freyja Crown#
+5306#Headgear#
 5307#Hat#
 5308#Hat#
 5309#Mask#
-5310#Shining Electric Bulb Hairband#
+5310#Headgear#
 5311#Accessory#
 5312#Hat#
 5313#Helm#
@@ -3258,18 +3258,18 @@
 5317#Hat#
 5318#Hat#
 5319#Hat#
-5320#Champion Wreath#
-5321#Indonesian Bandana#
+5320#Headgear#
+5321#Headgear#
 5322#Accessory#
 5323#Hat#
 5324#Hat#
 5325#Glasses#
-5326#Masquerade C#
+5326#Accesory#
 5327#Headgear#
-5328#Evil Wing Ears C#
-5329#Dark Blindfold C#
-5330#kRO Drooping Kitty C#
-5331#Corsair C#
+5328#Headgear#
+5329#Accesory#
+5330#Headgear#
+5331#Headgear#
 5332#Mask#
 5333#Hat#
 5334#Hat#
@@ -3298,7 +3298,7 @@
 5357#Headgear#
 5358#Accessory#
 5359#Hat#
-5360#Hyuke's Black Cat Ears#
+5360#Headgear#
 5361#Accessory#
 5362#Accessory#
 5363#Helm#
@@ -3317,7 +3317,7 @@
 5376#Hairband#
 5377#Accessory#
 5378#Hat#
-5379#Balloon Hat#
+5379#Hat#
 5380#Hat#
 5381#Hat#
 5382#Accessory#
@@ -3329,12 +3329,12 @@
 5388#Hat#
 5389#Accessory#
 5390#Hat#
-5391#Toast#
+5391#Headgear#
 5392#Hat#
 5393#Hat#
-5394#Bubblegum Lower#
-5395#Tiraya Bonnet#
-5396#Jasper Crest#
+5394#Accesory#
+5395#Hat#
+5396#Headgear#
 5397#Mask#
 5398#Helm#
 5399#Hat#
@@ -3349,7 +3349,7 @@
 5408#Hat#
 5409#Hat#
 5410#Hat#
-5411#White Snake Hat#
+5411#Hat#
 5412#Accessory#
 5413#Hat#
 5414#Hat#
@@ -3523,7 +3523,7 @@
 5582#Helm#
 5583#Hat#
 5584#Helm#
-5585#Rune Hairband#
+5585#Hairband#
 5586#Hat#
 5587#Hat#
 5588#Helm#
@@ -3533,7 +3533,7 @@
 5592#Accessory#
 5593#Hat#
 5594#Accessory#
-5595##
+5595#Headgear#
 5596#Accessory#
 5597#Headgear#
 5598#Helm#
@@ -3556,10 +3556,10 @@
 5615#Accessory#
 5616#Hat#
 5617#Accessory#
-5618#Cat Hat#
+5618#Hat#
 5619#Hairband#
 5620#Helm#
-5621#Sheep Hat#
+5621#Hat#
 5622#Hat#
 5623#Hat#
 5624#Glasses#
@@ -3585,12 +3585,12 @@
 5644#Mask#
 5645#Hat#
 5646#Mask#
-5647#Bunny Band#
-5648#Centimental Flower#
-5649#Apple Of Archer#
-5650#Elven Ears#
-5651#Brooch#
-5652#Magestic Goat#
+5647#Headband#
+5648#Accesory#
+5649#Hat#
+5650#Accesory#
+5651#Accesory#
+5652#Headgear#
 5653#Headgear#
 5654#Headgear#
 5655#Hat#
@@ -3599,7 +3599,7 @@
 5658#Hat#
 5659#Hat#
 5660#Hat#
-5661#Red Pirate Bandana#
+5661#Hat#
 5662#Helm#
 5663#Helm#
 5664#Helm#
@@ -3655,16 +3655,16 @@
 5751#Hat#
 5752#Mask#
 5753#Hat#
-5754#Blazing Soul#
+5754#Headgear#
 5755#Mask#
-5756#Wind Whisper#
+5756#Headgear#
 5757#Helm#
 5758#Hat#
 5759#Headgear#
 5760#Hat#
 5761#Hat#
 5762#Helm#
-5763##
+5763#Headgear#
 5764#Hat#
 5765#Accessory#
 5766#Hat#
@@ -3705,21 +3705,21 @@
 5802#Hat#
 5803#Headgear#
 5804#Glasses#
-5805#Victorious Coronet#
-5806#Poem Natalia Hat#
+5805#Headgear#
+5806#Hat#
 5807#Hat#
 5808#Helm#
 5809#Hat#
-5810#Ph.D Hat V#
+5810#Hat#
 5811#Accessory#
-5812#Hat Of Expert#
+5812#Hat#
 5813#Hat#
 5814#Hat#
 5815#Headgear#
 5816#Hat#
-5817#Valentine's Emblem#
+5817#Accesory#
 5818#Hat#
-5819#Circlet#
+5819#Headgear#
 5820#Accessory#
 5821#Headgear#
 5822#Hat#
@@ -3746,7 +3746,7 @@
 5846#Headgear#
 5847#Helm#
 5848#Headgear#
-5849#Doctor Hairband#
+5849#Hairband#
 5850#Hat#
 5851#Helm#
 5852#Helm#
@@ -3991,7 +3991,7 @@
 6192#Spell Book(Storm Gust)#
 6193#Spell Book(Lord Of Vermilion)#
 6194#Spell Book(Meteor Storm)#
-6195#Spell Book(Curmit)#
+6195#Spell Book(Comet)#
 6196#Spell Book(Tetra Voltex)#
 6197#Spell Book(Thunder Storm)#
 6198#Spell Book(Jupitel Thunder)#
@@ -4202,11 +4202,11 @@
 6415#Strange Embryo#
 6416##
 6417#Silvervine Fruit#
-6418#Aclass Coin#
-6419#Bclass Coin#
-6420#Cclass Coin#
-6421#Dclass Coin#
-6422#Dclass Coin#
+6418#A Class Coin#
+6419#B Class Coin#
+6420#C Class Coin#
+6421#D Class Coin#
+6422#E Class Coin#
 6423#Seagod Anger#
 6424#Spirit Piece#
 6425#Halloween Certificate#
@@ -6858,7 +6858,7 @@
 13047#Dagger#
 13048#Damascus#
 13049#Dagger#
-13050#P.Dagger¥°#
+13050#Dagger#
 13051#P.Dagger¥±#
 13052#Dagger#
 13053#Moonlight Sword#
@@ -6888,12 +6888,12 @@
 13082##
 13083##
 13084##
-13085##
+13085#Dagger#
 13086##
 13087##
 13088#Dagger#
-13089##
-13090##
+13089#Dagger#
+13090#Dagger#
 13091##
 13092#RWC Memory Knife#
 13093##
@@ -7083,35 +7083,35 @@
 13409#Sword#
 13410#Valorous Gladiator Blade#
 13411#Brave Gladiator Blade#
-13412#Twin Edge of Naght Sieger#
-13413#Twin Edge of Naght Sieger#
-13414#Elemental Sword#
-13415#Novice Falchion#
-13416#Glorious Flamberge#
-13417#Glorious Rapier#
-13418#Glorious Holy Avenger#
-13419#One-Hand Sword#
-13420#One-handed Sword#
+13412#Sword#
+13413#Sword#
+13414#Sword#
+13415#Sword#
+13416#Sword#
+13417#Sword#
+13418#Sword#
+13419#Sword#
+13420#Sword#
 13421#Sword#
 13422#Flamberge#
-13423#P.Sabre¥°#
-13424#P.Sabre¥±#
+13423#Sword#
+13424#Sword#
 13425#Sword#
-13426#Cutlas#
-13427#Solar Sword#
+13426#Sword#
+13427#Sword#
 13428#Sword#
 13431#Sword#
-13433##
-13434#Eden Group Saber III#
-13435##
-13436##
-13437##
-13438##
-13439##
-13440##
-13441##
-13442##
-13444##
+13433#Sword#
+13434#Sword#
+13435#Sword#
+13436#Sword#
+13437#Sword#
+13438#Sword#
+13439#Sword#
+13440#Sword#
+13441#Sword#
+13442#Sword#
+13444#Sword#
 13445##
 13449#Sword#
 13450#Sword#
@@ -8314,7 +8314,7 @@
 15026#Armor#
 15027#Armor#
 15028#Armor#
-15029#Robe Of Affection#
+15029#Robe#
 15030#Robe Of Judgement#
 15031#Eden Group Armor#
 15032#Armor#
@@ -8387,9 +8387,9 @@
 15100##
 15101##
 15102##
-15103##
-15104##
-15105##
+15103#Armor#
+15104#Armor#
+15105#Clothes#
 15110#Armor#
 15111#Armor#
 15116#Armor#
@@ -8400,7 +8400,7 @@
 15121#¿Ê#
 15138#Armor#
 15141#Armor#
-15145##
+15145#Armor#
 15146#Clothes#
 15147#Clothes#
 16000#Mace#
@@ -9421,9 +9421,9 @@
 17222#Anniversary Extravaganza Crate#
 17223#GoCash East West Costume Box#
 17224##
-17226##
-17227##
-17228##
+17226#Infinite Concentration Potion#
+17227#Infinite Awakening Potion#
+17228#Infinite berserk Potion#
 17229##
 17230##
 17231##
@@ -9614,16 +9614,16 @@
 18002#Dark Cannon Ball#
 18003#Soul Cannon Ball#
 18004#Iron Cannon Ball#
-18100#Shooting Star#
-18101#Bow Of Rudra#
+18100#Bow#
+18101#Bow#
 18103#Bow#
 18105##
-18106#Eden Group Bow3#
-18107#bow#
-18108#bow#
-18109#Catapult#
-18110#Big CrossBow#
-18111#Creeper Bow#
+18106#Bow#
+18107#Bow#
+18108#Bow#
+18109#Bow#
+18110#Bow#
+18111#Bow#
 18112#Bow#
 18113#Bow#
 18114#Bow#
@@ -9646,15 +9646,15 @@
 18503#Headgear#
 18504#Headgear#
 18505#Umbala Spirit#
-18506#¾Ç¼¼»ç¸®#
-18507#Elven Ears#
-18508#Garuda Hat#
+18506#Headgear#
+18507#Accesory#
+18508#Hat#
 18509#Hat#
 18510#Hairband#
 18511#Accessory#
-18512##
+18512#Hairband#
 18513#Headgear#
-18514#Eden Group Hat II#
+18514#Hat#
 18515#Headgear#
 18516#Headgear#
 18517#Headgear#
@@ -9664,168 +9664,168 @@
 18521#Accessory#
 18522#Headgear#
 18523#Headgear#
-18524##
+18524#Headgear#
 18525#Headgear#
 18526#Headgear#
-18527#Gloomy Pumpkin Hat#
-18528#¸ğÀÚ#
-18529#hat#
-18530#mask#
-18531#hat#
+18527#Hat#
+18528#Hat#
+18529#Hat#
+18530#Mask#
+18531#Hat#
 18532#Hairband#
 18533#Headgear#
-18534#Fancy Phantom Mask#
-18535##
-18536#accessory#
+18534#Mask#
+18535#Hat#
+18536#Accessory#
 18537#Hairband#
-18538#Spirit Whispers#
-18539#Skull Cap#
-18540#Demon Mask#
-18541#Little Feather Hat#
-18542#Benevolent Guardian#
-18543#Witch Hat#
-18546##
-18547##
-18548##
-18549#hat#
-18550#Asgard Bless#
-18551##
-18552##
-18553#headgear#
-18554#headgear#
-18555#headgear#
+18538#Headgear#
+18539#Hat#
+18540#Mask#
+18541#Hat#
+18542#Hat#
+18543#Hat#
+18546#Accesory#
+18547#Hat#
+18548#Hat#
+18549#Hat#
+18550#Headgear#
+18551#Headgear#
+18552#Hat#
+18553#Headgear#
+18554#Headgear#
+18555#Headgear#
 18556#Glasses#
 18557#Glasses#
-18558#headgear#
+18558#Headgear#
 18559#Headgear#
 18560#Headgear#
 18561#Headgear#
 18562#Headgear#
-18563#headgear#
-18564#headgear#
-18565#headgear#
-18566#headgear#
-18567#headgear#
-18568#headgear#
-18569#headgear#
-18570#headgear#
-18571#headgear#
-18572#headgear#
-18573#headgear#
-18574#headgear#
-18575#headgear#
-18576#headgear#
-18577#headgear#
-18578#headgear#
-18579#headgear#
-18580#headgear#
-18581#headgear#
-18582#headgear#
-18583#headgear#
-18584#headgear#
-18585#headgear#
-18586#headgear#
-18587#headgear#
-18588#headgear#
-18589#headgear#
-18590#headgear#
-18591#headgear#
-18592#headgear#
-18593#headgear#
-18594#headgear#
-18595#headgear#
-18596#headgear#
-18597#headgear#
-18598#headgear#
-18599#headgear#
-18600#headgear#
-18601#headgear#
-18602#headgear#
-18603#headgear#
-18604#headgear#
-18605#headgear#
-18606#headgear#
-18607#headgear#
-18608#headgear#
-18609#headgear#
-18610#headgear#
-18611#headgear#
-18612#headgear#
-18613#headgear#
-18614#headgear#
-18615#headgear#
-18616#headgear#
-18617#headgear#
-18618#headgear#
-18619#headgear#
-18620#headgear#
-18621#headgear#
-18622#headgear#
-18623#headgear#
-18624#headgear#
-18625#headgear#
-18626#headgear#
-18627#headgear#
-18628#headgear#
-18629#headgear#
-18630#headgear#
-18631#headgear#
+18563#Headgear#
+18564#Headgear#
+18565#Headgear#
+18566#Headgear#
+18567#Headgear#
+18568#Headgear#
+18569#Headgear#
+18570#Headgear#
+18571#Headgear#
+18572#Headgear#
+18573#Headgear#
+18574#Headgear#
+18575#Headgear#
+18576#Headgear#
+18577#Headgear#
+18578#Headgear#
+18579#Headgear#
+18580#Headgear#
+18581#Headgear#
+18582#Headgear#
+18583#Headgear#
+18584#Headgear#
+18585#Headgear#
+18586#Headgear#
+18587#Headgear#
+18588#Headgear#
+18589#Headgear#
+18590#Headgear#
+18591#Headgear#
+18592#Headgear#
+18593#Headgear#
+18594#Headgear#
+18595#Headgear#
+18596#Headgear#
+18597#Headgear#
+18598#Headgear#
+18599#Headgear#
+18600#Headgear#
+18601#Headgear#
+18602#Headgear#
+18603#Headgear#
+18604#Headgear#
+18605#Headgear#
+18606#Headgear#
+18607#Headgear#
+18608#Headgear#
+18609#Headgear#
+18610#Headgear#
+18611#Headgear#
+18612#Headgear#
+18613#Headgear#
+18614#Headgear#
+18615#Headgear#
+18616#Headgear#
+18617#Headgear#
+18618#Headgear#
+18619#Headgear#
+18620#Headgear#
+18621#Headgear#
+18622#Headgear#
+18623#Headgear#
+18624#Headgear#
+18625#Headgear#
+18626#Hat#
+18627#Headgear#
+18628#Headgear#
+18629#Headgear#
+18630#Headgear#
+18631#Headgear#
 18632#Hairpin#
 18633#Hairpin#
 18634#Hairpin#
 18635#Hairpin#
-18636#headgear#
-18637#headgear#
-18638#headgear#
-18639#headgear#
-18640#headgear#
-18641#headgear#
-18642#headgear#
-18643#headgear#
-18644#headgear#
-18645#headgear#
-18646#headgear#
-18647#headgear#
-18648#headgear#
-18649#headgear#
-18650#headgear#
-18651#headgear#
-18652#headgear#
-18653#headgear#
-18654#headgear#
-18655#headgear#
-18656#headgear#
-18657#headgear#
-18658#headgear#
-18659#headgear#
-18660#headgear#
-18661#headgear#
-18662#headgear#
-18663#headgear#
-18664#headgear#
-18665#headgear#
-18666#headgear#
-18667#headgear#
-18668#headgear#
-18669#headgear#
-18670#headgear#
-18671#headgear#
-18672#headgear#
-18673#headgear#
-18674#headgear#
-18675#headgear#
-18676#headgear#
-18677#headgear#
-18678#headgear#
-18679#headgear#
-18680#headgear#
-18681#headgear#
-18682#headgear#
-18683#headgear#
-18684#headgear#
+18636#Headgear#
+18637#Headgear#
+18638#Headgear#
+18639#Headgear#
+18640#Headgear#
+18641#Headgear#
+18642#Headgear#
+18643#Headgear#
+18644#Headgear#
+18645#Headgear#
+18646#Headgear#
+18647#Headgear#
+18648#Headgear#
+18649#Headgear#
+18650#Headgear#
+18651#Headgear#
+18652#Headgear#
+18653#Headgear#
+18654#Headgear#
+18655#Headgear#
+18656#Headgear#
+18657#Headgear#
+18658#Headgear#
+18659#Headgear#
+18660#Headgear#
+18661#Headgear#
+18662#Headgear#
+18663#Headgear#
+18664#Headgear#
+18665#Headgear#
+18666#Headgear#
+18667#Headgear#
+18668#Headgear#
+18669#Headgear#
+18670#Headgear#
+18671#Headgear#
+18672#Headgear#
+18673#Headgear#
+18674#Headgear#
+18675#Headgear#
+18676#Headgear#
+18677#Headgear#
+18678#Headgear#
+18679#Headgear#
+18680#Headgear#
+18681#Headgear#
+18682#Headgear#
+18683#Headgear#
+18684#Headgear#
 18685#Hairband#
 18690#glasses#
-18691#headgear#
+18691#Headgear#
 18692#Hat#
 18693#Hat#
 18694#Headgear#
@@ -9921,11 +9921,11 @@
 18784#Headgear#
 18785#Hat#
 18786#Headgear#
-18787#Headgear#
-18788##
-18789##
-18790##
-18791#Accessory#
+18787#Mask#
+18788#Glasses#
+18789#Hat#
+18790#Hat#
+18791#Headgear#
 18792##
 18793#Hat#
 18794#Hat#
@@ -9938,14 +9938,14 @@
 18801#Headgear#
 18802#Headgear#
 18803#Hat#
-18804##
-18805##
-18806##
-18807##
-18808##
-18809##
+18804#Headgear#
+18805#Hat#
+18806#Hat#
+18807#Hat#
+18808#Hat#
+18809#Headgear#
 18810#Helmet#
-18811##
+18811#Headgear#
 18812##
 18813##
 18814##
@@ -10025,7 +10025,7 @@
 18895#Accessory#
 18896#Accessory#
 18897#Accessory#
-18898#headgear#
+18898#Headgear#
 18900#Accessory#
 18901#Hat#
 18907#Hat#
@@ -10681,7 +10681,7 @@
 20035#Accessory#
 20036#Headgear#
 20037#Hat#
-20038##
+20038#Headgear#
 20039#Headgear#
 20040#Headgear#
 20041#Headgear#
@@ -10706,7 +10706,15 @@
 20074#Hat#
 20084#Headgear#
 20085#Headgear#
+20086#Hat#
+20087#Hat#
 20091#Headgear#
+20092#Headgear#
+20093#Hat#
+20094#Hairband#
+20095#Hairband#
+20096#Hairband#
+20097#Hairband#
 20102#Headgear#
 20103#Headgear#
 20104#Headgear#
@@ -10715,6 +10723,8 @@
 20107#Headgear#
 20108#Headgear#
 20109#Headgear#
+20110#Hat#
+20111#Hat#
 20112#Headgear#
 20113#Headgear#
 20114#Headgear#
@@ -11187,7 +11197,7 @@
 24003#Shadow Shoes#
 24004#Shadow Accesory#
 24005#Shadow Accesory#
-24006#Shadow Weapon#
+24006#Shadow Armor#
 24007#Shadow Weapon#
 24008#Shadow Shield#
 24009#Shadow Shoes#
@@ -11429,12 +11439,12 @@
 24245#Shadow Armor#
 28000#Katar#
 28001#Katar#
-28002##
+28002#Katar#
 28005#Katar#
 28007#Katar#
 28100#Two-Handed Axe#
 28101#Axe#
-28102##
+28102#Axe#
 28103#Axe#
 28105#Two-handed Axe#
 28106#Two-handed Axe#
