@@ -205,32 +205,32 @@ Tidak cukup HP#
 Skill gagal#
 Steal gagal#
 Dengan#
-Evenom gagal#
+Envenom gagal#
 Kamu tidak bisa menggunakan ID ini di server ini#
-Speed naik#
-Speed turun#
-/Memo: Untuk mengingat suatu tempat sebagai Warp Point (Kalau kamu Acolyte)#
-Area Random#
+Kecepatan gerak naik#
+Kecepatan gerak turun#
+/Memo: Untuk mengingat lokasi sebagai Warp Point (Profesi Acolyte)#
+Area acak#
 Pilih area untuk Warp#
 Skill Lv tidak cukup#
 Tidak ada tempat yang diingat#
-Kamu belum mempelajari Warp#
+Kamu belum mempelajari skill Warp#
 Tersimpan sebagai Warp Point.#
 Batal#
 Akan ada kelambatan setelah menggunakan skill#
 Kamu tidak bisa mengambil barang ini karena kelebihan berat.#
 Melebihi kapasitas maksimum#
 Barang Jualan#
-Lepas Cart#
+Lepas Gerobak#
 Membuka toko jalanan#
-Silahkan namakan tokomu#
+Silahkan masukkan nama Toko#
 Tokoku#
 Toko Merchant#
 Barang yang dibeli#
 %s Pembelian gagal %s#
 Stok Habis.#
 %s sebanyak %d buah terjual.#
-Barang yang bisa dimasukkan ke toko#
+Barang yang bisa dijual#
 Skill gagal karena kamu tidak mempunyai cukup Zeny.#
 Pilih target#
 /pk on: PK On. /pk off: PK Off.#
@@ -602,7 +602,7 @@ Dilepas#
 Apakah kamu yakin mau memberi makan peliharaan ?#
 Hanya angka(0~9) yang tersedia#
 Kamu tidak bisa menjual barang yang belum dispesifikasi.#
-Barang pada posisi 0 Zeny muncul. Lanjutkan ?#
+Terdapat barang dengan harga 0 Zeny. Tetap jual?#
 [Daftar Ekspresi]#
 xx6#
 xx7#
@@ -632,7 +632,7 @@ Slow Poison dilakukan.#
 Slow Poison selesai.#
 Regenerasi HP/SP ditingkatkan#
 Magnificat selesai.#
-Luck ditingkatkan#
+LUK ditingkatkan#
 Gloria selesai.#
 Serangan ganda untuk satu pukulan dilakukan#
 Lex Eterna selesai.#
@@ -649,9 +649,9 @@ STR kembali ke normal#
 Energy Coat dilakukan.#
 Energy Coat selesai.#
 Armor hancur#
-Armor baru saja dibetulkan#
+Armor diperbaiki#
 Senjata hancur.#
-Senjata baru saja dibetulkan#
+Senjata diperbaiki#
 Invisibility dilakukan.#
 Invisibility selesai.#
 N/A#
@@ -934,10 +934,10 @@ Proses Gameguard sedang berjalan. Tunggu sebentar dan restart game.#
 Proses Gameguard sedang berjalan. Tunggu sebentar dan restart game.#
 GameGuard tidak terdeteksi, cobalah restart program.#
 Gagal untuk membaca program scan dan gameguard karena memory terlalu rendah atau ada error pada komputer.#
-Homunculus informasi#
-Homunculus daftar Skill#
+Informasi Homunculus#
+Daftar Skill Homunculus#
 Nama dari homunculus maximal adalah 23 huruf atau kurang#
-Kamu bisa merubahnya hanya satu kali saja only once. nama homunculus kamu akan menjadi^0000ff^0000ff %s^000000^000000. Apakah ini sudah benar?#
+Nama hanya bisa diubah satu kali saja. Nama homunculus akan menjadi^0000ff^0000ff %s^000000^000000. Apakah ini sudah benar?#
 AFK = Away From Keyboard#
 [Auto Msg] #
 Menyalakan Pesan otomatis ketika kamu tidak ada ditempat#
@@ -1517,7 +1517,7 @@ Sound Effect off#
 /panic#
 /whisp#
 Kosong#
-Berguna jika saat digabungkan dengan Kartu#
+Skill hanya bisa digunakan ketika memakai gerobak.#
 Membutuhkan [Thron seed]#
 Membutuhkan [Bloodsucking plant seed]#
 Gagal menggunakan skill#
@@ -1603,12 +1603,12 @@ Jangan memperlihatkan icon Battlefield.#
 Berpindah lokasi ke Battlefield#
 Posisi memasuki Battlefield#
 Seseorang#
-[%s] memberikanmu '%d' serangan.#
+[%s] memberi serangan sebesar '%d'.#
 [%s] mendapatkan serangan dari [%s] selama '%d'.#
 [%s] menerima serangan sebesar '%d'.#
 [%s] memberikan [%s] serangan dari '%d'.#
 %s sebanyak %d buah jatuh#
-Mengalahkan [%s] monster dari [%s] quest. (%d/%d)#
+Quest [%s], mengalahkan monster [%s]. (%d/%d)#
 %s Quest telah dihapus.#
 [%s] dimiliki#
 Mendapat '%d' Base EXP#
@@ -1829,7 +1829,7 @@ Tidak ada daftar yang ditemukan dalam pencarian#
 Penghapusan daftar gagal#
 Daftar tidak memenuhi syarat, jadi pencarian dibatalkan#
 Kamu tidak memiliki informasi pembayaran#
-Mengambil screenshot saat bertransaksi#
+Screenshot saat transaksi#
 [Trade_%s]#
 New Insurance Package akan terpakai secara otomatis saat karakter kamu mati#
 percakapan#
@@ -2072,10 +2072,10 @@ Undangan grup hanya tersedia bagi ketua grup saja.#
 Masukan Nama Item :#
 Kamu harus memasukkan nama karakter.#
 Kamu harus memasukkan nama grup.#
-Guild helper#
-Anda tidak bergabung kedalam guild manapun.#
-mengorganisasikan sebuah guild#
-Nama Guild yang anda ciptakan#
+Bantuan Guild#
+Belum bergabung dengan Guild.#
+Membuat Guild#
+Masukkan nama Guild#
 Kata bantuan penciptaan guild#
 Apa sistem guild#
 Kamu harus memasukkan nama guild.#
@@ -2087,7 +2087,7 @@ Informasi file#
 Daftar file#
 %s Barang tidak bisa ditransaksikan.#
 Membubarkan guild#
-Nama guild yang dibubarkan#
+Masukkan nama guild#
 Karakter tersebut sedang tidak login atau tidak ada.#
 Pemanggilan falcon telah gagal.#
 %d%% (Basic 100%% + Premium %d%% + %sServer %d%% )#
@@ -2465,19 +2465,19 @@ Current Zeny: %s Zeny#
 Zeny#
 The Maximum amount is 2,147,483,647 Zeny#
 Your bullet is not enough#
-You entered more than 1 Billion Zeny, the price will be set to 1 Billion Zeny.#
+Harga yang Kamu masukkan lebih dari 1 milyar zeny, harga otomatis diubah menjadi 1 milyar zeny.#
 AuthTicket is Not Valid#
 ErrorCategory : %d, ErrorCode : %d (%d,%d,%d,%d)#
 %d%% ( Basic 100%% + Premium %d%% + PCCafe %d%% + %s Server %d%% )#
 Basic item drop rate from monster hunting is increased for %dmins by %dtimes.#
 Basic item drop rate from monster hunting is increased for %dhour %.2dmins  by %dtimes.#
-%s's price#
+Harga %s#
 100000000#
- ^ff0000%d^0000ff Hundred Million#
+ lebih dari ^ff0000%d^0000ff juta ^0000ffzeny^000000.#
 10000000#
-^ff0000%d^0000ff0,000,000#
-It is more than ^0000ffZeny^000000.\n Is it correct?#
-Safe check for over 10,000,000Zeny#
+ lebih dari ^ff0000%d^0000ff0,000,000^000000 zeny.#
+ Apakah sudah benar??#
+Harga > 10 juta Zeny#
 https://www.warpportal.com/account/login.aspx?ReturnUrl=%2faccount%2fpayment.aspx#
 https://kepler.warpportal.com/steam/purchase/?step=1&steamid=76561198071003044&game=rose&accountname=khanhtest111&lang=en#
 A giant crevice appeared in Bifrost, the bridge between Splendide, the end of the world and the floating continent of Alfheim, and you do not know the source of the labyrinth forest.#
@@ -2492,12 +2492,12 @@ Go to#
 Bandingkan#
 Now you are trying to mount the gun equipped with bullet does not meet#
 Now you are trying to mount the guns and bullets will not fit mounted#
-Has not registered to sell the item. Please register to sell the item#
+Kamu belum memasukkan barang dagangan. Silakan masukkan barang terlebih dahulu#
 ITEM#
 Guild storage is not available.#
 Guild is not subscribed to. After signing up, please use #
 Two other guild members are in use. Please use it after a while.#
-Storage Permit#
+Gld Storage#
 Guild Storage#
 You do not have permission to use guild storage.#
 Limited Sale Registration Window#
@@ -2557,12 +2557,12 @@ Shotguns should be equipped with bullets.#
 Rifle should be equipped with bullets.#
 Pair of Revolver should be equipped with bullets.#
 성속성 블릿을 장착해야 합니다#
-Item Sell History#
+Catatan Penjualan#
 Item Purchase History#
 Grenade Launcher should be equipped with bullets.#
 [Heat barrel],[Last Stand],[Platinum Alter] cannot be used while sitting.#
 Cannot use skill in this map.#
-If you are using a guild warehouse warehouse all items will disappear.#
+Jika Kamu menggunakan gudang guild, semua barang akan hilang.#
 http://ragnarok.gamesamba.com/paytest.html#
 Please enter a password to login.#
 Pet Evolution#

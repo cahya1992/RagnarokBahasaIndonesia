@@ -3779,19 +3779,19 @@ StateIconList[EFST_IDs.EFST_MONSTER_TRANSFORM] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Transforms into a monster"
+      "Berubah bentuk menjadi monster"
     }
   }
 }
 StateIconList[EFST_IDs.EFST_SIT] = {
   descript = {
-    {"Sitting", COLOR_TITLE_TOGGLE}
+    {"Duduk", COLOR_TITLE_TOGGLE}
   }
 }
 StateIconList[EFST_IDs.EFST_ALL_RIDING] = {
   descript = {
     {
-      "Board/Embark Status",
+      "Mengendarai Tunggangan",
       COLOR_TITLE_TOGGLE
     }
   }
@@ -3802,7 +3802,7 @@ StateIconList[EFST_IDs.EFST_SKF_MATK] = {
   descript = {
     {"%s", COLOR_TIME},
     {
-      "MATK Increase"
+      "MATK meningkat"
     }
   }
 }
@@ -3812,7 +3812,7 @@ StateIconList[EFST_IDs.EFST_SKF_ATK] = {
   descript = {
     {"%s", COLOR_TIME},
     {
-      "ATK Increase"
+      "ATK meningkat"
     }
   }
 }
@@ -3822,7 +3822,7 @@ StateIconList[EFST_IDs.EFST_SKF_ASPD] = {
   descript = {
     {"%s", COLOR_TIME},
     {
-      "ATK Speed Increase"
+      "ASPD meningkat"
     }
   }
 }
@@ -3832,7 +3832,7 @@ StateIconList[EFST_IDs.EFST_SKF_CAST] = {
   descript = {
     {"%s", COLOR_TIME},
     {
-      "Decrease Variable Casting Time"
+      "Mengurangi waktu cast variabel"
     }
   }
 }
@@ -3842,7 +3842,7 @@ StateIconList[EFST_IDs.EFST_REWARD_PLUSONLYJOBEXP] = {
   descript = {
     {"%s", COLOR_TIME},
     {
-      "Gain extra JOB Exp"
+      "Mendapat tambahan Job EXP"
     }
   }
 }
@@ -3856,10 +3856,10 @@ StateIconList[EFST_IDs.EFST_ENERVATION] = {
 	},
     {"%s", COLOR_TIME},
     {
-	  "Decrease ATK"
+	  "Mengurangi ATK"
 	},
     {
-	  "All the Spirit Sphere are destroyed"
+	  "Semua Spirit Sphere hilang"
 	}
   }
 }
@@ -3868,18 +3868,18 @@ StateIconList[EFST_IDs.EFST_GROOMY] = {
   posTimeLimitStr = 2,
   descript = {
     {
-      "Masquerade: Gloomy (Mask: Depression)",
+      "Masquerade: Gloomy",
       COLOR_TITLE_DEBUFF
     },
     {"%s", COLOR_TIME},
     {
-      "Attack Speed, Accuracy Decrease"
+      "Mengurangi ASPD dan akurasi."
     },
     {
-      "When avoided, familiar is clear"
+      "Melepas tunggangan."
     },
     {
-      "Unable to use Familiar"
+      "Tidak bisa mengendarai tunggangan."
     }
   }
 }

@@ -26,7 +26,7 @@ paramk.rsw#Pasar Para#
 
 // ep15.2 Memory Record
 verus01.rsw#Laboratorium-OPTATIO#
-verus02.rsw#Gedung Penelitian-WISH#
+verus02.rsw#Bangunan Penelitian-WISH#
 un_bk_q.rsw#Bunker Bawah Tanah#
 un_bunker.rsw#Bunker Bawah Tanah#
 un_myst.rsw#Terowongan Bawah Tanah#
@@ -142,7 +142,7 @@ treasure_n2.rsw#이즈루드 난파선 2층#
 moc_prydn1.rsw#Morocc Nightmare Pyramids#
 moc_prydn2.rsw#Morocc Nightmare Pyramids#
 
-eclage.rsw#Eclage, Desa Berhutan#
+eclage.rsw#Eclage, Desa di tengah hutan#
 ecl_fild01.rsw#Dataran Eclage#
 ecl_in01.rsw#Dalam Eclage Area 1#
 ecl_in02.rsw#Dalam Eclage Area 2#
@@ -701,26 +701,26 @@ pay_fild08.rsw#Hutan Payon Area 8#
 pay_fild09.rsw#Hutan Payon Area 9#
 pay_fild10.rsw#Hutan Payon Area 10#
 pay_fild11.rsw#Hutan Payon Area 11#
-new_1-1.rsw#Tempat Latihan#
-new_2-1.rsw#Tempat Latihan#
-new_3-1.rsw#Tempat Latihan#
-new_4-1.rsw#Tempat Latihan#
-new_5-1.rsw#Tempat Latihan#
-new_1-2.rsw#Tempat Latihan#
-new_2-2.rsw#Tempat Latihan#
-new_3-2.rsw#Tempat Latihan#
-new_4-2.rsw#Tempat Latihan#
-new_5-2.rsw#Tempat Latihan#
-new_1-3.rsw#Tempat Latihan#
-new_2-3.rsw#Tempat Latihan#
-new_3-3.rsw#Tempat Latihan#
-new_4-3.rsw#Tempat Latihan#
-new_5-3.rsw#Tempat Latihan#
-new_1-4.rsw#Tempat Latihan#
-new_2-4.rsw#Tempat Latihan#
-new_3-4.rsw#Tempat Latihan#
-new_4-4.rsw#Tempat Latihan#
-new_5-4.rsw#Tempat Latihan#
+new_1-1.rsw#Tempat Pelatihan#
+new_2-1.rsw#Tempat Pelatihan#
+new_3-1.rsw#Tempat Pelatihan#
+new_4-1.rsw#Tempat Pelatihan#
+new_5-1.rsw#Tempat Pelatihan#
+new_1-2.rsw#Tempat Pelatihan#
+new_2-2.rsw#Tempat Pelatihan#
+new_3-2.rsw#Tempat Pelatihan#
+new_4-2.rsw#Tempat Pelatihan#
+new_5-2.rsw#Tempat Pelatihan#
+new_1-3.rsw#Tempat Pelatihan#
+new_2-3.rsw#Tempat Pelatihan#
+new_3-3.rsw#Tempat Pelatihan#
+new_4-3.rsw#Tempat Pelatihan#
+new_5-3.rsw#Tempat Pelatihan#
+new_1-4.rsw#Tempat Pelatihan#
+new_2-4.rsw#Tempat Pelatihan#
+new_3-4.rsw#Tempat Pelatihan#
+new_4-4.rsw#Tempat Pelatihan#
+new_5-4.rsw#Tempat Pelatihan#
 anthell01.rsw#Neraka Semut Area 1#
 anthell02.rsw#Neraka Semut Area 2#
 gef_dun00.rsw#Geffen Dungeon Area 1#
